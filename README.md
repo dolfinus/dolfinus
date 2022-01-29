@@ -1,16 +1,17 @@
-### Hi there 👋
+<a href="https://github.com/dolfinus">
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dolfinus&theme=github_dark">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dolfinus&theme=github_dark">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dolfinus&theme=github_dark"><br>
+    </p>
+</a> 
 
+
+    👋 Welcome to my profile!
+    
+   
 <!--
-**dolfinus/dolfinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p align="center">
+ <img align="center" src="https://wakatime.com/badge/user/847d9477-bdf4-4be9-9660-993eb1665dc7.svg">
+ </p>
+--!>
