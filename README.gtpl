@@ -16,12 +16,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
-### 🔨 My Recent Pull Requests
-
-{{- range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-{{- end }}
-
 ### 💼 Stack I'm Working With
 
 <p align="center">
@@ -40,6 +34,12 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E95420?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 </p>
+
+### 🔨 My Recent Pull Requests
+
+{{- range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
 
 ### 🌱 My Pet Projects
 
