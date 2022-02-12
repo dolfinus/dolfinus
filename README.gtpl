@@ -12,13 +12,13 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 ### 👷 Currently Working On
 
-{{ range recentContributions 5 }}
+{{- range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
 ### 🔨 My Recent Pull Requests
 
-{{ range recentPullRequests 5 }}
+{{- range recentPullRequests 5 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
@@ -41,7 +41,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 ### 🌱 My Pet Projects
 
-{{ range recentRepos 3 }}
+{{- range recentRepos 3 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 
@@ -77,7 +77,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 </p>
 
 ### ⭐ Recent Stars
-{{ range recentStars 5 }}
+
+{{- range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
