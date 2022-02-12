@@ -37,6 +37,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
   <img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E95420?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 </p>
 
 ### 🌱 My Pet Projects
