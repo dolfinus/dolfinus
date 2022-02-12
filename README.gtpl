@@ -4,14 +4,6 @@ I'm a Python Developer (MLOps & Web) who loves making high-quality applications 
 
 I'm also into Chemistry, Physics and Astronomy, and want to learn more about how the Universe works.
 
-<!--
-Inspired by
-https://habr.com/ru/post/649363/
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
-https://github.com/coderjojo/creative-profile-readme
-https://github.com/maximousblk/maximousblk
--->
-
 ### 📫 How To Reach Me:
 
 - Website: [crystalls.info](https://crystalls.info/)
@@ -140,3 +132,13 @@ https://github.com/maximousblk/maximousblk
       <img src="https://hit.yhype.me/github/profile?user_id=4661021"/>
     </a>
 </p>
+
+<details>
+  <summary>Inspired by</summary>
+  <ul>
+    <li><a href="https://github.com/maximousblk/maximousblk">@maximousblk</a> Github profile</li>
+    <li><a href="https://github.com/coderjojo/creative-profile-readme">Awesome Developer Profile</a> repo</li>
+    <li><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Awesome GitHub Profile README</a> repo</li>
+    <li><a href="https://habr.com/ru/post/649363/">Creating a profile README file on GitHub</a> article</li>
+  </ul>
+</details>
