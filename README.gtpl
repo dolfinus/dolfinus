@@ -12,21 +12,15 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 ### 👷 Currently Working On
 
-
-- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
-- [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
-- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
-- [sqlalchemyorg/changelog](https://github.com/sqlalchemyorg/changelog) - A Sphinx extension to generate changelog files.   An experimental extension that&#39;s used by the SQLAlchemy project and related projects.
-- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 
 ### 🔨 My Recent Pull Requests
 
-
-- [Disallow to use &#34;with&#34; clause with PopenSpawn class](https://github.com/pexpect/pexpect/pull/713) on [pexpect/pexpect](https://github.com/pexpect/pexpect)
-- [[DSX-412] Move from Gitlab CI to Github Actions](https://github.com/MobileTeleSystems/mlflow-rest-client/pull/1) on [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client)
-- [Simply if clauses in AtlasClient.call_api](https://github.com/apache/atlas/pull/158) on [apache/atlas](https://github.com/apache/atlas)
-- [Do not set root logging settings](https://github.com/apache/atlas/pull/157) on [apache/atlas](https://github.com/apache/atlas)
-- [Disable build-docs workflow on a forked repo](https://github.com/tiangolo/fastapi/pull/4410) on [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
 
 ### 💼 Stack I'm Working With
 
@@ -47,10 +41,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 ### 🌱 My Pet Projects
 
-
-- [dolfinus/arkenston-frontend](https://github.com/dolfinus/arkenston-frontend) - A Nuxt.js&#43;Vue.js based frontend for Arkenston project
-- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
-- [dolfinus/arkenston](https://github.com/dolfinus/arkenston) - A Ruby on Rails and Nuxt.js&#43;Vue.js based site with information about crystal structures, compounds, solubilities, theory and so on.
+{{ range recentRepos 3 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
 
 ### 💻 Stack I'm Currently Learning
 
@@ -66,12 +59,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 ### 🔭 Latest Releases I've Contributed To
 
-
-- [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v5.1.5`](https://github.com/andreax79/airflow-code-editor/releases/tag/v5.1.5) - A plugin for Apache Airflow that allows you to edit DAGs in browser
-- [duffelhq/paginator](https://github.com/duffelhq/paginator) [`v1.1.0`](https://github.com/duffelhq/paginator/releases/tag/v1.1.0) - Cursor-based pagination for Elixir Ecto
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.23.1`](https://github.com/mlflow/mlflow/releases/tag/v1.23.1) - Open source platform for the machine learning lifecycle
-- [jupyter/notebook](https://github.com/jupyter/notebook) [`v6.4.8`](https://github.com/jupyter/notebook/releases/tag/v6.4.8) - Jupyter Interactive Notebook
-- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) [`2.0.0`](https://github.com/MobileTeleSystems/mlflow-rest-client/releases/tag/2.0.0) - Python client for MLflow REST API
+{{ range recentReleases 5 }}
+- [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
+{{- end }}
 
 ### 💻 Going To Dive Into
 <p align="center">
@@ -87,12 +77,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 </p>
 
 ### ⭐ Recent Stars
-
-- [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme. 
-- [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
-- [pypa/pip](https://github.com/pypa/pip) - The Python package installer
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
-- [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
+{{ range recentStars 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 
 ### 💻 Software
 <p align="center">
