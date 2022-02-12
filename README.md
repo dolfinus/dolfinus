@@ -28,6 +28,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
   <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-C71A36?style=for-the-badge&logo=Apache%20Spark&logoColor=white"/>
   <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0078D7?style=for-the-badge&logo=MLflow&logoColor=white"/>
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -37,11 +38,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 </p>
 
 ### 🔨 My Recent Pull Requests
+- [Use github.ref instead of github.sha](https://github.com/fountainhead/action-wait-for-check/pull/24) on [fountainhead/action-wait-for-check](https://github.com/fountainhead/action-wait-for-check)
 - [Disallow to use &#34;with&#34; clause with PopenSpawn class](https://github.com/pexpect/pexpect/pull/713) on [pexpect/pexpect](https://github.com/pexpect/pexpect)
 - [[DSX-412] Move from Gitlab CI to Github Actions](https://github.com/MobileTeleSystems/mlflow-rest-client/pull/1) on [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client)
 - [Simply if clauses in AtlasClient.call_api](https://github.com/apache/atlas/pull/158) on [apache/atlas](https://github.com/apache/atlas)
 - [Do not set root logging settings](https://github.com/apache/atlas/pull/157) on [apache/atlas](https://github.com/apache/atlas)
-- [Disable build-docs workflow on a forked repo](https://github.com/tiangolo/fastapi/pull/4410) on [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
 
 ### 🌱 My Pet Projects
 - [dolfinus/arkenston-frontend](https://github.com/dolfinus/arkenston-frontend) - A Nuxt.js&#43;Vue.js based frontend for Arkenston project
@@ -83,11 +84,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 </p>
 
 ### ⭐ Recent Stars
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
-- [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
-- [GoogolDKhan/GoogolDKhan](https://github.com/GoogolDKhan/GoogolDKhan) - Profile Readme
-- [sauravchamoli17/sauravchamoli17](https://github.com/sauravchamoli17/sauravchamoli17) - 
-- [MacroPower/MacroPower](https://github.com/MacroPower/MacroPower) - Profile with dynamic realtime coding stats.
+- [fountainhead/action-wait-for-check](https://github.com/fountainhead/action-wait-for-check) - A GitHub Action that waits for another Check Run to have completed
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
+- [hasura/3factor-example](https://github.com/hasura/3factor-example) - Canonical example of building a 3factor app : a food ordering application
+- [sqlalchemy/sqlalchemy-collectd](https://github.com/sqlalchemy/sqlalchemy-collectd) - Send statistics on SQLAlchemy connection and transaction metrics used by Python applications to the collectd  service.
 
 ### 💻 Software
 <p align="center">
