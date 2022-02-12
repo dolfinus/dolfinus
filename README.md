@@ -102,11 +102,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [fountainhead/action-wait-for-check](https://github.com/fountainhead/action-wait-for-check) - A GitHub Action that waits for another Check Run to have completed
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [hasura/3factor-example](https://github.com/hasura/3factor-example) - Canonical example of building a 3factor app : a food ordering application
-- [sqlalchemy/sqlalchemy-collectd](https://github.com/sqlalchemy/sqlalchemy-collectd) - Send statistics on SQLAlchemy connection and transaction metrics used by Python applications to the collectd  service.
 
 ### 💻 Software
 
@@ -123,7 +123,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 ### 📊 Statistics
 
-<a href="https://github.com/dolfinus">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dolfinus&theme=github_dark">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dolfinus&theme=github_dark">
@@ -131,9 +131,14 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
     </p>
 </a>
 
-<a href="https://wakatime.com/@dolfinus">
-    <p align="center">
-        <img src="https://wakatime.com/badge/user/847d9477-bdf4-4be9-9660-993eb1665dc7.svg">
-        <img src="https://komarev.com/ghpvc/?username=dolfinus&style=flat-square&label=Views"/>
-    </p>
-</a>
+<p align="center">
+    <a href="https://wakatime.com/@dolfinus">
+      <img src="https://wakatime.com/badge/user/847d9477-bdf4-4be9-9660-993eb1665dc7.svg">
+    </a>
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=dolfinus&style=flat-square&label=Views"/>
+    </a>
+    <a href="https://yhype.me/">
+      <img src="https://hit.yhype.me/github/profile?user_id=4661021"/>
+    </a>
+</p>
