@@ -17,13 +17,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [sqlalchemyorg/changelog](https://github.com/sqlalchemyorg/changelog) - A Sphinx extension to generate changelog files.   An experimental extension that&#39;s used by the SQLAlchemy project and related projects.
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 
-### 🔨 My Recent Pull Requests
-- [Disallow to use &#34;with&#34; clause with PopenSpawn class](https://github.com/pexpect/pexpect/pull/713) on [pexpect/pexpect](https://github.com/pexpect/pexpect)
-- [[DSX-412] Move from Gitlab CI to Github Actions](https://github.com/MobileTeleSystems/mlflow-rest-client/pull/1) on [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client)
-- [Simply if clauses in AtlasClient.call_api](https://github.com/apache/atlas/pull/158) on [apache/atlas](https://github.com/apache/atlas)
-- [Do not set root logging settings](https://github.com/apache/atlas/pull/157) on [apache/atlas](https://github.com/apache/atlas)
-- [Disable build-docs workflow on a forked repo](https://github.com/tiangolo/fastapi/pull/4410) on [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-
 ### 💼 Stack I'm Working With
 
 <p align="center">
@@ -42,6 +35,13 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E95420?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 </p>
+
+### 🔨 My Recent Pull Requests
+- [Disallow to use &#34;with&#34; clause with PopenSpawn class](https://github.com/pexpect/pexpect/pull/713) on [pexpect/pexpect](https://github.com/pexpect/pexpect)
+- [[DSX-412] Move from Gitlab CI to Github Actions](https://github.com/MobileTeleSystems/mlflow-rest-client/pull/1) on [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client)
+- [Simply if clauses in AtlasClient.call_api](https://github.com/apache/atlas/pull/158) on [apache/atlas](https://github.com/apache/atlas)
+- [Do not set root logging settings](https://github.com/apache/atlas/pull/157) on [apache/atlas](https://github.com/apache/atlas)
+- [Disable build-docs workflow on a forked repo](https://github.com/tiangolo/fastapi/pull/4410) on [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
 
 ### 🌱 My Pet Projects
 - [dolfinus/arkenston-frontend](https://github.com/dolfinus/arkenston-frontend) - A Nuxt.js&#43;Vue.js based frontend for Arkenston project
