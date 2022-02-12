@@ -39,6 +39,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
   <img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E95420?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 </p>
 
 ### 🌱 My Pet Projects
@@ -81,11 +83,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 </p>
 
 ### ⭐ Recent Stars
-- [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme. 
-- [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
-- [pypa/pip](https://github.com/pypa/pip) - The Python package installer
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
-- [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+- [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
+- [GoogolDKhan/GoogolDKhan](https://github.com/GoogolDKhan/GoogolDKhan) - Profile Readme
+- [sauravchamoli17/sauravchamoli17](https://github.com/sauravchamoli17/sauravchamoli17) - 
+- [MacroPower/MacroPower](https://github.com/MacroPower/MacroPower) - Profile with dynamic realtime coding stats.
 
 ### 💻 Software
 <p align="center">
