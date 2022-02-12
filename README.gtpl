@@ -35,9 +35,10 @@ https://github.com/maximousblk/maximousblk
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+    <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0193e1?style=for-the-badge&logo=MLflow&logoColor=white"/>
     <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-C71A36?style=for-the-badge&logo=Apache%20Spark&logoColor=white"/>
     <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
-    <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0078D7?style=for-the-badge&logo=MLflow&logoColor=white"/>
+    <img alt="Apache Atlas" src="https://img.shields.io/badge/Apache%20Atlas-019884?style=for-the-badge&logo=Apache%20Atlas&logoColor=white"/>
     <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
