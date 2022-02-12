@@ -11,8 +11,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - Telegram: [@dolfinus](https://t.me/dolfinus)
 
 ### 👷 Currently Working On
-
-
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
@@ -20,8 +18,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 
 ### 🔨 My Recent Pull Requests
-
-
 - [Disallow to use &#34;with&#34; clause with PopenSpawn class](https://github.com/pexpect/pexpect/pull/713) on [pexpect/pexpect](https://github.com/pexpect/pexpect)
 - [[DSX-412] Move from Gitlab CI to Github Actions](https://github.com/MobileTeleSystems/mlflow-rest-client/pull/1) on [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client)
 - [Simply if clauses in AtlasClient.call_api](https://github.com/apache/atlas/pull/158) on [apache/atlas](https://github.com/apache/atlas)
@@ -46,8 +42,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 </p>
 
 ### 🌱 My Pet Projects
-
-
 - [dolfinus/arkenston-frontend](https://github.com/dolfinus/arkenston-frontend) - A Nuxt.js&#43;Vue.js based frontend for Arkenston project
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [dolfinus/arkenston](https://github.com/dolfinus/arkenston) - A Ruby on Rails and Nuxt.js&#43;Vue.js based site with information about crystal structures, compounds, solubilities, theory and so on.
@@ -87,7 +81,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 </p>
 
 ### ⭐ Recent Stars
-
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme. 
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
