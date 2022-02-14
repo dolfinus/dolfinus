@@ -56,7 +56,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 - [dolfinus/arkenston-frontend](https://github.com/dolfinus/arkenston-frontend) - A Nuxt.js&#43;Vue.js based frontend for Arkenston project
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
-- [dolfinus/arkenston](https://github.com/dolfinus/arkenston) - A Ruby on Rails and Nuxt.js&#43;Vue.js based site with information about crystal structures, compounds, solubilities, theory and so on.
+- [dolfinus/cryptonite](https://github.com/dolfinus/cryptonite) - Collection of open source cipher and digital signature modules with simple web UI
 
 ### 💻 Stack I'm Currently Learning
 
