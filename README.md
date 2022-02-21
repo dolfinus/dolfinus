@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Test autoapprove action](https://github.com/dolfinus/setuptools-git-versioning/pull/45) on [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning)
+- [Do not approve the same PR twice](https://github.com/hmarr/auto-approve-action/pull/191) on [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action)
 - [Use github.ref instead of github.sha](https://github.com/fountainhead/action-wait-for-check/pull/24) on [fountainhead/action-wait-for-check](https://github.com/fountainhead/action-wait-for-check)
 - [Disallow to use &#34;with&#34; clause with PopenSpawn class](https://github.com/pexpect/pexpect/pull/713) on [pexpect/pexpect](https://github.com/pexpect/pexpect)
 - [[DSX-412] Move from Gitlab CI to Github Actions](https://github.com/MobileTeleSystems/mlflow-rest-client/pull/1) on [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client)
-- [Simply if clauses in AtlasClient.call_api](https://github.com/apache/atlas/pull/158) on [apache/atlas](https://github.com/apache/atlas)
-- [Do not set root logging settings](https://github.com/apache/atlas/pull/157) on [apache/atlas](https://github.com/apache/atlas)
 
 ### 🌱 My Pet Projects
 
@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
+- [fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions
+- [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests
+- [pypa/packaging](https://github.com/pypa/packaging) - Core utilities for Python packages
 - [opinkerfi/pysmbclient](https://github.com/opinkerfi/pysmbclient) - Fork of https://bitbucket.org/nosklo/pysmbclient/src
-- [paramiko/paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
-- [fountainhead/action-wait-for-check](https://github.com/fountainhead/action-wait-for-check) - A GitHub Action that waits for another Check Run to have completed
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 
 ### 💻 Software
 
