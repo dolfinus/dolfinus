@@ -14,10 +14,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
+- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
 - [sqlalchemyorg/changelog](https://github.com/sqlalchemyorg/changelog) - A Sphinx extension to generate changelog files.   An experimental extension that&#39;s used by the SQLAlchemy project and related projects.
-- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 
 ### 💼 Stack I'm Working With
 
