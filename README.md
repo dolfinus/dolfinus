@@ -76,11 +76,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) [`v1.91`](https://github.com/s3fs-fuse/s3fs-fuse/releases/tag/v1.91) - FUSE-based file system backed by Amazon S3
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v5.1.6`](https://github.com/andreax79/airflow-code-editor/releases/tag/v5.1.6) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.24.0`](https://github.com/mlflow/mlflow/releases/tag/v1.24.0) - Open source platform for the machine learning lifecycle
 - [duffelhq/paginator](https://github.com/duffelhq/paginator) [`v1.1.0`](https://github.com/duffelhq/paginator/releases/tag/v1.1.0) - Cursor-based pagination for Elixir Ecto
 - [jupyter/notebook](https://github.com/jupyter/notebook) [`v6.4.8`](https://github.com/jupyter/notebook/releases/tag/v6.4.8) - Jupyter Interactive Notebook
-- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) [`2.0.0`](https://github.com/MobileTeleSystems/mlflow-rest-client/releases/tag/2.0.0) - Python client for MLflow REST API
 
 ### 💻 Going To Dive Into
 
