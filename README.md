@@ -76,11 +76,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [jupyter/notebook](https://github.com/jupyter/notebook) [`v7.0.0a1`](https://github.com/jupyter/notebook/releases/tag/v7.0.0a1) - Jupyter Interactive Notebook
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) [`v1.91`](https://github.com/s3fs-fuse/s3fs-fuse/releases/tag/v1.91) - FUSE-based file system backed by Amazon S3
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v5.1.6`](https://github.com/andreax79/airflow-code-editor/releases/tag/v5.1.6) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.24.0`](https://github.com/mlflow/mlflow/releases/tag/v1.24.0) - Open source platform for the machine learning lifecycle
 - [duffelhq/paginator](https://github.com/duffelhq/paginator) [`v1.1.0`](https://github.com/duffelhq/paginator/releases/tag/v1.1.0) - Cursor-based pagination for Elixir Ecto
-- [jupyter/notebook](https://github.com/jupyter/notebook) [`v6.4.8`](https://github.com/jupyter/notebook/releases/tag/v6.4.8) - Jupyter Interactive Notebook
 
 ### 💻 Going To Dive Into
 
@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [hanschen/ksuperkey](https://github.com/hanschen/ksuperkey) - Linux utility that allows you to use the Super key both to open the start menu and as a modifier key in keyboard shortcuts
 - [tylerwince/flake8-bandit](https://github.com/tylerwince/flake8-bandit) - Automated security testing using bandit and flake8.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests
-- [pypa/packaging](https://github.com/pypa/packaging) - Core utilities for Python packages
 
 ### 💻 Software
 
