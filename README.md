@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [Marco-Sulla/python-frozendict](https://github.com/Marco-Sulla/python-frozendict) - A simple immutable dictionary for python
 - [hanschen/ksuperkey](https://github.com/hanschen/ksuperkey) - Linux utility that allows you to use the Super key both to open the start menu and as a modifier key in keyboard shortcuts
 - [tylerwince/flake8-bandit](https://github.com/tylerwince/flake8-bandit) - Automated security testing using bandit and flake8.
-- [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 
 ### 💻 Software
 
