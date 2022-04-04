@@ -13,8 +13,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
+- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [For #24569 - Run CI on push events too](https://github.com/mozilla-mobile/fenix/pull/24570) on [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
 - [For #20960: Fix scrolling to active tab](https://github.com/mozilla-mobile/fenix/pull/24476) on [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
 - [Test autoapprove action](https://github.com/dolfinus/setuptools-git-versioning/pull/45) on [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning)
 - [Do not approve the same PR twice](https://github.com/hmarr/auto-approve-action/pull/191) on [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action)
 - [Use github.ref instead of github.sha](https://github.com/fountainhead/action-wait-for-check/pull/24) on [fountainhead/action-wait-for-check](https://github.com/fountainhead/action-wait-for-check)
-- [Disallow to use &#34;with&#34; clause with PopenSpawn class](https://github.com/pexpect/pexpect/pull/713) on [pexpect/pexpect](https://github.com/pexpect/pexpect)
 
 ### 🌱 My Pet Projects
 
