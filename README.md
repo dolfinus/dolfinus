@@ -13,8 +13,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
+- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
@@ -76,7 +76,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
-- [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) [`v2.2.0`](https://github.com/hmarr/auto-approve-action/releases/tag/v2.2.0) - 👍 GitHub Action for automatically approving GitHub pull requests
+- [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) [`v2.2.1`](https://github.com/hmarr/auto-approve-action/releases/tag/v2.2.1) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [jupyter/jupyter_client](https://github.com/jupyter/jupyter_client) [`v7.2.1`](https://github.com/jupyter/jupyter_client/releases/tag/v7.2.1) - Jupyter protocol client APIs
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v5.2.0`](https://github.com/andreax79/airflow-code-editor/releases/tag/v5.2.0) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 - [jupyter/notebook](https://github.com/jupyter/notebook) [`v7.0.0a2`](https://github.com/jupyter/notebook/releases/tag/v7.0.0a2) - Jupyter Interactive Notebook
