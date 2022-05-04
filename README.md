@@ -76,11 +76,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [kubernetes/website](https://github.com/kubernetes/website) [`snapshot-initial-v1.24`](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.24) - Kubernetes website and documentation repo: 
 - [jupyter/notebook](https://github.com/jupyter/notebook) [`v7.0.0a3`](https://github.com/jupyter/notebook/releases/tag/v7.0.0a3) - Jupyter Interactive Notebook
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v5.2.1`](https://github.com/andreax79/airflow-code-editor/releases/tag/v5.2.1) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) [`v2.2.1`](https://github.com/hmarr/auto-approve-action/releases/tag/v2.2.1) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) [`v1.91`](https://github.com/s3fs-fuse/s3fs-fuse/releases/tag/v1.91) - FUSE-based file system backed by Amazon S3
-- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) [`2.0.0`](https://github.com/MobileTeleSystems/mlflow-rest-client/releases/tag/2.0.0) - Python client for MLflow REST API
 
 ### 💻 Going To Dive Into
 
