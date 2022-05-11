@@ -13,11 +13,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [ash-project/ash_example](https://github.com/ash-project/ash_example) - An example application for the Ash Framework
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests
-- [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
 
 ### 💼 Stack I'm Working With
 
@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Handle error if multitenant resource was fetched without tenant being set](https://github.com/ash-project/ash_graphql/pull/33) on [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql)
+- [Add OS and Ecto stats tabs to LiveView dashboard](https://github.com/ash-project/ash_example/pull/15) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
+- [Show information on LiveView page instead of Phoenix error](https://github.com/ash-project/ash_example/pull/14) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
+- [Upgrade Ash and other dependencies version](https://github.com/ash-project/ash_example/pull/13) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 - [For #24569 - Run CI on push events too](https://github.com/mozilla-mobile/fenix/pull/24570) on [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-- [For #20960: Fix scrolling to active tab](https://github.com/mozilla-mobile/fenix/pull/24476) on [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-- [Test autoapprove action](https://github.com/dolfinus/setuptools-git-versioning/pull/45) on [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning)
-- [Do not approve the same PR twice](https://github.com/hmarr/auto-approve-action/pull/191) on [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action)
-- [Use github.ref instead of github.sha](https://github.com/fountainhead/action-wait-for-check/pull/24) on [fountainhead/action-wait-for-check](https://github.com/fountainhead/action-wait-for-check)
 
 ### 🌱 My Pet Projects
 
