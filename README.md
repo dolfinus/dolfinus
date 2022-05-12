@@ -13,11 +13,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql) - An absinthe backed graphql API extension for the Ash Framework
 - [ash-project/ash_example](https://github.com/ash-project/ash_example) - An example application for the Ash Framework
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
-- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
-- [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests
 
 ### 💼 Stack I'm Working With
 
@@ -45,7 +45,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [Handle error if multitenant resource was fetched without tenant being set](https://github.com/ash-project/ash_graphql/pull/33) on [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql)
+- [fix: Handle error if multitenant resource was fetched without tenant being set](https://github.com/ash-project/ash_graphql/pull/33) on [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql)
 - [Add OS and Ecto stats tabs to LiveView dashboard](https://github.com/ash-project/ash_example/pull/15) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 - [Show information on LiveView page instead of Phoenix error](https://github.com/ash-project/ash_example/pull/14) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 - [Upgrade Ash and other dependencies version](https://github.com/ash-project/ash_example/pull/13) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
@@ -76,11 +76,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.77.1`](https://github.com/tiangolo/fastapi/releases/tag/0.77.1) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [kubernetes/website](https://github.com/kubernetes/website) [`snapshot-initial-v1.24`](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.24) - Kubernetes website and documentation repo: 
 - [jupyter/notebook](https://github.com/jupyter/notebook) [`v7.0.0a3`](https://github.com/jupyter/notebook/releases/tag/v7.0.0a3) - Jupyter Interactive Notebook
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v5.2.1`](https://github.com/andreax79/airflow-code-editor/releases/tag/v5.2.1) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) [`v2.2.1`](https://github.com/hmarr/auto-approve-action/releases/tag/v2.2.1) - 👍 GitHub Action for automatically approving GitHub pull requests
-- [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) [`v1.91`](https://github.com/s3fs-fuse/s3fs-fuse/releases/tag/v1.91) - FUSE-based file system backed by Amazon S3
 
 ### 💻 Going To Dive Into
 
