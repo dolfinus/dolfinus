@@ -13,11 +13,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [ash-project/ash_example](https://github.com/ash-project/ash_example) - An example application for the Ash Framework
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql) - An absinthe backed graphql API extension for the Ash Framework
-- [ash-project/ash_example](https://github.com/ash-project/ash_example) - An example application for the Ash Framework
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
-- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
 
 ### 💼 Stack I'm Working With
 
@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix dataloader integration](https://github.com/ash-project/ash_example/pull/16) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 - [fix: Handle error if multitenant resource was fetched without tenant being set](https://github.com/ash-project/ash_graphql/pull/33) on [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql)
 - [Add OS and Ecto stats tabs to LiveView dashboard](https://github.com/ash-project/ash_example/pull/15) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 - [Show information on LiveView page instead of Phoenix error](https://github.com/ash-project/ash_example/pull/14) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 - [Upgrade Ash and other dependencies version](https://github.com/ash-project/ash_example/pull/13) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
-- [For #24569 - Run CI on push events too](https://github.com/mozilla-mobile/fenix/pull/24570) on [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
 
 ### 🌱 My Pet Projects
 
@@ -76,7 +76,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.77.1`](https://github.com/tiangolo/fastapi/releases/tag/0.77.1) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.78.0`](https://github.com/tiangolo/fastapi/releases/tag/0.78.0) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [kubernetes/website](https://github.com/kubernetes/website) [`snapshot-initial-v1.24`](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.24) - Kubernetes website and documentation repo: 
 - [jupyter/notebook](https://github.com/jupyter/notebook) [`v7.0.0a3`](https://github.com/jupyter/notebook/releases/tag/v7.0.0a3) - Jupyter Interactive Notebook
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v5.2.1`](https://github.com/andreax79/airflow-code-editor/releases/tag/v5.2.1) - A plugin for Apache Airflow that allows you to edit DAGs in browser
@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [ash-project/ash_example](https://github.com/ash-project/ash_example) - An example application for the Ash Framework
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [unbit/uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 
 ### 💻 Software
 
