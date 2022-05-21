@@ -13,8 +13,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [ash-project/ash_example](https://github.com/ash-project/ash_example) - An example application for the Ash Framework
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql) - An absinthe backed graphql API extension for the Ash Framework
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
@@ -76,10 +76,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [jupyter/notebook](https://github.com/jupyter/notebook) [`v7.0.0a4`](https://github.com/jupyter/notebook/releases/tag/v7.0.0a4) - Jupyter Interactive Notebook
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) [`v1.9.1`](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.1) - Data parsing and validation using Python type hints
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.78.0`](https://github.com/tiangolo/fastapi/releases/tag/0.78.0) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [kubernetes/website](https://github.com/kubernetes/website) [`snapshot-initial-v1.24`](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.24) - Kubernetes website and documentation repo: 
-- [jupyter/notebook](https://github.com/jupyter/notebook) [`v7.0.0a3`](https://github.com/jupyter/notebook/releases/tag/v7.0.0a3) - Jupyter Interactive Notebook
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v5.2.1`](https://github.com/andreax79/airflow-code-editor/releases/tag/v5.2.1) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 
 ### 💻 Going To Dive Into
