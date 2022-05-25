@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [rspeer/ordered-set](https://github.com/rspeer/ordered-set) - A mutable set that remembers the order of its entries. One of Python&#39;s missing data types.
 - [ash-project/ash_example](https://github.com/ash-project/ash_example) - An example application for the Ash Framework
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [unbit/uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
 ### 💻 Software
 
