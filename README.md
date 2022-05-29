@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Implement GraphQL Relay support](https://github.com/ash-project/ash_graphql/pull/36) on [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql)
 - [Fix dataloader integration](https://github.com/ash-project/ash_example/pull/16) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 - [fix: Handle error if multitenant resource was fetched without tenant being set](https://github.com/ash-project/ash_graphql/pull/33) on [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql)
 - [Add OS and Ecto stats tabs to LiveView dashboard](https://github.com/ash-project/ash_example/pull/15) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 - [Show information on LiveView page instead of Phoenix error](https://github.com/ash-project/ash_example/pull/14) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
-- [Upgrade Ash and other dependencies version](https://github.com/ash-project/ash_example/pull/13) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 
 ### 🌱 My Pet Projects
 
