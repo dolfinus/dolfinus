@@ -14,8 +14,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [ash-project/ash_example](https://github.com/ash-project/ash_example) - An example application for the Ash Framework
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql) - An absinthe backed graphql API extension for the Ash Framework
 
@@ -76,11 +76,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [joken-elixir/joken](https://github.com/joken-elixir/joken) [`v2.5.0`](https://github.com/joken-elixir/joken/releases/tag/v2.5.0) - Elixir JWT library
 - [sqlalchemyorg/changelog](https://github.com/sqlalchemyorg/changelog) [`v0.5.8`](https://github.com/sqlalchemyorg/changelog/releases/tag/v0.5.8) - A Sphinx extension to generate changelog files.   An experimental extension that&#39;s used by the SQLAlchemy project and related projects.
 - [jupyter/notebook](https://github.com/jupyter/notebook) [`v7.0.0a5`](https://github.com/jupyter/notebook/releases/tag/v7.0.0a5) - Jupyter Interactive Notebook
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v5.2.2`](https://github.com/andreax79/airflow-code-editor/releases/tag/v5.2.2) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) [`v1.9.1`](https://github.com/samuelcolvin/pydantic/releases/tag/v1.9.1) - Data parsing and validation using Python type hints
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.78.0`](https://github.com/tiangolo/fastapi/releases/tag/0.78.0) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ### 💻 Going To Dive Into
 
