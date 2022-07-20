@@ -13,11 +13,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [ash-project/ash_example](https://github.com/ash-project/ash_example) - An example application for the Ash Framework
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql) - An absinthe backed graphql API extension for the Ash Framework
 
 ### 💼 Stack I'm Working With
 
@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Properly handle decorated functions](https://github.com/facebookresearch/hydra/pull/2303) on [facebookresearch/hydra](https://github.com/facebookresearch/hydra)
 - [Implement GraphQL Relay support](https://github.com/ash-project/ash_graphql/pull/36) on [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql)
 - [Fix dataloader integration](https://github.com/ash-project/ash_example/pull/16) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 - [fix: Handle error if multitenant resource was fetched without tenant being set](https://github.com/ash-project/ash_graphql/pull/33) on [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql)
 - [Add OS and Ecto stats tabs to LiveView dashboard](https://github.com/ash-project/ash_example/pull/15) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
-- [Show information on LiveView page instead of Phoenix error](https://github.com/ash-project/ash_example/pull/14) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 
 ### 🌱 My Pet Projects
 
@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android) - 
 - [acidrain42/evolution-on](https://github.com/acidrain42/evolution-on) - evolution-tray plugin suitable for arch packaging and with useful patches
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
-- [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 
 ### 💻 Software
 
