@@ -76,11 +76,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [jupyter/notebook](https://github.com/jupyter/notebook) [`v6.5.0a0`](https://github.com/jupyter/notebook/releases/tag/v6.5.0a0) - Jupyter Interactive Notebook
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v6.0.0`](https://github.com/andreax79/airflow-code-editor/releases/tag/v6.0.0) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.79.0`](https://github.com/tiangolo/fastapi/releases/tag/0.79.0) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [joken-elixir/joken](https://github.com/joken-elixir/joken) [`v2.5.0`](https://github.com/joken-elixir/joken/releases/tag/v2.5.0) - Elixir JWT library
 - [sqlalchemyorg/changelog](https://github.com/sqlalchemyorg/changelog) [`v0.5.8`](https://github.com/sqlalchemyorg/changelog/releases/tag/v0.5.8) - A Sphinx extension to generate changelog files.   An experimental extension that&#39;s used by the SQLAlchemy project and related projects.
-- [jupyter/notebook](https://github.com/jupyter/notebook) [`v7.0.0a5`](https://github.com/jupyter/notebook/releases/tag/v7.0.0a5) - Jupyter Interactive Notebook
 
 ### 💻 Going To Dive Into
 
