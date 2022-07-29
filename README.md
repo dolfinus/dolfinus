@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [ClickHouse/clickhouse-jdbc](https://github.com/ClickHouse/clickhouse-jdbc) - JDBC driver for ClickHouse
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android) - 
 - [acidrain42/evolution-on](https://github.com/acidrain42/evolution-on) - evolution-tray plugin suitable for arch packaging and with useful patches
-- [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 
 ### 💻 Software
 
