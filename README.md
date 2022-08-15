@@ -16,8 +16,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
 - [ash-project/ash_example](https://github.com/ash-project/ash_example) - An example application for the Ash Framework
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
 
 ### 💼 Stack I'm Working With
 
