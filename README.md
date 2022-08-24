@@ -76,9 +76,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.80.0`](https://github.com/tiangolo/fastapi/releases/tag/0.80.0) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) [`v1.10.0a1`](https://github.com/pydantic/pydantic/releases/tag/v1.10.0a1) - Data parsing and validation using Python type hints
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) [`v2.4.0`](https://github.com/hmarr/auto-approve-action/releases/tag/v2.4.0) - 👍 GitHub Action for automatically approving GitHub pull requests
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.79.1`](https://github.com/tiangolo/fastapi/releases/tag/0.79.1) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v7.0.0`](https://github.com/andreax79/airflow-code-editor/releases/tag/v7.0.0) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.28.0`](https://github.com/mlflow/mlflow/releases/tag/v1.28.0) - Open source platform for the machine learning lifecycle
 
