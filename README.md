@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix generating wrong thumbnail URLs](https://github.com/octfx/mediawiki-extension-WebP/pull/12) on [octfx/mediawiki-extension-WebP](https://github.com/octfx/mediawiki-extension-WebP)
+- [Add lazy load attribute to menu logo](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/pull/507) on [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen)
 - [Properly handle decorated functions](https://github.com/facebookresearch/hydra/pull/2303) on [facebookresearch/hydra](https://github.com/facebookresearch/hydra)
 - [Implement GraphQL Relay support](https://github.com/ash-project/ash_graphql/pull/36) on [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql)
 - [Fix dataloader integration](https://github.com/ash-project/ash_example/pull/16) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
-- [fix: Handle error if multitenant resource was fetched without tenant being set](https://github.com/ash-project/ash_graphql/pull/33) on [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql)
-- [Add OS and Ecto stats tabs to LiveView dashboard](https://github.com/ash-project/ash_example/pull/15) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 
 ### 🌱 My Pet Projects
 
@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [python/typing_extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python
 - [TvoroG/pytest-lazy-fixture](https://github.com/TvoroG/pytest-lazy-fixture) - It helps to use fixtures in pytest.mark.parametrize
 - [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) - A responsive Mediawiki skin designed for the Star Citizen Wiki
 - [SemanticMediaWiki/SemanticMediaWiki](https://github.com/SemanticMediaWiki/SemanticMediaWiki) - 🔗 Semantic MediaWiki turns MediaWiki into a knowledge management platform with query and export capabilities
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
-- [ClickHouse/clickhouse-jdbc](https://github.com/ClickHouse/clickhouse-jdbc) - JDBC driver for ClickHouse
 
 ### 💻 Software
 
