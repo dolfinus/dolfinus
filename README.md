@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Do not check | in type hints in WPS226](https://github.com/wemake-services/wemake-python-styleguide/pull/2495) on [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)
+- [ATLAS-4676: do not expect response body to be a valid JSON](https://github.com/apache/atlas/pull/197) on [apache/atlas](https://github.com/apache/atlas)
 - [Fix generating wrong thumbnail URLs](https://github.com/octfx/mediawiki-extension-WebP/pull/12) on [octfx/mediawiki-extension-WebP](https://github.com/octfx/mediawiki-extension-WebP)
 - [Add lazy load attribute to menu logo](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/pull/507) on [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen)
 - [Properly handle decorated functions](https://github.com/facebookresearch/hydra/pull/2303) on [facebookresearch/hydra](https://github.com/facebookresearch/hydra)
-- [Implement GraphQL Relay support](https://github.com/ash-project/ash_graphql/pull/36) on [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql)
-- [Fix dataloader integration](https://github.com/ash-project/ash_example/pull/16) on [ash-project/ash_example](https://github.com/ash-project/ash_example)
 
 ### 🌱 My Pet Projects
 
@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [mansenfranzen/autodoc_pydantic](https://github.com/mansenfranzen/autodoc_pydantic) - Seamlessly integrate pydantic models in your Sphinx documentation.
 - [hpyproject/hpy](https://github.com/hpyproject/hpy) - HPy: a better API for Python
 - [python/typing_extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python
 - [TvoroG/pytest-lazy-fixture](https://github.com/TvoroG/pytest-lazy-fixture) - It helps to use fixtures in pytest.mark.parametrize
 - [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) - A responsive Mediawiki skin designed for the Star Citizen Wiki
-- [SemanticMediaWiki/SemanticMediaWiki](https://github.com/SemanticMediaWiki/SemanticMediaWiki) - 🔗 Semantic MediaWiki turns MediaWiki into a knowledge management platform with query and export capabilities
 
 ### 💻 Software
 
