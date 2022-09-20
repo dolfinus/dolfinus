@@ -76,11 +76,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.29.0`](https://github.com/mlflow/mlflow/releases/tag/v1.29.0) - Open source platform for the machine learning lifecycle
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.85.0`](https://github.com/tiangolo/fastapi/releases/tag/0.85.0) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) [`v1.10.2`](https://github.com/pydantic/pydantic/releases/tag/v1.10.2) - Data parsing and validation using Python type hints
 - [jupyter/notebook](https://github.com/jupyter/notebook) [`v6.5.0rc0`](https://github.com/jupyter/notebook/releases/tag/v6.5.0rc0) - Jupyter Interactive Notebook
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v7.0.1`](https://github.com/andreax79/airflow-code-editor/releases/tag/v7.0.1) - A plugin for Apache Airflow that allows you to edit DAGs in browser
-- [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) [`v2.4.0`](https://github.com/hmarr/auto-approve-action/releases/tag/v2.4.0) - 👍 GitHub Action for automatically approving GitHub pull requests
 
 ### 💻 Going To Dive Into
 
@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [ihumanable/patch](https://github.com/ihumanable/patch) - Ergonomic Mocking for Elixir
 - [VirtusLab/iskra](https://github.com/VirtusLab/iskra) - Typesafe wrapper for Apache Spark DataFrame API
 - [mansenfranzen/autodoc_pydantic](https://github.com/mansenfranzen/autodoc_pydantic) - Seamlessly integrate pydantic models in your Sphinx documentation.
 - [hpyproject/hpy](https://github.com/hpyproject/hpy) - HPy: a better API for Python
 - [python/typing_extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python
-- [TvoroG/pytest-lazy-fixture](https://github.com/TvoroG/pytest-lazy-fixture) - It helps to use fixtures in pytest.mark.parametrize
 
 ### 💻 Software
 
