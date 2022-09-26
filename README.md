@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
+- [brandtbucher/specialist](https://github.com/brandtbucher/specialist) - Visualize CPython 3.11&#39;s specializing, adaptive interpreter. :fire:
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter) - Prometheus exporter for Starlette and FastAPI
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
-- [ihumanable/patch](https://github.com/ihumanable/patch) - Ergonomic Mocking for Elixir
-- [VirtusLab/iskra](https://github.com/VirtusLab/iskra) - Typesafe wrapper for Apache Spark DataFrame API
 
 ### 💻 Software
 
