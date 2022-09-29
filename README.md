@@ -76,11 +76,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) [`v1.17.9`](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/releases/tag/v1.17.9) - A responsive Mediawiki skin designed for the Star Citizen Wiki
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) [`0.17.0`](https://github.com/wemake-services/wemake-python-styleguide/releases/tag/0.17.0) - The strictest and most opinionated python linter ever!
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.29.0`](https://github.com/mlflow/mlflow/releases/tag/v1.29.0) - Open source platform for the machine learning lifecycle
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.85.0`](https://github.com/tiangolo/fastapi/releases/tag/0.85.0) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) [`v1.10.2`](https://github.com/pydantic/pydantic/releases/tag/v1.10.2) - Data parsing and validation using Python type hints
-- [jupyter/notebook](https://github.com/jupyter/notebook) [`v6.5.0rc0`](https://github.com/jupyter/notebook/releases/tag/v6.5.0rc0) - Jupyter Interactive Notebook
 
 ### 💻 Going To Dive Into
 
@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
+- [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [giampaolo/pyftpdlib](https://github.com/giampaolo/pyftpdlib) - Extremely fast and scalable Python FTP server library
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [brandtbucher/specialist](https://github.com/brandtbucher/specialist) - Visualize CPython 3.11&#39;s specializing, adaptive interpreter. :fire:
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
-- [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter) - Prometheus exporter for Starlette and FastAPI
 
 ### 💻 Software
 
