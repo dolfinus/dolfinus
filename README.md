@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Add extra_services option](https://github.com/jupyterhub/kubespawner/pull/641) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Do not check | in type hints in WPS226](https://github.com/wemake-services/wemake-python-styleguide/pull/2495) on [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)
 - [ATLAS-4676: do not expect response body to be a valid JSON](https://github.com/apache/atlas/pull/197) on [apache/atlas](https://github.com/apache/atlas)
 - [Fix generating wrong thumbnail URLs](https://github.com/octfx/mediawiki-extension-WebP/pull/12) on [octfx/mediawiki-extension-WebP](https://github.com/octfx/mediawiki-extension-WebP)
 - [Add lazy load attribute to menu logo](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/pull/507) on [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen)
-- [Properly handle decorated functions](https://github.com/facebookresearch/hydra/pull/2303) on [facebookresearch/hydra](https://github.com/facebookresearch/hydra)
 
 ### 🌱 My Pet Projects
 
