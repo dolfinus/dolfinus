@@ -13,11 +13,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql) - An absinthe backed graphql API extension for the Ash Framework
 - [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) - A responsive Mediawiki skin designed for the Star Citizen Wiki
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 
 ### 💼 Stack I'm Working With
 
@@ -76,11 +76,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [jupyter/notebook](https://github.com/jupyter/notebook) [`v7.0.0a6`](https://github.com/jupyter/notebook/releases/tag/v7.0.0a6) - Jupyter Interactive Notebook
 - [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) [`v2.0.0-beta.0`](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/releases/tag/v2.0.0-beta.0) - A responsive Mediawiki skin designed for the Star Citizen Wiki
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) [`0.17.0`](https://github.com/wemake-services/wemake-python-styleguide/releases/tag/0.17.0) - The strictest and most opinionated python linter ever!
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.29.0`](https://github.com/mlflow/mlflow/releases/tag/v1.29.0) - Open source platform for the machine learning lifecycle
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.85.0`](https://github.com/tiangolo/fastapi/releases/tag/0.85.0) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) [`v1.10.2`](https://github.com/pydantic/pydantic/releases/tag/v1.10.2) - Data parsing and validation using Python type hints
 
 ### 💻 Going To Dive Into
 
