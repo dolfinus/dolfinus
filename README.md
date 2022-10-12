@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [Jc2k/pytest-docker-tools](https://github.com/Jc2k/pytest-docker-tools) - Opionated helpers for creating py.test fixtures for Docker integration and smoke testing environments
 - [MobileTeleSystems/Ambrosia](https://github.com/MobileTeleSystems/Ambrosia) - Ambrosia is a Python library for A/B tests design, split and result measurement
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
-- [giampaolo/pyftpdlib](https://github.com/giampaolo/pyftpdlib) - Extremely fast and scalable Python FTP server library
 
 ### 💻 Software
 
