@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Add after_pod_created_hook](https://github.com/jupyterhub/kubespawner/pull/644) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Fix error with empty dataclass inheritance](https://github.com/pydantic/pydantic/pull/4576) on [pydantic/pydantic](https://github.com/pydantic/pydantic)
 - [Expand environment variables](https://github.com/jupyterhub/kubespawner/pull/642) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Add extra_services option](https://github.com/jupyterhub/kubespawner/pull/641) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Do not check | in type hints in WPS226](https://github.com/wemake-services/wemake-python-styleguide/pull/2495) on [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)
-- [ATLAS-4676: do not expect response body to be a valid JSON](https://github.com/apache/atlas/pull/197) on [apache/atlas](https://github.com/apache/atlas)
 
 ### 🌱 My Pet Projects
 
