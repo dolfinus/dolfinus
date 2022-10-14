@@ -13,11 +13,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql) - An absinthe backed graphql API extension for the Ash Framework
-- [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) - A responsive Mediawiki skin designed for the Star Citizen Wiki
 
 ### 💼 Stack I'm Working With
 
@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Improve KubeIngressProxy](https://github.com/jupyterhub/kubespawner/pull/648) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [Do not try to start KubeIngressProxy by JupyterHub](https://github.com/jupyterhub/kubespawner/pull/647) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [Fix 404 error in KubeIngressProxy.add_route](https://github.com/jupyterhub/kubespawner/pull/646) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [Fix async `modify_pod_hook`s - use jupyterhub.utils.maybe_future instead of tornado.get.maybe_future](https://github.com/jupyterhub/kubespawner/pull/645) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Add after_pod_created_hook](https://github.com/jupyterhub/kubespawner/pull/644) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Fix error with empty dataclass inheritance](https://github.com/pydantic/pydantic/pull/4576) on [pydantic/pydantic](https://github.com/pydantic/pydantic)
-- [Expand environment variables](https://github.com/jupyterhub/kubespawner/pull/642) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Add extra_services option](https://github.com/jupyterhub/kubespawner/pull/641) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Do not check | in type hints in WPS226](https://github.com/wemake-services/wemake-python-styleguide/pull/2495) on [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)
 
 ### 🌱 My Pet Projects
 
@@ -76,8 +76,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [jupyter/notebook](https://github.com/jupyter/notebook) [`v6.5.1`](https://github.com/jupyter/notebook/releases/tag/v6.5.1) - Jupyter Interactive Notebook
 - [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) [`v2.0.0-beta.1`](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/releases/tag/v2.0.0-beta.1) - A responsive Mediawiki skin designed for the Star Citizen Wiki
-- [jupyter/notebook](https://github.com/jupyter/notebook) [`v7.0.0a6`](https://github.com/jupyter/notebook/releases/tag/v7.0.0a6) - Jupyter Interactive Notebook
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) [`0.17.0`](https://github.com/wemake-services/wemake-python-styleguide/releases/tag/0.17.0) - The strictest and most opinionated python linter ever!
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.29.0`](https://github.com/mlflow/mlflow/releases/tag/v1.29.0) - Open source platform for the machine learning lifecycle
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.85.0`](https://github.com/tiangolo/fastapi/releases/tag/0.85.0) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [cerndb/SparkPlugins](https://github.com/cerndb/SparkPlugins) - Code and examples of how to write and deploy Apache Spark Plugins with Spark 3.x. Spark plugins allow runnig custom code on the executors as they are initialized. This also allows extending the Spark metrics systems with user-provided monitoring probes.
 - [Jc2k/pytest-docker-tools](https://github.com/Jc2k/pytest-docker-tools) - Opionated helpers for creating py.test fixtures for Docker integration and smoke testing environments
 - [MobileTeleSystems/Ambrosia](https://github.com/MobileTeleSystems/Ambrosia) - Ambrosia is a Python library for A/B tests design, split and result measurement
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
-- [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 
 ### 💻 Software
 
