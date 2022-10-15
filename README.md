@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [Improve KubeIngressProxy](https://github.com/jupyterhub/kubespawner/pull/648) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Do not try to start KubeIngressProxy by JupyterHub](https://github.com/jupyterhub/kubespawner/pull/647) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Fix 404 error in KubeIngressProxy.add_route](https://github.com/jupyterhub/kubespawner/pull/646) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Fix async `modify_pod_hook`s - use jupyterhub.utils.maybe_future instead of tornado.get.maybe_future](https://github.com/jupyterhub/kubespawner/pull/645) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Add after_pod_created_hook](https://github.com/jupyterhub/kubespawner/pull/644) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [Allow to disable proxy pod and service creation](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/2904) on [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
+- [[KubeIngressProxy] Fix delete_route](https://github.com/jupyterhub/kubespawner/pull/649) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [[KubeIngressProxy] Add `ingress_class_name`, `[hub|service|server]_specification`, `common_labels`, `extra_[labels|annotations]`](https://github.com/jupyterhub/kubespawner/pull/648) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [[KubeIngressProxy] Set `should_start` to false and documentation fix](https://github.com/jupyterhub/kubespawner/pull/647) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [[KubeIngressProxy] Fix 404 error in `add_route`](https://github.com/jupyterhub/kubespawner/pull/646) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 
 ### 🌱 My Pet Projects
 
@@ -76,11 +76,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.85.1`](https://github.com/tiangolo/fastapi/releases/tag/0.85.1) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) [`v3.0.0`](https://github.com/hmarr/auto-approve-action/releases/tag/v3.0.0) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [jupyter/notebook](https://github.com/jupyter/notebook) [`v6.5.1`](https://github.com/jupyter/notebook/releases/tag/v6.5.1) - Jupyter Interactive Notebook
 - [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) [`v2.0.0-beta.1`](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/releases/tag/v2.0.0-beta.1) - A responsive Mediawiki skin designed for the Star Citizen Wiki
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) [`0.17.0`](https://github.com/wemake-services/wemake-python-styleguide/releases/tag/0.17.0) - The strictest and most opinionated python linter ever!
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.29.0`](https://github.com/mlflow/mlflow/releases/tag/v1.29.0) - Open source platform for the machine learning lifecycle
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.85.0`](https://github.com/tiangolo/fastapi/releases/tag/0.85.0) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ### 💻 Going To Dive Into
 
@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s) - Helm Chart &amp; Documentation for deploying JupyterHub on Kubernetes
 - [cerndb/SparkPlugins](https://github.com/cerndb/SparkPlugins) - Code and examples of how to write and deploy Apache Spark Plugins with Spark 3.x. Spark plugins allow runnig custom code on the executors as they are initialized. This also allows extending the Spark metrics systems with user-provided monitoring probes.
 - [Jc2k/pytest-docker-tools](https://github.com/Jc2k/pytest-docker-tools) - Opionated helpers for creating py.test fixtures for Docker integration and smoke testing environments
 - [MobileTeleSystems/Ambrosia](https://github.com/MobileTeleSystems/Ambrosia) - Ambrosia is a Python library for A/B tests design, split and result measurement
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
 
 ### 💻 Software
 
