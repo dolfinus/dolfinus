@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
-- [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s) - Helm Chart &amp; Documentation for deploying JupyterHub on Kubernetes
-- [cerndb/SparkPlugins](https://github.com/cerndb/SparkPlugins) - Code and examples of how to write and deploy Apache Spark Plugins with Spark 3.x. Spark plugins allow runnig custom code on the executors as they are initialized. This also allows extending the Spark metrics systems with user-provided monitoring probes.
-- [Jc2k/pytest-docker-tools](https://github.com/Jc2k/pytest-docker-tools) - Opionated helpers for creating py.test fixtures for Docker integration and smoke testing environments
-- [MobileTeleSystems/Ambrosia](https://github.com/MobileTeleSystems/Ambrosia) - Ambrosia is a Python library for A/B tests design, split and result measurement
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin) - Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
+- [rajasekarv/vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
+- [delta-io/delta-rs](https://github.com/delta-io/delta-rs) - A native Rust library for Delta Lake, with bindings into Python and Ruby.
+- [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask
 
 ### 💻 Software
 
