@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin) - Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
 - [rajasekarv/vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
 - [delta-io/delta-rs](https://github.com/delta-io/delta-rs) - A native Rust library for Delta Lake, with bindings into Python and Ruby.
-- [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask
 
 ### 💻 Software
 
