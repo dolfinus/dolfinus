@@ -76,11 +76,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.30.0`](https://github.com/mlflow/mlflow/releases/tag/v1.30.0) - Open source platform for the machine learning lifecycle
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.85.1`](https://github.com/tiangolo/fastapi/releases/tag/0.85.1) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) [`v3.0.0`](https://github.com/hmarr/auto-approve-action/releases/tag/v3.0.0) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [jupyter/notebook](https://github.com/jupyter/notebook) [`v6.5.1`](https://github.com/jupyter/notebook/releases/tag/v6.5.1) - Jupyter Interactive Notebook
 - [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) [`v2.0.0-beta.1`](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/releases/tag/v2.0.0-beta.1) - A responsive Mediawiki skin designed for the Star Citizen Wiki
-- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) [`0.17.0`](https://github.com/wemake-services/wemake-python-styleguide/releases/tag/0.17.0) - The strictest and most opinionated python linter ever!
 
 ### 💻 Going To Dive Into
 
