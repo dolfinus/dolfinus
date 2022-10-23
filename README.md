@@ -13,8 +13,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
+- [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql) - An absinthe backed graphql API extension for the Ash Framework
@@ -45,11 +45,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[KubeIngressProxy] Add common_labels option](https://github.com/jupyterhub/kubespawner/pull/653) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Allow to disable proxy pod and service creation](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/2904) on [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
-- [[KubeIngressProxy] Fix delete_route](https://github.com/jupyterhub/kubespawner/pull/649) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [[KubeIngressProxy] Add `ingress_class_name`, `[hub|service|server]_specification`, `common_labels`, `extra_[labels|annotations]`](https://github.com/jupyterhub/kubespawner/pull/648) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [[KubeIngressProxy] Set `should_start` to false and documentation fix](https://github.com/jupyterhub/kubespawner/pull/647) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [[KubeIngressProxy] Reuse service created by KubeSpawner.services_enabled](https://github.com/jupyterhub/kubespawner/pull/656) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [[KubeIngressProxy] Add ingress_extra_annotations and ingress_extra_labels](https://github.com/jupyterhub/kubespawner/pull/655) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [Fix hard-coded component label for services_enabled=True](https://github.com/jupyterhub/kubespawner/pull/654) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [[KubeIngressProxy] Add common_labels option and expand username etc](https://github.com/jupyterhub/kubespawner/pull/653) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [Draft: Allow to disable proxy pod and service creation](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/2904) on [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
 
 ### 🌱 My Pet Projects
 
@@ -76,11 +76,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
+- [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) [`v2.0.0-beta.2`](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/releases/tag/v2.0.0-beta.2) - A responsive Mediawiki skin designed for the Star Citizen Wiki
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) [`v3.1.0`](https://github.com/hmarr/auto-approve-action/releases/tag/v3.1.0) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.30.0`](https://github.com/mlflow/mlflow/releases/tag/v1.30.0) - Open source platform for the machine learning lifecycle
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.85.1`](https://github.com/tiangolo/fastapi/releases/tag/0.85.1) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [jupyter/notebook](https://github.com/jupyter/notebook) [`v6.5.1`](https://github.com/jupyter/notebook/releases/tag/v6.5.1) - Jupyter Interactive Notebook
-- [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) [`v2.0.0-beta.1`](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/releases/tag/v2.0.0-beta.1) - A responsive Mediawiki skin designed for the Star Citizen Wiki
 
 ### 💻 Going To Dive Into
 
@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [jupyter-server/enterprise_gateway](https://github.com/jupyter-server/enterprise_gateway) - A lightweight, multi-tenant, scalable and secure gateway that enables Jupyter Notebooks to share resources across distributed clusters such as Apache Spark, Kubernetes and others.
 - [gateway-experiments/remote_provisioners](https://github.com/gateway-experiments/remote_provisioners) - 
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin) - Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
 - [rajasekarv/vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
 
 ### 💻 Software
 
