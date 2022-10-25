@@ -45,7 +45,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[KubeIngressProxy] Reuse service created by KubeSpawner.services_enabled](https://github.com/jupyterhub/kubespawner/pull/656) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [[KubeIngressProxy] Add reuse_existing_services option](https://github.com/jupyterhub/kubespawner/pull/656) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [[KubeIngressProxy] Add ingress_extra_annotations and ingress_extra_labels](https://github.com/jupyterhub/kubespawner/pull/655) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Fix hard-coded component label for services_enabled=True](https://github.com/jupyterhub/kubespawner/pull/654) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [[KubeIngressProxy] Add common_labels option and expand username etc](https://github.com/jupyterhub/kubespawner/pull/653) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
@@ -101,11 +101,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
-- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
-- [jupyter-server/enterprise_gateway](https://github.com/jupyter-server/enterprise_gateway) - A lightweight, multi-tenant, scalable and secure gateway that enables Jupyter Notebooks to share resources across distributed clusters such as Apache Spark, Kubernetes and others.
-- [gateway-experiments/remote_provisioners](https://github.com/gateway-experiments/remote_provisioners) - 
-- [docker/cli](https://github.com/docker/cli) - The Docker CLI
-- [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin) - Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
+- [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
+- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
+- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 
 ### 💻 Software
 
