@@ -13,11 +13,16 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
-- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
-- [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
-- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
+- [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector (today)
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle (3 days ago)
+- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API (1 week ago)
+- [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub (1 week ago)
+- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project (3 weeks ago)
+- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever! (1 month ago)
+- [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql) - An absinthe backed graphql API extension for the Ash Framework (1 month ago)
+- [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) - A responsive Mediawiki skin designed for the Star Citizen Wiki (2 months ago)
+- [octfx/mediawiki-extension-WebP](https://github.com/octfx/mediawiki-extension-WebP) - Convert image files on upload to WebP (2 months ago)
+- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation (2 months ago)
 
 ### 💼 Stack I'm Working With
 
@@ -45,19 +50,20 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[KubeIngressProxy] Add reuse_existing_services option](https://github.com/jupyterhub/kubespawner/pull/656) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [[KubeIngressProxy] Add ingress_extra_annotations and ingress_extra_labels](https://github.com/jupyterhub/kubespawner/pull/655) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Fix hard-coded component label for services_enabled=True](https://github.com/jupyterhub/kubespawner/pull/654) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [[KubeIngressProxy] Add common_labels option and expand username etc](https://github.com/jupyterhub/kubespawner/pull/653) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Draft: Allow to disable proxy pod and service creation](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/2904) on [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
-- [[KubeIngressProxy] Fix delete_route](https://github.com/jupyterhub/kubespawner/pull/649) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [[KubeIngressProxy] Add `ingress_class_name`, `[hub|service|server]_specification`, `common_labels`, `extra_[labels|annotations]`](https://github.com/jupyterhub/kubespawner/pull/648) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [[KubeIngressProxy] Set `should_start` to false and documentation fix](https://github.com/jupyterhub/kubespawner/pull/647) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [[KubeIngressProxy] Fix 404 error in `add_route`](https://github.com/jupyterhub/kubespawner/pull/646) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Fix async `modify_pod_hook`s - use jupyterhub.utils.maybe_future instead of tornado.get.maybe_future](https://github.com/jupyterhub/kubespawner/pull/645) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [[KubeIngressProxy] Add reuse_existing_services option](https://github.com/jupyterhub/kubespawner/pull/656) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
+- [[KubeIngressProxy] Add ingress_extra_annotations and ingress_extra_labels](https://github.com/jupyterhub/kubespawner/pull/655) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
+- [Fix hard-coded component label for services_enabled=True](https://github.com/jupyterhub/kubespawner/pull/654) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
+- [[KubeIngressProxy] Add common_labels option and expand username etc](https://github.com/jupyterhub/kubespawner/pull/653) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
+- [Draft: Allow to disable proxy pod and service creation](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/2904) on [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s) (2 weeks ago)
+- [[KubeIngressProxy] Fix delete_route](https://github.com/jupyterhub/kubespawner/pull/649) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
+- [[KubeIngressProxy] Add `ingress_class_name`, `[hub|service|server]_specification`, `common_labels`, `extra_[labels|annotations]`](https://github.com/jupyterhub/kubespawner/pull/648) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
+- [[KubeIngressProxy] Set `should_start` to false and documentation fix](https://github.com/jupyterhub/kubespawner/pull/647) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
+- [[KubeIngressProxy] Fix 404 error in `add_route`](https://github.com/jupyterhub/kubespawner/pull/646) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
+- [Fix async `modify_pod_hook`s - use jupyterhub.utils.maybe_future instead of tornado.get.maybe_future](https://github.com/jupyterhub/kubespawner/pull/645) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
 
 ### 🌱 My Pet Projects
-
+- [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
+                                       
 
 - [dolfinus/arkenston-frontend](https://github.com/dolfinus/arkenston-frontend) - A Nuxt.js&#43;Vue.js based frontend for Arkenston project
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
@@ -75,21 +81,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
     <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
   </p>
 </a>
-
-
-### 🔭 My Contributions
-
-- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
-- [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) - A plugin for Apache Airflow that allows you to edit DAGs in browser
-- [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) - A responsive Mediawiki skin designed for the Star Citizen Wiki
-- [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
-- [joken-elixir/joken](https://github.com/joken-elixir/joken) - Elixir JWT library
-- [sqlalchemyorg/changelog](https://github.com/sqlalchemyorg/changelog) - A Sphinx extension to generate changelog files.   An experimental extension that&#39;s used by the SQLAlchemy project and related projects.
--->
 
 ### 💻 Going To Dive Into
 
