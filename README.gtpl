@@ -52,7 +52,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
                                        
 <!-- https://github.com/muesli/readme-scribe -->
 {{- range recentRepos 10 }}
+{{- if not (and (eq .Name "dolfinus/cryptonite") (eq .Name "dolfinus/qt_bb84")) }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
 {{- end }}
 
 ### 💻 Stack I'm Currently Learning
