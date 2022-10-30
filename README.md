@@ -76,7 +76,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 
-- [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v7.1.0`](https://github.com/andreax79/airflow-code-editor/releases/tag/v7.1.0) - A plugin for Apache Airflow that allows you to edit DAGs in browser
+- [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v7.1.1`](https://github.com/andreax79/airflow-code-editor/releases/tag/v7.1.1) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 - [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) [`v2.0.0-beta.3`](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/releases/tag/v2.0.0-beta.3) - A responsive Mediawiki skin designed for the Star Citizen Wiki
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) [`v3.1.0`](https://github.com/hmarr/auto-approve-action/releases/tag/v3.1.0) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.30.0`](https://github.com/mlflow/mlflow/releases/tag/v1.30.0) - Open source platform for the machine learning lifecycle
