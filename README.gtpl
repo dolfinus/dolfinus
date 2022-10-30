@@ -51,7 +51,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
                                        
 <!-- https://github.com/muesli/readme-scribe -->
-{{- range recentRepos 2 }}
+{{- range recentRepos 10 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 
