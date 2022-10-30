@@ -43,14 +43,14 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 <!-- https://github.com/muesli/readme-scribe -->
-{{- range recentPullRequests 5 }}
+{{- range recentPullRequests 10 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
 ### 🌱 My Pet Projects
 
 <!-- https://github.com/muesli/readme-scribe -->
-{{- range recentRepos 3 }}
+{{- range recentRepos 2 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 
@@ -68,10 +68,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
   </p>
 </a>
 
-<!-- https://github.com/muesli/markscribe/issues/40
-### 🔭 Latest Releases I've Contributed To
-{{ range recentReleases 5 }}
-- [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
+<!-- https://github.com/muesli/readme-scribe -->
+### 🔭 My Contributions
+{{ range recentReleases 10 }}
+- [{{ .Name }}]({{ .URL }}) - {{.Description}}
 {{- end }}
 -->
 
@@ -94,7 +94,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 <!-- https://github.com/muesli/readme-scribe -->
-{{- range recentStars 5 }}
+{{- range recentStars 10 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
