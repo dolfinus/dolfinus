@@ -70,8 +70,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 <!-- https://github.com/muesli/markscribe/issues/40
 ### 🔭 Latest Releases I've Contributed To
-
-<!-- https://github.com/muesli/readme-scribe -->
 {{ range recentReleases 5 }}
 - [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
 {{- end }}
