@@ -67,6 +67,13 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 - [dolfinus/arkenston-frontend](https://github.com/dolfinus/arkenston-frontend) - A Nuxt.js&#43;Vue.js based frontend for Arkenston project
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
+- [dolfinus/cryptonite](https://github.com/dolfinus/cryptonite) - Collection of open source cipher and digital signature modules with simple web UI
+- [dolfinus/qt_bb84](https://github.com/dolfinus/qt_bb84) - Qt-based realisation of BB4
+- [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
+- [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
+- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
+- [dolfinus/YandexSiteVerification](https://github.com/dolfinus/YandexSiteVerification) - MediaWiki extension for site verification fo Yandex
+- [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector
 
 ### 💻 Stack I'm Currently Learning
 
