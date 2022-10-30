@@ -50,6 +50,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Do not include archived repositories to recentRepos](https://github.com/muesli/markscribe/pull/52) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
 - [[KubeIngressProxy] Add reuse_existing_services option](https://github.com/jupyterhub/kubespawner/pull/656) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
 - [[KubeIngressProxy] Add ingress_extra_annotations and ingress_extra_labels](https://github.com/jupyterhub/kubespawner/pull/655) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
 - [Fix hard-coded component label for services_enabled=True](https://github.com/jupyterhub/kubespawner/pull/654) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
@@ -59,7 +60,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [[KubeIngressProxy] Add `ingress_class_name`, `[hub|service|server]_specification`, `common_labels`, `extra_[labels|annotations]`](https://github.com/jupyterhub/kubespawner/pull/648) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
 - [[KubeIngressProxy] Set `should_start` to false and documentation fix](https://github.com/jupyterhub/kubespawner/pull/647) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
 - [[KubeIngressProxy] Fix 404 error in `add_route`](https://github.com/jupyterhub/kubespawner/pull/646) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
-- [Fix async `modify_pod_hook`s - use jupyterhub.utils.maybe_future instead of tornado.get.maybe_future](https://github.com/jupyterhub/kubespawner/pull/645) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
