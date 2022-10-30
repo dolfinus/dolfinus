@@ -13,8 +13,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 <!-- https://github.com/muesli/readme-scribe -->
-{{- range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- range recentContributions 10 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{humanize .OccurredAt}})
 {{- end }}
 
 ### 💼 Stack I'm Working With
@@ -44,11 +44,12 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 <!-- https://github.com/muesli/readme-scribe -->
 {{- range recentPullRequests 10 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{humanize .CreatedAt}})
 {{- end }}
 
 ### 🌱 My Pet Projects
-
+- [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
+                                       
 <!-- https://github.com/muesli/readme-scribe -->
 {{- range recentRepos 2 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
@@ -67,13 +68,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
     <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
   </p>
 </a>
-
-<!-- https://github.com/muesli/readme-scribe -->
-### 🔭 My Contributions
-{{ range recentReleases 10 }}
-- [{{ .Name }}]({{ .URL }}) - {{.Description}}
-{{- end }}
--->
 
 ### 💻 Going To Dive Into
 
