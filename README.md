@@ -65,7 +65,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
                                        
 
-- [dolfinus/arkenston-frontend](https://github.com/dolfinus/arkenston-frontend) - A Nuxt.js&#43;Vue.js based frontend for Arkenston project
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
 - [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
