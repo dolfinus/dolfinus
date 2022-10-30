@@ -50,13 +50,17 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [Fix hard-coded component label for services_enabled=True](https://github.com/jupyterhub/kubespawner/pull/654) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [[KubeIngressProxy] Add common_labels option and expand username etc](https://github.com/jupyterhub/kubespawner/pull/653) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Draft: Allow to disable proxy pod and service creation](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/2904) on [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
+- [[KubeIngressProxy] Fix delete_route](https://github.com/jupyterhub/kubespawner/pull/649) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [[KubeIngressProxy] Add `ingress_class_name`, `[hub|service|server]_specification`, `common_labels`, `extra_[labels|annotations]`](https://github.com/jupyterhub/kubespawner/pull/648) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [[KubeIngressProxy] Set `should_start` to false and documentation fix](https://github.com/jupyterhub/kubespawner/pull/647) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [[KubeIngressProxy] Fix 404 error in `add_route`](https://github.com/jupyterhub/kubespawner/pull/646) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [Fix async `modify_pod_hook`s - use jupyterhub.utils.maybe_future instead of tornado.get.maybe_future](https://github.com/jupyterhub/kubespawner/pull/645) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 
 ### 🌱 My Pet Projects
 
 
 - [dolfinus/arkenston-frontend](https://github.com/dolfinus/arkenston-frontend) - A Nuxt.js&#43;Vue.js based frontend for Arkenston project
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
-- [dolfinus/cryptonite](https://github.com/dolfinus/cryptonite) - Collection of open source cipher and digital signature modules with simple web UI
 
 ### 💻 Stack I'm Currently Learning
 
@@ -73,6 +77,19 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 </a>
 
 
+### 🔭 My Contributions
+
+- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
+- [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) - A plugin for Apache Airflow that allows you to edit DAGs in browser
+- [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) - A responsive Mediawiki skin designed for the Star Citizen Wiki
+- [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
+- [joken-elixir/joken](https://github.com/joken-elixir/joken) - Elixir JWT library
+- [sqlalchemyorg/changelog](https://github.com/sqlalchemyorg/changelog) - A Sphinx extension to generate changelog files.   An experimental extension that&#39;s used by the SQLAlchemy project and related projects.
+-->
 
 ### 💻 Going To Dive Into
 
@@ -98,6 +115,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
+- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
+- [jupyter-server/enterprise_gateway](https://github.com/jupyter-server/enterprise_gateway) - A lightweight, multi-tenant, scalable and secure gateway that enables Jupyter Notebooks to share resources across distributed clusters such as Apache Spark, Kubernetes and others.
+- [gateway-experiments/remote_provisioners](https://github.com/gateway-experiments/remote_provisioners) - 
+- [docker/cli](https://github.com/docker/cli) - The Docker CLI
+- [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin) - Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
 
 ### 💻 Software
 
