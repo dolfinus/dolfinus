@@ -13,11 +13,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
-- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 
 ### 💼 Stack I'm Working With
 
@@ -72,15 +72,14 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
   </p>
 </a>
 
-### 🔭 Latest Releases I've Contributed To
 
 
-
+- [jupyter/notebook](https://github.com/jupyter/notebook) [`v6.5.2`](https://github.com/jupyter/notebook/releases/tag/v6.5.2) - Jupyter Interactive Notebook
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) [`v7.1.1`](https://github.com/andreax79/airflow-code-editor/releases/tag/v7.1.1) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 - [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) [`v2.0.0-beta.3`](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/releases/tag/v2.0.0-beta.3) - A responsive Mediawiki skin designed for the Star Citizen Wiki
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) [`v3.1.0`](https://github.com/hmarr/auto-approve-action/releases/tag/v3.1.0) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) [`v1.30.0`](https://github.com/mlflow/mlflow/releases/tag/v1.30.0) - Open source platform for the machine learning lifecycle
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) [`0.85.1`](https://github.com/tiangolo/fastapi/releases/tag/0.85.1) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+-->
 
 ### 💻 Going To Dive Into
 
