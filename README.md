@@ -18,11 +18,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API (1 week ago)
 - [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub (1 week ago)
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project (4 weeks ago)
-- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever! (1 month ago)
-- [ash-project/ash_graphql](https://github.com/ash-project/ash_graphql) - An absinthe backed graphql API extension for the Ash Framework (1 month ago)
-- [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) - A responsive Mediawiki skin designed for the Star Citizen Wiki (2 months ago)
-- [octfx/mediawiki-extension-WebP](https://github.com/octfx/mediawiki-extension-WebP) - Convert image files on upload to WebP (2 months ago)
-- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation (2 months ago)
 
 ### 💼 Stack I'm Working With
 
