@@ -13,7 +13,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 <!-- https://github.com/muesli/readme-scribe -->
-{{- range recentContributions 10 }}
+{{- range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{humanize .OccurredAt}})
 {{- end }}
 
