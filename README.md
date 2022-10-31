@@ -56,11 +56,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [[KubeIngressProxy] Add ingress_extra_annotations and ingress_extra_labels](https://github.com/jupyterhub/kubespawner/pull/655) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
 - [Fix hard-coded component label for services_enabled=True](https://github.com/jupyterhub/kubespawner/pull/654) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
 - [[KubeIngressProxy] Add common_labels option and expand username etc](https://github.com/jupyterhub/kubespawner/pull/653) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
-- [Draft: Allow to disable proxy pod and service creation](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/pull/2904) on [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s) (2 weeks ago)
-- [[KubeIngressProxy] Fix delete_route](https://github.com/jupyterhub/kubespawner/pull/649) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
-- [[KubeIngressProxy] Add `ingress_class_name`, `[hub|service|server]_specification`, `common_labels`, `extra_[labels|annotations]`](https://github.com/jupyterhub/kubespawner/pull/648) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
-- [[KubeIngressProxy] Set `should_start` to false and documentation fix](https://github.com/jupyterhub/kubespawner/pull/647) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
-- [[KubeIngressProxy] Fix 404 error in `add_route`](https://github.com/jupyterhub/kubespawner/pull/646) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (2 weeks ago)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -68,10 +63,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
-- [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
-- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
-- [dolfinus/YandexSiteVerification](https://github.com/dolfinus/YandexSiteVerification) - MediaWiki extension for site verification fo Yandex
-- [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector
 
 ### 💻 Stack I'm Currently Learning
 
@@ -109,11 +100,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
-- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
-- [jupyter-server/enterprise_gateway](https://github.com/jupyter-server/enterprise_gateway) - A lightweight, multi-tenant, scalable and secure gateway that enables Jupyter Notebooks to share resources across distributed clusters such as Apache Spark, Kubernetes and others.
-- [gateway-experiments/remote_provisioners](https://github.com/gateway-experiments/remote_provisioners) - 
-- [docker/cli](https://github.com/docker/cli) - The Docker CLI
-- [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin) - Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
 
 ### 💻 Software
 
