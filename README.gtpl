@@ -44,7 +44,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 <!-- https://github.com/muesli/readme-scribe -->
-{{- range recentPullRequests 10 }}
+{{- range recentPullRequests 5 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{humanize .CreatedAt}})
 {{- end }}
 
@@ -52,7 +52,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
                                        
 <!-- https://github.com/muesli/readme-scribe -->
-{{- range recentRepos 10 }}
+{{- range recentRepos 5 }}
 {{- if and (ne .Name "dolfinus/cryptonite") (ne .Name "dolfinus/qt_bb84") (ne .Name "dolfinus/arkenston-frontend") }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
@@ -89,7 +89,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 <!-- https://github.com/muesli/readme-scribe -->
-{{- range recentStars 10 }}
+{{- range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
