@@ -13,11 +13,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector (2 days ago)
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle (5 days ago)
+- [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector (3 days ago)
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle (6 days ago)
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API (1 week ago)
 - [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub (1 week ago)
-- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project (4 weeks ago)
+- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project (1 month ago)
 
 ### 💼 Stack I'm Working With
 
@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [Do not include archived repositories to recentRepos](https://github.com/muesli/markscribe/pull/52) on [muesli/markscribe](https://github.com/muesli/markscribe) (2 days ago)
+- [Apply log formatter to every line of stdout/stderr in SSHOperator](https://github.com/apache/airflow/pull/27442) on [apache/airflow](https://github.com/apache/airflow) (1 day ago)
+- [Do not include archived repositories to recentRepos](https://github.com/muesli/markscribe/pull/52) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 days ago)
 - [[KubeIngressProxy] Add reuse_existing_services option](https://github.com/jupyterhub/kubespawner/pull/656) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
 - [[KubeIngressProxy] Add ingress_extra_annotations and ingress_extra_labels](https://github.com/jupyterhub/kubespawner/pull/655) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
 - [Fix hard-coded component label for services_enabled=True](https://github.com/jupyterhub/kubespawner/pull/654) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
-- [[KubeIngressProxy] Add common_labels option and expand username etc](https://github.com/jupyterhub/kubespawner/pull/653) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) (1 week ago)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -90,11 +90,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [hexpm/hex](https://github.com/hexpm/hex) - Package manager for the Erlang VM
 - [pomponchik/polog](https://github.com/pomponchik/polog) - Логирование должно быть красивым
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
-- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 
 ### 💻 Software
 
