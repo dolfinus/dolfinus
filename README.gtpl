@@ -14,7 +14,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 <!-- https://github.com/muesli/readme-scribe -->
 {{- range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{humanize .OccurredAt}})
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
 ### 💼 Stack I'm Working With
@@ -45,7 +45,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 <!-- https://github.com/muesli/readme-scribe -->
 {{- range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{humanize .CreatedAt}})
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
 ### 🌱 My Pet Projects
