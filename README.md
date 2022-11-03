@@ -91,7 +91,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [hexpm/hex](https://github.com/hexpm/hex) - Package manager for the Erlang VM
-- [pomponchik/polog](https://github.com/pomponchik/polog) - Логирование должно быть красивым
+- [pomponchik/polog](https://github.com/pomponchik/polog) - Логгер нового поколения
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
