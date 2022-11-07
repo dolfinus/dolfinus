@@ -16,8 +16,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
 - [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
-- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
+- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 
 ### 💼 Stack I'm Working With
 
