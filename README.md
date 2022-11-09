@@ -13,11 +13,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
 - [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
-- [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
-- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 
 ### 💼 Stack I'm Working With
 
@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[KubeIngressProxy] Add KubeIngressProxy.ingress_class_name](https://github.com/jupyterhub/kubespawner/pull/668) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+- [[KubeIngressProxy] Add KubeIngressProxy.ingress_specifications](https://github.com/jupyterhub/kubespawner/pull/667) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Do not overflow object cross references](https://github.com/readthedocs/sphinx_rtd_theme/pull/1369) on [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme)
-- [Apply log formatter to every line of stdout/stderr in SSHOperator](https://github.com/apache/airflow/pull/27442) on [apache/airflow](https://github.com/apache/airflow)
+- [Apply log formatter on every ouput line in SSHOperator](https://github.com/apache/airflow/pull/27442) on [apache/airflow](https://github.com/apache/airflow)
 - [Do not include archived repositories to recentRepos](https://github.com/muesli/markscribe/pull/52) on [muesli/markscribe](https://github.com/muesli/markscribe)
-- [[KubeIngressProxy] Add reuse_existing_services option](https://github.com/jupyterhub/kubespawner/pull/656) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [[KubeIngressProxy] Add ingress_extra_annotations and ingress_extra_labels](https://github.com/jupyterhub/kubespawner/pull/655) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
