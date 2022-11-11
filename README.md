@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Avoid class state by passing relevant config to PodReflector on instanciation](https://github.com/jupyterhub/kubespawner/pull/672) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [[KubeIngressProxy] Add KubeIngressProxy.ingress_class_name](https://github.com/jupyterhub/kubespawner/pull/668) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [[KubeIngressProxy] Add KubeIngressProxy.ingress_specifications](https://github.com/jupyterhub/kubespawner/pull/667) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Do not overflow object cross references](https://github.com/readthedocs/sphinx_rtd_theme/pull/1369) on [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme)
 - [Apply log formatter on every ouput line in SSHOperator](https://github.com/apache/airflow/pull/27442) on [apache/airflow](https://github.com/apache/airflow)
-- [Do not include archived repositories to recentRepos](https://github.com/muesli/markscribe/pull/52) on [muesli/markscribe](https://github.com/muesli/markscribe)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -90,11 +90,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [jab/bidict](https://github.com/jab/bidict) - The bidirectional mapping library for Python.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
 - [LucaCanali/Miscellaneous](https://github.com/LucaCanali/Miscellaneous) - Includes notes on Apache Spark, Spark for Physics, Jupyter notebook examples for Spark, Oracle and other DB systems.
-- [hexpm/hex](https://github.com/hexpm/hex) - Package manager for the Erlang VM
 
 ### 💻 Software
 
