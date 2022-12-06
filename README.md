@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Set limits for XCOM pod](https://github.com/apache/airflow/pull/28125) on [apache/airflow](https://github.com/apache/airflow)
 - [Test restoring pod name from previos state](https://github.com/jupyterhub/kubespawner/pull/682) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Test spawn in different namespace](https://github.com/jupyterhub/kubespawner/pull/681) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Allow to watch multiple namespaces at the same time](https://github.com/jupyterhub/kubespawner/pull/678) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Save dns_name between restarts](https://github.com/jupyterhub/kubespawner/pull/677) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Avoid class state by passing relevant config to PodReflector on instanciation](https://github.com/jupyterhub/kubespawner/pull/672) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
