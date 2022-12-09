@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [LucaCanali/sparkMeasure](https://github.com/LucaCanali/sparkMeasure) - This is the development repository for sparkMeasure, a tool for performance troubleshooting of Apache Spark workloads. It simplifies the collection and analysis of Spark task and stage metrics data.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [readthedocs-examples/awesome-read-the-docs](https://github.com/readthedocs-examples/awesome-read-the-docs) - An Awesome List of Read the Docs projects
 - [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards) - Grafana Dashboards useful for k8s &#43; JupyterHub
 - [skshetry/webdav4](https://github.com/skshetry/webdav4) - WebDAV client library with a fsspec based filesystem and a CLI.
-- [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 
 ### 💻 Software
 
