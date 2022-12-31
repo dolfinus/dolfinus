@@ -13,11 +13,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
 - [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector
 - [MobileTeleSystems/ETL-Entities](https://github.com/MobileTeleSystems/ETL-Entities) - 
 - [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
 
 ### 💼 Stack I'm Working With
 
@@ -46,7 +46,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [Add Ash.Error.Invalid.TenantRequired error](https://github.com/ash-project/ash/pull/471) on [ash-project/ash](https://github.com/ash-project/ash)
+- [improvement: Add Ash.Error.Invalid.TenantRequired error](https://github.com/ash-project/ash/pull/471) on [ash-project/ash](https://github.com/ash-project/ash)
 - [Set limits for XCOM pod](https://github.com/apache/airflow/pull/28125) on [apache/airflow](https://github.com/apache/airflow)
 - [Test restoring pod name from previos state](https://github.com/jupyterhub/kubespawner/pull/682) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 - [Test spawn in different namespace](https://github.com/jupyterhub/kubespawner/pull/681) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
