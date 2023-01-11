@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK 
 - [apache/incubator-uniffle](https://github.com/apache/incubator-uniffle) - Uniffle is a high performance, general purpose Remote Shuffle Service.
 - [Qbeast-io/qbeast-spark](https://github.com/Qbeast-io/qbeast-spark) - Qbeast-spark: DataSource enabling multi-dimensional indexing and efficient data sampling.  Big Data, free from the unnecessary!
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [ash-project/ash_admin](https://github.com/ash-project/ash_admin) - An admin ui for Ash Resources
-- [ash-project/ash_postgres](https://github.com/ash-project/ash_postgres) - A postgresql datalayer for the Ash Framework
 
 ### 💻 Software
 
