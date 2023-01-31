@@ -17,7 +17,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
 - [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector
 - [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
-- [MobileTeleSystems/ETL-Entities](https://github.com/MobileTeleSystems/ETL-Entities) - 
+- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - 
 
 ### 💼 Stack I'm Working With
 
