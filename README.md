@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [nmnsnv/regexp_sar](https://github.com/nmnsnv/regexp_sar) - SAR is a new way of handling regular expression which allows us to run many regular expressions (only limitation being the available memory) at once. When adding a regexp, there is also a related callback that will be called upon each match in the same order in which they appear on the text
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast!
+- [Krukov/cashews](https://github.com/Krukov/cashews) - Cache with async power
 - [microsoft/sql-spark-connector](https://github.com/microsoft/sql-spark-connector) - Apache Spark Connector for SQL Server and Azure SQL
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm. 
-- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-- [executablebooks/sphinx-tabs](https://github.com/executablebooks/sphinx-tabs) - Tabbed views for Sphinx
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 
 ### 💻 Software
 
