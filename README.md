@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [team-alembic/phoenix_helpdesk](https://github.com/team-alembic/phoenix_helpdesk) - example project of ash working with postgres and phoenix
+- [team-alembic/my_ash_phoenix_project](https://github.com/team-alembic/my_ash_phoenix_project) - Working example phoenix app after following guide assoc with this PR: https://github.com/ash-project/ash/pull/504
 - [nmnsnv/regexp_sar](https://github.com/nmnsnv/regexp_sar) - SAR is a new way of handling regular expression which allows us to run many regular expressions (only limitation being the available memory) at once. When adding a regexp, there is also a related callback that will be called upon each match in the same order in which they appear on the text
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast!
 - [Krukov/cashews](https://github.com/Krukov/cashews) - Cache with async power
-- [microsoft/sql-spark-connector](https://github.com/microsoft/sql-spark-connector) - Apache Spark Connector for SQL Server and Azure SQL
-- [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm. 
 
 ### 💻 Software
 
