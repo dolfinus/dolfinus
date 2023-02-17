@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [mongodb/mongo-spark](https://github.com/mongodb/mongo-spark) - The MongoDB Spark Connector
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
 - [team-alembic/phoenix_helpdesk](https://github.com/team-alembic/phoenix_helpdesk) - example project of ash working with postgres and phoenix
 - [team-alembic/my_ash_phoenix_project](https://github.com/team-alembic/my_ash_phoenix_project) - Working example phoenix app after following guide assoc with this PR: https://github.com/ash-project/ash/pull/504
 - [nmnsnv/regexp_sar](https://github.com/nmnsnv/regexp_sar) - SAR is a new way of handling regular expression which allows us to run many regular expressions (only limitation being the available memory) at once. When adding a regexp, there is also a related callback that will be called upon each match in the same order in which they appear on the text
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast!
 
 ### 💻 Software
 
