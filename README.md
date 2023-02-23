@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers.
+- [jayqi/typenames](https://github.com/jayqi/typenames) - String representations of Python type annotations
 - [ing-bank/popmon](https://github.com/ing-bank/popmon) - Monitor the stability of a Pandas or Spark dataframe ⚙︎
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading and writing Excel files
-- [mongodb/mongo-spark](https://github.com/mongodb/mongo-spark) - The MongoDB Spark Connector
-- [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
 
 ### 💻 Software
 
