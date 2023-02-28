@@ -13,9 +13,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
-- [MobileTeleSystems/Evacuator](https://github.com/MobileTeleSystems/Evacuator) - Catch exception and exit with specific exit code
+- [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
+- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
 
@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Release](https://github.com/MobileTeleSystems/evacuator/pull/6) on [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator)
+- [Release](https://github.com/MobileTeleSystems/etl-entities/pull/8) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
+- [[DSX-2094] Prepare release](https://github.com/MobileTeleSystems/evacuator/pull/5) on [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator)
+- [[DOP-1050] Prepare release](https://github.com/MobileTeleSystems/etl-entities/pull/7) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 - [Record VM start time](https://github.com/hanabi1224/Programming-Language-Benchmarks/pull/351) on [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks)
-- [Keep CPU and memory measures in case of timeout](https://github.com/hanabi1224/Programming-Language-Benchmarks/pull/350) on [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks)
-- [Fix language links](https://github.com/hanabi1224/Programming-Language-Benchmarks/pull/349) on [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks)
-- [improvement: Add Ash.Error.Invalid.TenantRequired error](https://github.com/ash-project/ash/pull/471) on [ash-project/ash](https://github.com/ash-project/ash)
-- [Set limits for XCOM pod](https://github.com/apache/airflow/pull/28125) on [apache/airflow](https://github.com/apache/airflow)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [AbsaOSS/ABRiS](https://github.com/AbsaOSS/ABRiS) - Avro SerDe for Apache Spark structured APIs.
 - [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 - [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers.
 - [jayqi/typenames](https://github.com/jayqi/typenames) - String representations of Python type annotations
 - [ing-bank/popmon](https://github.com/ing-bank/popmon) - Monitor the stability of a Pandas or Spark dataframe ⚙︎
-- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 
 ### 💻 Software
 
