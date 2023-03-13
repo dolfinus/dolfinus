@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [arcizon/spark-filetransfer](https://github.com/arcizon/spark-filetransfer) - API for reading and writing data via various file transfer protocols from Apache Spark.
+- [springml/spark-sftp](https://github.com/springml/spark-sftp) - Spark connector for SFTP
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 - [databricks/spark-xml](https://github.com/databricks/spark-xml) - XML data source for Spark SQL and DataFrames
-- [pika/pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
-- [AbsaOSS/ABRiS](https://github.com/AbsaOSS/ABRiS) - Avro SerDe for Apache Spark structured APIs.
-- [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 
 ### 💻 Software
 
