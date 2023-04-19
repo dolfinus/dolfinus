@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [pomponchik/fazy](https://github.com/pomponchik/fazy) - Lazy f-strings for everyone
+- [replicatedhq/dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [AbsaOSS/spline-spark-agent](https://github.com/AbsaOSS/spline-spark-agent) - Spline agent for Apache Spark
 - [snowflakedb/spark-snowflake](https://github.com/snowflakedb/spark-snowflake) - Snowflake Data Source for Apache Spark.
 - [neo4j-contrib/neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j Connector for Apache Spark, which provides bi-directional read/write access to Neo4j from Spark, using the Spark DataSource APIs
-- [lelit/pglast](https://github.com/lelit/pglast) - PostgreSQL Languages AST and statements prettifier: master branch covers PG10, v2 branch covers PG12, v3 covers PG13, v4 covers PG14, v5 covers PG15
-- [housepower/spark-clickhouse-connector](https://github.com/housepower/spark-clickhouse-connector) - Spark ClickHouse Connector build on DataSourceV2 API
 
 ### 💻 Software
 
