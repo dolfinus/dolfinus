@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-3140] Add release workflow](https://github.com/MobileTeleSystems/onetl/pull/5) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-3139] Add dev release workflow](https://github.com/MobileTeleSystems/onetl/pull/4) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-3138] Add CodeQL workflow](https://github.com/MobileTeleSystems/onetl/pull/3) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-3136] Add ReadTheDocs integration](https://github.com/MobileTeleSystems/onetl/pull/2) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-3135] Fix URLs](https://github.com/MobileTeleSystems/onetl/pull/1) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Fix tests badge](https://github.com/jupyterhub/kubespawner/pull/719) on [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-- [Release](https://github.com/MobileTeleSystems/evacuator/pull/6) on [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
