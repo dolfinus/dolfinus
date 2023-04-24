@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+- [hissssst/tria](https://github.com/hissssst/tria) - Optimizing compiler for Elixir
 - [pomponchik/fazy](https://github.com/pomponchik/fazy) - Lazy f-strings for everyone
 - [replicatedhq/dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [AbsaOSS/spline-spark-agent](https://github.com/AbsaOSS/spline-spark-agent) - Spline agent for Apache Spark
-- [snowflakedb/spark-snowflake](https://github.com/snowflakedb/spark-snowflake) - Snowflake Data Source for Apache Spark.
-- [neo4j-contrib/neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j Connector for Apache Spark, which provides bi-directional read/write access to Neo4j from Spark, using the Spark DataSource APIs
 
 ### 💻 Software
 
