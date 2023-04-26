@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[DOP-4140] Add logo](https://github.com/MobileTeleSystems/onetl/pull/7) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-4133] Initial release](https://github.com/MobileTeleSystems/hadoop-docker/pull/1) on [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker)
-- [[DOP-3137] Add tests workflow for Clickhouse](https://github.com/MobileTeleSystems/onetl/pull/6) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-3140] Add release workflow](https://github.com/MobileTeleSystems/onetl/pull/5) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-3139] Add dev release workflow](https://github.com/MobileTeleSystems/onetl/pull/4) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-3137] Add tests workflow for Postgres](https://github.com/MobileTeleSystems/onetl/pull/16) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-3137] Add tests workflow for Teradata](https://github.com/MobileTeleSystems/onetl/pull/15) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-3137] Add tests workflow for Oracle](https://github.com/MobileTeleSystems/onetl/pull/14) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-3137] Add tests workflow for MongoDB](https://github.com/MobileTeleSystems/onetl/pull/13) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-3137] Add tests workflow for MySQL](https://github.com/MobileTeleSystems/onetl/pull/12) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [hissssst/tria](https://github.com/hissssst/tria) - Optimizing compiler for Elixir
 - [pomponchik/fazy](https://github.com/pomponchik/fazy) - Lazy f-strings for everyone
-- [replicatedhq/dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
-- [AbsaOSS/spline-spark-agent](https://github.com/AbsaOSS/spline-spark-agent) - Spline agent for Apache Spark
 
 ### 💻 Software
 
