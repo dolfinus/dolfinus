@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-3137] Add tests workflow for S3](https://github.com/MobileTeleSystems/onetl/pull/18) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-3137] Add tests workflow for core](https://github.com/MobileTeleSystems/onetl/pull/17) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-3137] Add tests workflow for Postgres](https://github.com/MobileTeleSystems/onetl/pull/16) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-3137] Add tests workflow for Teradata](https://github.com/MobileTeleSystems/onetl/pull/15) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-3137] Add tests workflow for Oracle](https://github.com/MobileTeleSystems/onetl/pull/14) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-3137] Add tests workflow for MongoDB](https://github.com/MobileTeleSystems/onetl/pull/13) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-3137] Add tests workflow for MySQL](https://github.com/MobileTeleSystems/onetl/pull/12) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [hissssst/tria](https://github.com/hissssst/tria) - Optimizing compiler for Elixir
-- [pomponchik/fazy](https://github.com/pomponchik/fazy) - Lazy f-strings for everyone
 
 ### 💻 Software
 
