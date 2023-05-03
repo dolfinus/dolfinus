@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-3137] Add tests workflow for FTP/FTPS](https://github.com/MobileTeleSystems/onetl/pull/23) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-3137] Add tests workflow for WebDAV](https://github.com/MobileTeleSystems/onetl/pull/22) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [Change owner of /var/webdav/ to APACHE_RUN_USER](https://github.com/chonjay21/docker-webdav/pull/3) on [chonjay21/docker-webdav](https://github.com/chonjay21/docker-webdav)
+- [[DOP-3137] Add tests workflow for HDFS](https://github.com/MobileTeleSystems/onetl/pull/21) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-3137] Add tests workflow for Hive](https://github.com/MobileTeleSystems/onetl/pull/20) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-3137] Add tests workflow for SFTP](https://github.com/MobileTeleSystems/onetl/pull/19) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-3137] Add tests workflow for S3](https://github.com/MobileTeleSystems/onetl/pull/18) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-3137] Add tests workflow for core](https://github.com/MobileTeleSystems/onetl/pull/17) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-3137] Add tests workflow for Postgres](https://github.com/MobileTeleSystems/onetl/pull/16) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [beartype/plum](https://github.com/beartype/plum) - Multiple dispatch in Python
+- [chonjay21/docker-webdav](https://github.com/chonjay21/docker-webdav) - WebDav based on official latest httpd image
+- [chonjay21/docker-ftps](https://github.com/chonjay21/docker-ftps) - FTPS based on official latest alpine image
 - [MrPowers/quinn](https://github.com/MrPowers/quinn) - pyspark methods to enhance developer productivity 📣 👯 🎉
 - [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 
 ### 💻 Software
 
