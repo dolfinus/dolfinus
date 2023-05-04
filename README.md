@@ -13,8 +13,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 - [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-3137] Add tests workflow for Greenplum](https://github.com/MobileTeleSystems/onetl/pull/24) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-3137] Add tests workflow for FTP/FTPS](https://github.com/MobileTeleSystems/onetl/pull/23) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-3137] Add tests workflow for WebDAV](https://github.com/MobileTeleSystems/onetl/pull/22) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Change owner of /var/webdav/ to APACHE_RUN_USER](https://github.com/chonjay21/docker-webdav/pull/3) on [chonjay21/docker-webdav](https://github.com/chonjay21/docker-webdav)
 - [[DOP-3137] Add tests workflow for HDFS](https://github.com/MobileTeleSystems/onetl/pull/21) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-3137] Add tests workflow for Hive](https://github.com/MobileTeleSystems/onetl/pull/20) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
