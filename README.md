@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-4782] Fix S3.walk empty result for /](https://github.com/MobileTeleSystems/onetl/pull/29) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-4663] Add PySpark 3.4.x compatibility](https://github.com/MobileTeleSystems/onetl/pull/28) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-4663] Improve internal logging functions](https://github.com/MobileTeleSystems/onetl/pull/27) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-4663] Move default validate_hwm_expression to a mixin](https://github.com/MobileTeleSystems/onetl/pull/26) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-4663] Update MongoDB connector to v10](https://github.com/MobileTeleSystems/onetl/pull/25) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-3137] Add tests workflow for Greenplum](https://github.com/MobileTeleSystems/onetl/pull/24) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-3137] Add tests workflow for FTP/FTPS](https://github.com/MobileTeleSystems/onetl/pull/23) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -88,11 +88,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [beartype/plum](https://github.com/beartype/plum) - Multiple dispatch in Python
 - [chonjay21/docker-webdav](https://github.com/chonjay21/docker-webdav) - WebDav based on official latest httpd image
 - [chonjay21/docker-ftps](https://github.com/chonjay21/docker-ftps) - FTPS based on official latest alpine image
 - [MrPowers/quinn](https://github.com/MrPowers/quinn) - pyspark methods to enhance developer productivity 📣 👯 🎉
-- [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
 
 ### 💻 Software
 
