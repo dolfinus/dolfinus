@@ -13,11 +13,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
+- [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 - [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 
 ### 💼 Stack I'm Working With
 
@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-4041] Sync project with onETL](https://github.com/MobileTeleSystems/etl-entities/pull/10) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
+- [[DOP-4041] Sync project with onETL](https://github.com/MobileTeleSystems/evacuator/pull/8) on [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator)
+- [[DOP-4781] Test Clickhouse](https://github.com/MobileTeleSystems/onetl/pull/34) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Release 0.7.0](https://github.com/MobileTeleSystems/onetl/pull/33) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-4781] Improve tests workflow](https://github.com/MobileTeleSystems/onetl/pull/32) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-4780] Update JDBC drivers to latest](https://github.com/MobileTeleSystems/onetl/pull/31) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-4664] Rename table to source](https://github.com/MobileTeleSystems/onetl/pull/30) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-4782] Fix S3.walk empty result for /](https://github.com/MobileTeleSystems/onetl/pull/29) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
