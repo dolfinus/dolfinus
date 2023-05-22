@@ -80,11 +80,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [apache/commons-compress](https://github.com/apache/commons-compress) - Apache Commons Compress
 - [pyramation/faker](https://github.com/pyramation/faker) - create fake data in PostgreSQL
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
-- [beartype/plum](https://github.com/beartype/plum) - Multiple dispatch in Python
 
 ### 💻 Software
 
