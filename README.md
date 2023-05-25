@@ -14,10 +14,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [python/typing_extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
-- [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) - Kubernetes spawner for JupyterHub
 
 ### 💼 Stack I'm Working With
 
@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-5631] Split FileFilter to separated classes](https://github.com/MobileTeleSystems/onetl/pull/43) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [Fix isinstance check for Generic classes](https://github.com/python/typing_extensions/pull/188) on [python/typing_extensions](https://github.com/python/typing_extensions)
 - [[DOP-3203] Add FileMover](https://github.com/MobileTeleSystems/onetl/pull/42) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-5595] Fix setup_logging format](https://github.com/MobileTeleSystems/onetl/pull/41) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-5429] Add rename_dir method](https://github.com/MobileTeleSystems/onetl/pull/40) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-5431] Add docstrings to FileConnection methods](https://github.com/MobileTeleSystems/onetl/pull/39) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Fix Dockerfile](https://github.com/MobileTeleSystems/onetl/pull/38) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
