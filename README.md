@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-5632] Split FileLimit to separate limits](https://github.com/MobileTeleSystems/onetl/pull/44) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-5631] Split FileFilter to separated classes](https://github.com/MobileTeleSystems/onetl/pull/43) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Fix isinstance check for Generic classes](https://github.com/python/typing_extensions/pull/188) on [python/typing_extensions](https://github.com/python/typing_extensions)
 - [[DOP-3203] Add FileMover](https://github.com/MobileTeleSystems/onetl/pull/42) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-5595] Fix setup_logging format](https://github.com/MobileTeleSystems/onetl/pull/41) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-5429] Add rename_dir method](https://github.com/MobileTeleSystems/onetl/pull/40) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
