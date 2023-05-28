@@ -80,11 +80,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [apache/parquet-mr](https://github.com/apache/parquet-mr) - Apache Parquet
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [apache/commons-compress](https://github.com/apache/commons-compress) - Apache Commons Compress
-- [pyramation/faker](https://github.com/pyramation/faker) - create fake data in PostgreSQL
 
 ### 💻 Software
 
