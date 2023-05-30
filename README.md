@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-5797] Add changelog](https://github.com/MobileTeleSystems/onetl/pull/47) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-5634] Move core classes to separate modules](https://github.com/MobileTeleSystems/onetl/pull/46) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-5633] Accept filter and limit as lists in FileDownloader &amp; Mover](https://github.com/MobileTeleSystems/onetl/pull/45) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-5632] Split FileLimit to separate limits](https://github.com/MobileTeleSystems/onetl/pull/44) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-5631] Split FileFilter to separated classes](https://github.com/MobileTeleSystems/onetl/pull/43) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Fix isinstance check for Generic classes](https://github.com/python/typing_extensions/pull/188) on [python/typing_extensions](https://github.com/python/typing_extensions)
-- [[DOP-3203] Add FileMover](https://github.com/MobileTeleSystems/onetl/pull/42) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -80,11 +80,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [sphinx-contrib/sphinxcontrib-towncrier](https://github.com/sphinx-contrib/sphinxcontrib-towncrier) - An RST directive for injecting a Towncrier-generated changelog draft containing fragments for the unreleased (next) project version. Demo: https://ansible-pylibssh.rtfd.io/changelog. Docs: https://sphinxcontrib-towncrier.rtfd.io
+- [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [apache/parquet-mr](https://github.com/apache/parquet-mr) - Apache Parquet
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
-- [apache/commons-compress](https://github.com/apache/commons-compress) - Apache Commons Compress
 
 ### 💻 Software
 
