@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[ATLAS-4759] Do not suppress HTTP 503 error in Python client](https://github.com/apache/atlas/pull/231) on [apache/atlas](https://github.com/apache/atlas)
+- [[DOP-6022] Improve documentation &amp; Contribution guide](https://github.com/MobileTeleSystems/onetl/pull/50) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-3709] Add @slot to methods of public interfaces](https://github.com/MobileTeleSystems/onetl/pull/49) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-5797] Add changelog for 0.7.x and 0.8.0](https://github.com/MobileTeleSystems/onetl/pull/48) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-5797] Add changelog](https://github.com/MobileTeleSystems/onetl/pull/47) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-5634] Move core classes to separate modules](https://github.com/MobileTeleSystems/onetl/pull/46) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-5633] Accept filter and limit as lists in FileDownloader &amp; Mover](https://github.com/MobileTeleSystems/onetl/pull/45) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
