@@ -80,11 +80,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [mtkennerly/dunamai](https://github.com/mtkennerly/dunamai) - Dynamic versioning library and CLI
 - [confluentinc/kafka-connect-hdfs](https://github.com/confluentinc/kafka-connect-hdfs) - Kafka Connect HDFS connector
 - [qubole/sparklens](https://github.com/qubole/sparklens) - Qubole Sparklens tool for performance tuning Apache Spark
 - [ExpediaGroup/waggle-dance](https://github.com/ExpediaGroup/waggle-dance) - Hive federation service. Enables disparate tables to be concurrently accessed across multiple Hive deployments.
 - [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
-- [apache/atlas](https://github.com/apache/atlas) - Apache Atlas
 
 ### 💻 Software
 
