@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-7111] Fix failing tests](https://github.com/MobileTeleSystems/onetl/pull/59) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-7104] Fix S3.list_dir(&#39;/&#39;) returns empty list on latest Minio version](https://github.com/MobileTeleSystems/onetl/pull/58) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-7051] Support parallel operations in file classes](https://github.com/MobileTeleSystems/onetl/pull/57) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Update CI](https://github.com/MobileTeleSystems/onetl/pull/53) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[ATLAS-4759] Do not suppress HTTP 503 error in Python client](https://github.com/apache/atlas/pull/231) on [apache/atlas](https://github.com/apache/atlas)
-- [[DOP-6022] Improve documentation &amp; Contribution guide](https://github.com/MobileTeleSystems/onetl/pull/50) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-3709] Add @slot to methods of public interfaces](https://github.com/MobileTeleSystems/onetl/pull/49) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-5797] Add changelog for 0.7.x and 0.8.0](https://github.com/MobileTeleSystems/onetl/pull/48) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -80,11 +80,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [pydantic/bump-pydantic](https://github.com/pydantic/bump-pydantic) - Convert Pydantic from V1 to V2 ♻
 - [mtkennerly/dunamai](https://github.com/mtkennerly/dunamai) - Dynamic versioning library and CLI
 - [confluentinc/kafka-connect-hdfs](https://github.com/confluentinc/kafka-connect-hdfs) - Kafka Connect HDFS connector
 - [qubole/sparklens](https://github.com/qubole/sparklens) - Qubole Sparklens tool for performance tuning Apache Spark
 - [ExpediaGroup/waggle-dance](https://github.com/ExpediaGroup/waggle-dance) - Hive federation service. Enables disparate tables to be concurrently accessed across multiple Hive deployments.
-- [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
 
 ### 💻 Software
 
