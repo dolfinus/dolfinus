@@ -13,10 +13,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [apache/atlas](https://github.com/apache/atlas) - Apache Atlas
 
 ### 💼 Stack I'm Working With
@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-7206] Allow to skip changelog CI check](https://github.com/MobileTeleSystems/onetl/pull/62) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-7189] Update CI test matrix](https://github.com/MobileTeleSystems/onetl/pull/61) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-7122] Run Kafka tests in CI](https://github.com/MobileTeleSystems/onetl/pull/60) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7111] Fix failing tests](https://github.com/MobileTeleSystems/onetl/pull/59) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7104] Fix S3.list_dir(&#39;/&#39;) returns empty list on latest Minio version](https://github.com/MobileTeleSystems/onetl/pull/58) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-7051] Support parallel operations in file classes](https://github.com/MobileTeleSystems/onetl/pull/57) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Update CI](https://github.com/MobileTeleSystems/onetl/pull/53) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[ATLAS-4759] Do not suppress HTTP 503 error in Python client](https://github.com/apache/atlas/pull/231) on [apache/atlas](https://github.com/apache/atlas)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -80,11 +80,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [team-alembic/ash_authentication](https://github.com/team-alembic/ash_authentication) - The Ash Authentication framework
+- [RedisLabs/spark-redis](https://github.com/RedisLabs/spark-redis) - A connector for Spark that allows reading and writing to/from Redis cluster
 - [pydantic/bump-pydantic](https://github.com/pydantic/bump-pydantic) - Convert Pydantic from V1 to V2 ♻
 - [mtkennerly/dunamai](https://github.com/mtkennerly/dunamai) - Dynamic versioning library and CLI
 - [confluentinc/kafka-connect-hdfs](https://github.com/confluentinc/kafka-connect-hdfs) - Kafka Connect HDFS connector
-- [qubole/sparklens](https://github.com/qubole/sparklens) - Qubole Sparklens tool for performance tuning Apache Spark
-- [ExpediaGroup/waggle-dance](https://github.com/ExpediaGroup/waggle-dance) - Hive federation service. Enables disparate tables to be concurrently accessed across multiple Hive deployments.
 
 ### 💻 Software
 
