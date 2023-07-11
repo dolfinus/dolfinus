@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Release 0.8.1](https://github.com/MobileTeleSystems/onetl/pull/64) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7206] Allow to skip changelog CI check](https://github.com/MobileTeleSystems/onetl/pull/62) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7189] Update CI test matrix](https://github.com/MobileTeleSystems/onetl/pull/61) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7122] Run Kafka tests in CI](https://github.com/MobileTeleSystems/onetl/pull/60) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7111] Fix failing tests](https://github.com/MobileTeleSystems/onetl/pull/59) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-7104] Fix S3.list_dir(&#39;/&#39;) returns empty list on latest Minio version](https://github.com/MobileTeleSystems/onetl/pull/58) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
