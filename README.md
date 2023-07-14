@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-7507] Rebuild fixtures](https://github.com/MobileTeleSystems/onetl/pull/70) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-6705] Add CSV file format](https://github.com/MobileTeleSystems/onetl/pull/69) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6701] Add SparkLocalFS connection](https://github.com/MobileTeleSystems/onetl/pull/67) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6700] Add BaseFileDFConnection &amp; BaseFileFormat classes](https://github.com/MobileTeleSystems/onetl/pull/66) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Release 0.8.1](https://github.com/MobileTeleSystems/onetl/pull/64) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-7206] Allow to skip changelog CI check](https://github.com/MobileTeleSystems/onetl/pull/62) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-7189] Update CI test matrix](https://github.com/MobileTeleSystems/onetl/pull/61) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -80,11 +80,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
 - [team-alembic/ash_authentication](https://github.com/team-alembic/ash_authentication) - The Ash Authentication framework
 - [RedisLabs/spark-redis](https://github.com/RedisLabs/spark-redis) - A connector for Spark that allows reading and writing to/from Redis cluster
 - [pydantic/bump-pydantic](https://github.com/pydantic/bump-pydantic) - Convert Pydantic from V1 to V2 ♻
 - [mtkennerly/dunamai](https://github.com/mtkennerly/dunamai) - Dynamic versioning library and CLI
-- [confluentinc/kafka-connect-hdfs](https://github.com/confluentinc/kafka-connect-hdfs) - Kafka Connect HDFS connector
 
 ### 💻 Software
 
