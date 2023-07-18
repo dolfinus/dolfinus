@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-6703] Implement FileReader](https://github.com/MobileTeleSystems/onetl/pull/73) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7507] Rebuild fixtures](https://github.com/MobileTeleSystems/onetl/pull/70) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6705] Add CSV file format](https://github.com/MobileTeleSystems/onetl/pull/69) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6701] Add SparkLocalFS connection](https://github.com/MobileTeleSystems/onetl/pull/67) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6700] Add BaseFileDFConnection &amp; BaseFileFormat classes](https://github.com/MobileTeleSystems/onetl/pull/66) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Release 0.8.1](https://github.com/MobileTeleSystems/onetl/pull/64) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
