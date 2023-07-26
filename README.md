@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-7675] Add utility functions for Spark &amp; Java](https://github.com/MobileTeleSystems/onetl/pull/85) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6709] Implement JSON and JSONLine formats](https://github.com/MobileTeleSystems/onetl/pull/83) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7633] Improve generate_files.py](https://github.com/MobileTeleSystems/onetl/pull/82) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6706] Implement FileWriter](https://github.com/MobileTeleSystems/onetl/pull/81) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7507] Move assertions for dataframe from Processing classes](https://github.com/MobileTeleSystems/onetl/pull/76) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-7507] Move file_connection fixture files to subdir](https://github.com/MobileTeleSystems/onetl/pull/75) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -80,11 +80,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [Lancetnik/FastDepends](https://github.com/Lancetnik/FastDepends) - FastDepends - FastAPI Dependency Injection system extracted from FastAPI and cleared of all HTTP logic. Async and sync modes are both supported.
+- [pawurb/ecto_psql_extras](https://github.com/pawurb/ecto_psql_extras) - Ecto PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
 - [oap-project/gluten](https://github.com/oap-project/gluten) - Gluten: Plugin to Double SparkSQL&#39;s Performance
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
-- [team-alembic/ash_authentication](https://github.com/team-alembic/ash_authentication) - The Ash Authentication framework
-- [RedisLabs/spark-redis](https://github.com/RedisLabs/spark-redis) - A connector for Spark that allows reading and writing to/from Redis cluster
 
 ### 💻 Software
 
