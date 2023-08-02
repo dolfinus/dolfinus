@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-6708] Implement SparkHDFS connection class](https://github.com/MobileTeleSystems/onetl/pull/98) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-7866] Move Java class availability check to validator](https://github.com/MobileTeleSystems/onetl/pull/97) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6707] Implement SparkS3 connection class](https://github.com/MobileTeleSystems/onetl/pull/94) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6713] Add Avro file format support](https://github.com/MobileTeleSystems/onetl/pull/92) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7735] Fix missing arguments in classmethod documentation](https://github.com/MobileTeleSystems/onetl/pull/90) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-6711] Add Parquet file format support](https://github.com/MobileTeleSystems/onetl/pull/88) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-7694] Add Connection.get_packages() method](https://github.com/MobileTeleSystems/onetl/pull/87) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
