@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-2352] Add Kafka.check method](https://github.com/MobileTeleSystems/onetl/pull/102) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7900] Add negative tests on SparkS3.check](https://github.com/MobileTeleSystems/onetl/pull/100) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7895] Fix building documentation](https://github.com/MobileTeleSystems/onetl/pull/99) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6708] Implement SparkHDFS connection class](https://github.com/MobileTeleSystems/onetl/pull/98) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7866] Move Java class availability check to validator](https://github.com/MobileTeleSystems/onetl/pull/97) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-6707] Implement SparkS3 connection class](https://github.com/MobileTeleSystems/onetl/pull/94) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
