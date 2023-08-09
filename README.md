@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-7957] Rename mode -&gt; if_exists, and make modes more descriptive](https://github.com/MobileTeleSystems/onetl/pull/108) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7935] Add documentation for FileDF connections](https://github.com/MobileTeleSystems/onetl/pull/105) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7933] Rename HDFS.slots to HDFS.Slots](https://github.com/MobileTeleSystems/onetl/pull/103) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-2352] Add Kafka.check method](https://github.com/MobileTeleSystems/onetl/pull/102) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7900] Add negative tests on SparkS3.check](https://github.com/MobileTeleSystems/onetl/pull/100) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-7895] Fix building documentation](https://github.com/MobileTeleSystems/onetl/pull/99) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
