@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Upgrade to Python 3.7&#43; syntax](https://github.com/jborean93/smbprotocol/pull/234) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
+- [Do not setup logging in libraries](https://github.com/jborean93/smbprotocol/pull/233) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
 - [[DOP-7986] Add Kafka.ScramAuth](https://github.com/MobileTeleSystems/onetl/pull/115) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-8092] Rename FileReader -&gt; FileDFReader](https://github.com/MobileTeleSystems/onetl/pull/113) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-7693] Implement Connection.inject_packages() method](https://github.com/MobileTeleSystems/onetl/pull/112) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8019] Improve Kafka.KerberosAuth](https://github.com/MobileTeleSystems/onetl/pull/110) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-7957] Rename mode -&gt; if_exists, and make modes more descriptive](https://github.com/MobileTeleSystems/onetl/pull/108) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
