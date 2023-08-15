@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-8133] Rename disable_clients_logging to setup_clients_logging](https://github.com/MobileTeleSystems/onetl/pull/120) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8132] FileDFWriter.target_path cannot be None](https://github.com/MobileTeleSystems/onetl/pull/119) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8112] Log real module, file and line number](https://github.com/MobileTeleSystems/onetl/pull/117) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8109] Improve error messages in get_packages](https://github.com/MobileTeleSystems/onetl/pull/116) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Upgrade to Python 3.7&#43; syntax](https://github.com/jborean93/smbprotocol/pull/234) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
-- [Do not setup logging in libraries](https://github.com/jborean93/smbprotocol/pull/233) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
-- [[DOP-7986] Add Kafka.ScramAuth](https://github.com/MobileTeleSystems/onetl/pull/115) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8092] Rename FileReader -&gt; FileDFReader](https://github.com/MobileTeleSystems/onetl/pull/113) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-7693] Implement Connection.inject_packages() method](https://github.com/MobileTeleSystems/onetl/pull/112) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -80,11 +80,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [pytest-dev/pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) - a pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures
 - [scravy/pysparkextra](https://github.com/scravy/pysparkextra) - 
 - [51zero/eel-sdk](https://github.com/51zero/eel-sdk) - Big Data Toolkit for the JVM
 - [MrPowers/chispa](https://github.com/MrPowers/chispa) - PySpark test helper methods with beautiful error messages
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
-- [codecov/codecov-api](https://github.com/codecov/codecov-api) - Code for the API of Codecov
 
 ### 💻 Software
 
