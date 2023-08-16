@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-8143] Fix Kafka issues](https://github.com/MobileTeleSystems/onetl/pull/123) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8142] Add Kafka to documentation](https://github.com/MobileTeleSystems/onetl/pull/122) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-8133] Rename disable_clients_logging to setup_clients_logging](https://github.com/MobileTeleSystems/onetl/pull/120) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-8132] FileDFWriter.target_path cannot be None](https://github.com/MobileTeleSystems/onetl/pull/119) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-8112] Log real module, file and line number](https://github.com/MobileTeleSystems/onetl/pull/117) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8109] Improve error messages in get_packages](https://github.com/MobileTeleSystems/onetl/pull/116) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Upgrade to Python 3.7&#43; syntax](https://github.com/jborean93/smbprotocol/pull/234) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
