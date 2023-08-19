@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [Release 0.9.0](https://github.com/MobileTeleSystems/onetl/pull/126) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8140] Move subclasses to different modules](https://github.com/MobileTeleSystems/onetl/pull/125) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8157] Add SparkS3 troubleshooting guide](https://github.com/MobileTeleSystems/onetl/pull/124) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8143] Fix Kafka issues](https://github.com/MobileTeleSystems/onetl/pull/123) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8142] Add Kafka to documentation](https://github.com/MobileTeleSystems/onetl/pull/122) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8140] Split HDFS and HDFS.Slots to separated submodules](https://github.com/MobileTeleSystems/onetl/pull/132) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8208] Detect includeHeaders value automatically during write](https://github.com/MobileTeleSystems/onetl/pull/131) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8140] Split Hive.Dialect, .Slots and .*Options to separated submodules](https://github.com/MobileTeleSystems/onetl/pull/130) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8140] Split MongoDB.Dialect and .*Options to separated submodules](https://github.com/MobileTeleSystems/onetl/pull/129) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8140] Split JDBCConnection.Dialect and Options to separated submodule](https://github.com/MobileTeleSystems/onetl/pull/128) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
