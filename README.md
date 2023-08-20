@@ -13,11 +13,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol) - Python SMBv2 and v3 Client
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
-- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 
 ### 💼 Stack I'm Working With
 
@@ -46,11 +46,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Combine coverage before upload](https://github.com/jborean93/smbprotocol/pull/236) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
+- [Combine coverage before upload](https://github.com/dolfinus/smbprotocol/pull/1) on [dolfinus/smbprotocol](https://github.com/dolfinus/smbprotocol)
+- [Combine coverage before upload](https://github.com/jborean93/smbprotocol/pull/235) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
 - [[DOP-8140] Split HDFS and HDFS.Slots to separated submodules](https://github.com/MobileTeleSystems/onetl/pull/132) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-8208] Detect includeHeaders value automatically during write](https://github.com/MobileTeleSystems/onetl/pull/131) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8140] Split Hive.Dialect, .Slots and .*Options to separated submodules](https://github.com/MobileTeleSystems/onetl/pull/130) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8140] Split MongoDB.Dialect and .*Options to separated submodules](https://github.com/MobileTeleSystems/onetl/pull/129) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8140] Split JDBCConnection.Dialect and Options to separated submodule](https://github.com/MobileTeleSystems/onetl/pull/128) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
