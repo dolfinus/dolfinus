@@ -13,40 +13,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 
-### 💼 Stack I'm Working With
-
- - **Languages:**  </br>
-  <a href="https://github.com/Ileriayo/markdown-badges">
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  </a>
-
- - **Frameworks:**  </br>
-  <a href="https://github.com/Ileriayo/markdown-badges">
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  </a>
-
- - **Big Data:**  </br>
-  <a href="https://github.com/Ileriayo/markdown-badges">
-    <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-d6d80f?style=for-the-badge&logo=Apache%20Hadoop&logoColor=black"/>
-    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-C71A36?style=for-the-badge&logo=Apache%20Spark&logoColor=white"/>
-    <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
-  </a>
-
- - **DevOps:**  </br>
-  <a href="https://github.com/Ileriayo/markdown-badges">
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-    <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
-  </a>
-
- - **DBMS:**  </br>
-  <a href="https://github.com/Ileriayo/markdown-badges">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="Oracle" src="https://img.shields.io/badge/oracle-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="Apache Hive" src="https://img.shields.io/badge/hive-fdef28.svg?style=for-the-badge&logo=apache-hive&logoColor=black"/>
-  </a>
-
 ### 🔨 My Recent Pull Requests
 
 
@@ -63,12 +29,47 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
 
+### 💼 Stack I'm Working With
+
+ - **Languages:**  </br>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  </a>
+
+ - **Frameworks:**  </br>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+    <img alt="Celery" src="https://img.shields.io/badge/Celery-37814a?style=for-the-badge&logo=celery"/>
+  </a>
+
+ - **Big Data:**  </br>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-d6d80f?style=for-the-badge&logo=Apache%20Hadoop&logoColor=black"/>
+    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-C71A36?style=for-the-badge&logo=Apache%20Spark&logoColor=white"/>
+    <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
+  </a>
+
+ - **DevOps:**  </br>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img alt="Docker" src="https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/Github%20Actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    <img alt="Ansible" src="https://img.shields.io/badge/ansible-1A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+  </a>
+
+ - **DBMS:**  </br>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+    <img alt="Apache Hive" src="https://img.shields.io/badge/hive-fdef28.svg?style=for-the-badge&logo=apache-hive&logoColor=black"/>
+  </a>
+
 ### 💻 Stack I'm Currently Learning
 
 <a href="https://github.com/Ileriayo/markdown-badges">
   <p align="center">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-    <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"/>
+    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img alt="Elixir" src="https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"/>
   </p>
 </a>
 
@@ -76,7 +77,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 <a href="https://github.com/Ileriayo/markdown-badges">
   <p align="center">
-      <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+      <img alt="Rust" src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
       
   </p>
 </a>
