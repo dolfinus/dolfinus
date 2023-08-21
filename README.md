@@ -1,14 +1,8 @@
 # @dolfinus (Maxim Martynov)
 
-I'm a Python Developer (DataOps & MLOps) who loves making high-quality applications and tools.
+I'm a Senior Python Developer (DataOps & MLOps) who loves making high-quality applications and tools.
 
 I'm also into Chemistry, Physics and Astronomy, and want to learn more about how the Universe works.
-
-### 📫 How To Reach Me:
-
-- Website: [crystalls.info](https://crystalls.info/)
-- Email: [martinov_m_s_@mail.ru](mailto:martinov_m_s_@mail.ru)
-- Telegram: [@dolfinus](https://t.me/dolfinus)
 
 ### 👷 Currently Working On
 
@@ -21,36 +15,46 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 ### 💼 Stack I'm Working With
 
-<a href="https://github.com/Ileriayo/markdown-badges">
-  <p align="center">
+ - **Languages:**  </br>
+  <a href="https://github.com/Ileriayo/markdown-badges">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  </a>
+
+ - **Frameworks:**  </br>
+  <a href="https://github.com/Ileriayo/markdown-badges">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  </a>
+
+ - **Big Data:**  </br>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-d6d80f?style=for-the-badge&logo=Apache%20Hadoop&logoColor=black"/>
     <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-C71A36?style=for-the-badge&logo=Apache%20Spark&logoColor=white"/>
     <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
-    <img alt="Apache Atlas" src="https://img.shields.io/badge/Apache%20Atlas-019884?style=for-the-badge&logo=Apache%20Atlas&logoColor=white"/>
+  </a>
+
+ - **DevOps:**  </br>
+  <a href="https://github.com/Ileriayo/markdown-badges">
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-    <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-    <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
     <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
-    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E95420?style=for-the-badge&logo=prometheus&logoColor=white"/>
-    <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
-    <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0193e1?style=for-the-badge&logo=MLflow&logoColor=white"/>
-  </p>
-</a>
+  </a>
+
+ - **DBMS:**  </br>
+  <a href="https://github.com/Ileriayo/markdown-badges">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="Oracle" src="https://img.shields.io/badge/oracle-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="Apache Hive" src="https://img.shields.io/badge/hive-fdef28.svg?style=for-the-badge&logo=apache-hive&logoColor=black"/>
+  </a>
 
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-8140] Split Greenplum, Greenplum.Dialect and .*Options to separated modules](https://github.com/MobileTeleSystems/onetl/pull/134) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8140] Split Clickhouse and Clickhouse.Dialect to separated submodules](https://github.com/MobileTeleSystems/onetl/pull/133) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Combine coverage before upload](https://github.com/jborean93/smbprotocol/pull/236) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
 - [Combine coverage before upload](https://github.com/dolfinus/smbprotocol/pull/1) on [dolfinus/smbprotocol](https://github.com/dolfinus/smbprotocol)
 - [Combine coverage before upload](https://github.com/jborean93/smbprotocol/pull/235) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
-- [[DOP-8140] Split HDFS and HDFS.Slots to separated submodules](https://github.com/MobileTeleSystems/onetl/pull/132) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8208] Detect includeHeaders value automatically during write](https://github.com/MobileTeleSystems/onetl/pull/131) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
