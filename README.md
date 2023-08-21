@@ -88,8 +88,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dolfinus&theme=github_dark">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dolfinus&theme=github_dark">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dolfinus&theme=github_dark"><br>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dolfinus&theme=github_dark">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dolfinus&theme=github_dark">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dolfinus&theme=github_dark"><br>
     </p>
 </a>
 
