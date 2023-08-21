@@ -4,6 +4,15 @@ I'm a Senior Python Developer (DataOps & MLOps) who enjoys making high-quality a
 
 I'm also into Chemistry, Physics and Astronomy, and want to learn more about how the Universe works.
 
+### 👷 Currently Working On
+
+
+- [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol) - Python SMBv2 and v3 Client
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
+- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
+- [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
+
 ### 💼 Stack I'm Working With
 
  - **Languages:**  </br>
@@ -29,6 +38,15 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 [![Apache Hive](https://img.shields.io/badge/Apache%20Hive-fdef28.svg?style=for-the-badge&logo=apache-hive&logoColor=black)](https://github.com/Ileriayo/markdown-badges)
 
+### 🔨 My Recent Pull Requests
+
+
+- [[DOP-8140] Split Greenplum, Greenplum.Dialect and .*Options to separated modules](https://github.com/MobileTeleSystems/onetl/pull/134) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8140] Split Clickhouse and Clickhouse.Dialect to separated submodules](https://github.com/MobileTeleSystems/onetl/pull/133) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [Combine coverage before upload](https://github.com/jborean93/smbprotocol/pull/236) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
+- [Combine coverage before upload](https://github.com/dolfinus/smbprotocol/pull/1) on [dolfinus/smbprotocol](https://github.com/dolfinus/smbprotocol)
+- [Combine coverage before upload](https://github.com/jborean93/smbprotocol/pull/235) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
+
 ### 💻 Stack I'm Currently Learning
 
  - **Languages:**  </br>
@@ -42,33 +60,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
  - **Languages:**  </br>
 [![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 
-
-### 💻 Environment
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Ileriayo/markdown-badges)
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-
-### 👷 Currently Working On
-
-
-- [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol) - Python SMBv2 and v3 Client
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
-- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
-- [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
-
-### 🔨 My Recent Pull Requests
-
-
-- [[DOP-8140] Split Greenplum, Greenplum.Dialect and .*Options to separated modules](https://github.com/MobileTeleSystems/onetl/pull/134) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8140] Split Clickhouse and Clickhouse.Dialect to separated submodules](https://github.com/MobileTeleSystems/onetl/pull/133) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Combine coverage before upload](https://github.com/jborean93/smbprotocol/pull/236) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
-- [Combine coverage before upload](https://github.com/dolfinus/smbprotocol/pull/1) on [dolfinus/smbprotocol](https://github.com/dolfinus/smbprotocol)
-- [Combine coverage before upload](https://github.com/jborean93/smbprotocol/pull/235) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -114,6 +105,14 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
     </a>
 </p>
 
+### 💻 Environment
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Ileriayo/markdown-badges)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 
 <details>
   <summary>Inspired by</summary>
