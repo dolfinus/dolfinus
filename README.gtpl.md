@@ -4,6 +4,13 @@ I'm a Senior Python Developer (DataOps & MLOps) who enjoys making high-quality a
 
 I'm also into Chemistry, Physics and Astronomy, and want to learn more about how the Universe works.
 
+### 👷 Currently Working On
+
+<!-- https://github.com/muesli/readme-scribe -->
+{{- range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
+
 ### 💼 Stack I'm Working With
 
  - **Languages:**  </br>
@@ -29,6 +36,13 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 [![Apache Hive](https://img.shields.io/badge/Apache%20Hive-fdef28.svg?style=for-the-badge&logo=apache-hive&logoColor=black)](https://github.com/Ileriayo/markdown-badges)
 
+### 🔨 My Recent Pull Requests
+
+<!-- https://github.com/muesli/readme-scribe -->
+{{- range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
+
 ### 💻 Stack I'm Currently Learning
 
  - **Languages:**  </br>
@@ -53,29 +67,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 [![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 -->
-
-### 💻 Environment
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Ileriayo/markdown-badges)
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-
-### 👷 Currently Working On
-
-<!-- https://github.com/muesli/readme-scribe -->
-{{- range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
-
-### 🔨 My Recent Pull Requests
-
-<!-- https://github.com/muesli/readme-scribe -->
-{{- range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-{{- end }}
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
@@ -122,6 +113,14 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
     </a>
 </p>
 
+### 💻 Environment
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Ileriayo/markdown-badges)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 
 <details>
   <summary>Inspired by</summary>
