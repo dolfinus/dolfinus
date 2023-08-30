@@ -1,6 +1,6 @@
 # @dolfinus (Maxim Martynov)
 
-I'm a Senior Python Developer (DataOps & MLOps) who enjoys making high-quality applications and tools.
+I'm a Lead Python Developer (DataOps & MLOps) who enjoys making high-quality applications and tools.
 
 I'm also into Chemistry, Physics and Astronomy, and want to learn more about how the Universe works.
 
