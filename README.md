@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 - [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol) - Python SMBv2 and v3 Client
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Replace to_pandas(df) with df.toPandas() without using PyArrow](https://github.com/MobileTeleSystems/onetl/pull/137) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8414] Improve Kafka documentation](https://github.com/MobileTeleSystems/onetl/pull/136) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-8140] Split Greenplum, Greenplum.Dialect and .*Options to separated modules](https://github.com/MobileTeleSystems/onetl/pull/134) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-8140] Split Clickhouse and Clickhouse.Dialect to separated submodules](https://github.com/MobileTeleSystems/onetl/pull/133) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Combine coverage before upload](https://github.com/jborean93/smbprotocol/pull/236) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
-- [Combine coverage before upload](https://github.com/dolfinus/smbprotocol/pull/1) on [dolfinus/smbprotocol](https://github.com/dolfinus/smbprotocol)
-- [Combine coverage before upload](https://github.com/jborean93/smbprotocol/pull/235) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
 
 ### 💻 Stack I'm Currently Learning
 
