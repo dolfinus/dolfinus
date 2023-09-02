@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-8511] Check if Kafka topic exists before read](https://github.com/MobileTeleSystems/onetl/pull/138) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-8511] Allow table name to have format db.schema.table](https://github.com/MobileTeleSystems/etl-entities/pull/21) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 - [Replace to_pandas(df) with df.toPandas() without using PyArrow](https://github.com/MobileTeleSystems/onetl/pull/137) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-8414] Improve Kafka documentation](https://github.com/MobileTeleSystems/onetl/pull/136) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-8140] Split Greenplum, Greenplum.Dialect and .*Options to separated modules](https://github.com/MobileTeleSystems/onetl/pull/134) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8140] Split Clickhouse and Clickhouse.Dialect to separated submodules](https://github.com/MobileTeleSystems/onetl/pull/133) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Combine coverage before upload](https://github.com/jborean93/smbprotocol/pull/236) on [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol)
 
 ### 💻 Stack I'm Currently Learning
 
