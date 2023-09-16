@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [opendatadiscovery/odd-platform](https://github.com/opendatadiscovery/odd-platform) - First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.
+- [oittaa/uuid6-python](https://github.com/oittaa/uuid6-python) - New time-based UUID formats which are suited for use as a database key
 - [miketeo/pysmb](https://github.com/miketeo/pysmb) - pysmb is an experimental SMB/CIFS library written in Python. It implements the client-side SMB/CIFS protocol (SMB1 and SMB2) which allows your Python application to access and transfer files to/from SMB/CIFS shared folders like your Windows file sharing and Samba folders.
 - [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol) - Python SMBv2 and v3 Client
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
-- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google&#39;s data interchange format
-- [itsumma/spark-greenplum-connector](https://github.com/itsumma/spark-greenplum-connector) - ITSumma Spark Greenplum Connector
 
 ### 🏆 Github Profile Trophy
 
