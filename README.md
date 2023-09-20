@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-9007] Add ivysettings.xml examples to documentation](https://github.com/MobileTeleSystems/onetl/pull/151) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-8959] Add Excel file format support](https://github.com/MobileTeleSystems/onetl/pull/148) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-8806] - test Greenplum connector with Spark 3.3&#43;](https://github.com/MobileTeleSystems/onetl/pull/147) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Fix passing dags.gitSync.sshKeySecret with dags.persistence.enabled=true](https://github.com/apache/airflow/pull/34331) on [apache/airflow](https://github.com/apache/airflow)
 - [[DOP-8571] Make log messages more consistent](https://github.com/MobileTeleSystems/onetl/pull/140) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8511] Allow to pass Kafka topic name in format &#39;some.topic.name&#39;](https://github.com/MobileTeleSystems/onetl/pull/139) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
