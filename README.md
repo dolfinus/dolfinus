@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic) - Entity relationship diagrams for Python data model classes like Pydantic
+- [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
+- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python library for building asynchronous services that interact with event streams.
 - [opendatadiscovery/odd-platform](https://github.com/opendatadiscovery/odd-platform) - First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.
 - [oittaa/uuid6-python](https://github.com/oittaa/uuid6-python) - New time-based UUID formats which are suited for use as a database key
-- [miketeo/pysmb](https://github.com/miketeo/pysmb) - pysmb is an experimental SMB/CIFS library written in Python. It implements the client-side SMB/CIFS protocol (SMB1 and SMB2) which allows your Python application to access and transfer files to/from SMB/CIFS shared folders like your Windows file sharing and Samba folders.
-- [jborean93/smbprotocol](https://github.com/jborean93/smbprotocol) - Python SMBv2 and v3 Client
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 
 ### 🏆 Github Profile Trophy
 
