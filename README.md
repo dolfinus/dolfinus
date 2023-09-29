@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-9653] Test onETL compatibility with Spark 3.5.0](https://github.com/MobileTeleSystems/onetl/pull/159) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9208] Fix calling .close() method in __del__](https://github.com/MobileTeleSystems/onetl/pull/156) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9007] Rearrange installation documentation](https://github.com/MobileTeleSystems/onetl/pull/155) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9085] Improve Greenplum documentation](https://github.com/MobileTeleSystems/onetl/pull/154) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9007] Add ivysettings.xml examples to documentation](https://github.com/MobileTeleSystems/onetl/pull/151) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-8959] Add Excel file format support](https://github.com/MobileTeleSystems/onetl/pull/148) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
