@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-9653] Test SparkLocalFS on Spark 3.5](https://github.com/MobileTeleSystems/onetl/pull/165) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-6758] Fix Hive.check() behavior when Hive Metastore is not available](https://github.com/MobileTeleSystems/onetl/pull/164) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Test Python 3.12 compatibility](https://github.com/MobileTeleSystems/onetl/pull/162) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9653] Update Excel package version to 0.20.1](https://github.com/MobileTeleSystems/onetl/pull/161) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9653] Test onETL compatibility with Spark 3.5.0](https://github.com/MobileTeleSystems/onetl/pull/159) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-9208] Fix calling .close() method in __del__](https://github.com/MobileTeleSystems/onetl/pull/156) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-9007] Rearrange installation documentation](https://github.com/MobileTeleSystems/onetl/pull/155) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [ExpediaGroup/circus-train](https://github.com/ExpediaGroup/circus-train) - Circus Train is a dataset replication tool that copies Hive tables between clusters and clouds.
 - [zalando-incubator/spark-json-schema](https://github.com/zalando-incubator/spark-json-schema) - JSON schema parser for Apache Spark
 - [CoxAutomotiveDataSolutions/spark-distcp](https://github.com/CoxAutomotiveDataSolutions/spark-distcp) - A re-implementation of Hadoop DistCP in Apache Spark
 - [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic) - Entity relationship diagrams for Python data model classes like Pydantic
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
-- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS.
 
 ### 🏆 Github Profile Trophy
 
