@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-9653] Test Python 3.12 compatibility](https://github.com/MobileTeleSystems/onetl/pull/167) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9653] Test SparkLocalFS on Spark 3.5](https://github.com/MobileTeleSystems/onetl/pull/165) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6758] Fix Hive.check() behavior when Hive Metastore is not available](https://github.com/MobileTeleSystems/onetl/pull/164) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Test Python 3.12 compatibility](https://github.com/MobileTeleSystems/onetl/pull/162) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9653] Update Excel package version to 0.20.1](https://github.com/MobileTeleSystems/onetl/pull/161) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-9653] Test onETL compatibility with Spark 3.5.0](https://github.com/MobileTeleSystems/onetl/pull/159) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
