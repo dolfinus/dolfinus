@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger files ✨
 - [ExpediaGroup/circus-train](https://github.com/ExpediaGroup/circus-train) - Circus Train is a dataset replication tool that copies Hive tables between clusters and clouds.
 - [zalando-incubator/spark-json-schema](https://github.com/zalando-incubator/spark-json-schema) - JSON schema parser for Apache Spark
 - [CoxAutomotiveDataSolutions/spark-distcp](https://github.com/CoxAutomotiveDataSolutions/spark-distcp) - A re-implementation of Hadoop DistCP in Apache Spark
 - [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic) - Entity relationship diagrams for Python data model classes like Pydantic
-- [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 
 ### 🏆 Github Profile Trophy
 
