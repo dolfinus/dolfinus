@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [housepower/ClickHouse-Native-JDBC](https://github.com/housepower/ClickHouse-Native-JDBC) - ClickHouse Native Protocol JDBC implementation
 - [gvenzl/oci-oracle-free](https://github.com/gvenzl/oci-oracle-free) - Build scripts for Oracle Database FREE container/docker images
 - [Nike-Inc/brickflow](https://github.com/Nike-Inc/brickflow) - Pythonic Programming Framework to orchestrate jobs in Databricks Workflow
 - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
 - [ExpediaGroup/circus-train](https://github.com/ExpediaGroup/circus-train) - Circus Train is a dataset replication tool that copies Hive tables between clusters and clouds.
-- [zalando-incubator/spark-json-schema](https://github.com/zalando-incubator/spark-json-schema) - JSON schema parser for Apache Spark
 
 ### 🏆 Github Profile Trophy
 
