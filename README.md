@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [floydya/declarativex](https://github.com/floydya/declarativex) - Your Declarative HTTP client library on Python
+- [reagento/dataclass-rest](https://github.com/reagento/dataclass-rest) - A modern and simple way to create clients for REST like APIs
+- [prkumar/uplink](https://github.com/prkumar/uplink) - A Declarative HTTP Client for Python
+- [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [housepower/ClickHouse-Native-JDBC](https://github.com/housepower/ClickHouse-Native-JDBC) - ClickHouse Native Protocol JDBC implementation
-- [gvenzl/oci-oracle-free](https://github.com/gvenzl/oci-oracle-free) - Build scripts for Oracle Database FREE container/docker images
-- [Nike-Inc/brickflow](https://github.com/Nike-Inc/brickflow) - Pythonic Programming Framework to orchestrate jobs in Databricks Workflow
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
-- [ExpediaGroup/circus-train](https://github.com/ExpediaGroup/circus-train) - Circus Train is a dataset replication tool that copies Hive tables between clusters and clouds.
 
 ### 🏆 Github Profile Trophy
 
