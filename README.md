@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Pass request info as log record extra fields](https://github.com/encode/uvicorn/pull/2154) on [encode/uvicorn](https://github.com/encode/uvicorn)
 - [[DOP-9653] Test Python 3.12 compatibility](https://github.com/MobileTeleSystems/onetl/pull/167) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9653] Test SparkLocalFS on Spark 3.5](https://github.com/MobileTeleSystems/onetl/pull/165) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6758] Fix Hive.check() behavior when Hive Metastore is not available](https://github.com/MobileTeleSystems/onetl/pull/164) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Test Python 3.12 compatibility](https://github.com/MobileTeleSystems/onetl/pull/162) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-9653] Update Excel package version to 0.20.1](https://github.com/MobileTeleSystems/onetl/pull/161) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [madzak/python-json-logger](https://github.com/madzak/python-json-logger) - Json Formatter for the standard python logger
 - [snok/asgi-correlation-id](https://github.com/snok/asgi-correlation-id) - Request ID propagation for ASGI apps
 - [noirello/bonsai](https://github.com/noirello/bonsai) - Simple Python 3 module for LDAP, using libldap2 and winldap C libraries.
 - [cannatag/ldap3](https://github.com/cannatag/ldap3) - a strictly RFC 4510 conforming LDAP V3 pure Python client. The same codebase works with Python 2. Python 3, PyPy and PyPy3
 - [monim67/poetry-bumpversion](https://github.com/monim67/poetry-bumpversion) - Poetry plugin to update __version__ in __init__ file and other files containing version strings
-- [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc -WebComponent for OpenAPI Spec
 
 ### 🏆 Github Profile Trophy
 
