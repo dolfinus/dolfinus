@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Make dependency constrains less strict](https://github.com/zqmillet/sphinx-plantuml/pull/4) on [zqmillet/sphinx-plantuml](https://github.com/zqmillet/sphinx-plantuml)
 - [Pass request info as log record extra fields](https://github.com/encode/uvicorn/pull/2154) on [encode/uvicorn](https://github.com/encode/uvicorn)
 - [[DOP-9653] Test Python 3.12 compatibility](https://github.com/MobileTeleSystems/onetl/pull/167) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9653] Test SparkLocalFS on Spark 3.5](https://github.com/MobileTeleSystems/onetl/pull/165) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-6758] Fix Hive.check() behavior when Hive Metastore is not available](https://github.com/MobileTeleSystems/onetl/pull/164) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Test Python 3.12 compatibility](https://github.com/MobileTeleSystems/onetl/pull/162) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
