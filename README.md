@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-9787] Drop DecimalHWM type](https://github.com/MobileTeleSystems/onetl/pull/181) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-9787] Convert all classmethods of Dialect class to regular methods](https://github.com/MobileTeleSystems/onetl/pull/180) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-9787] Allow passing Decimal as input for ColumnIntHWM](https://github.com/MobileTeleSystems/etl-entities/pull/58) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
+- [[DOP-9787] Drop qualified_name attribute](https://github.com/MobileTeleSystems/etl-entities/pull/57) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 - [[DOP-9787] Avoid implicit updates of MemoryHWMStore data](https://github.com/MobileTeleSystems/etl-entities/pull/56) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
-- [Make dependency constrains less strict](https://github.com/zqmillet/sphinx-plantuml/pull/4) on [zqmillet/sphinx-plantuml](https://github.com/zqmillet/sphinx-plantuml)
-- [Pass request info as log record extra fields](https://github.com/encode/uvicorn/pull/2154) on [encode/uvicorn](https://github.com/encode/uvicorn)
-- [[DOP-9653] Test Python 3.12 compatibility](https://github.com/MobileTeleSystems/onetl/pull/167) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-9653] Test SparkLocalFS on Spark 3.5](https://github.com/MobileTeleSystems/onetl/pull/165) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
