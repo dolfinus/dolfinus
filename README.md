@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-9787] Improve read strategies in DBReader](https://github.com/MobileTeleSystems/onetl/pull/182) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-11304] Make directory field in FileHWM optional](https://github.com/MobileTeleSystems/etl-entities/pull/60) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
+- [[DOP-11305] Make column field in ColumnHWM optional](https://github.com/MobileTeleSystems/etl-entities/pull/59) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 - [[DOP-9787] Drop DecimalHWM type](https://github.com/MobileTeleSystems/onetl/pull/181) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9787] Convert all classmethods of Dialect class to regular methods](https://github.com/MobileTeleSystems/onetl/pull/180) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-9787] Allow passing Decimal as input for ColumnIntHWM](https://github.com/MobileTeleSystems/etl-entities/pull/58) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
-- [[DOP-9787] Drop qualified_name attribute](https://github.com/MobileTeleSystems/etl-entities/pull/57) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
-- [[DOP-9787] Avoid implicit updates of MemoryHWMStore data](https://github.com/MobileTeleSystems/etl-entities/pull/56) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [sloria/sphinx-issues](https://github.com/sloria/sphinx-issues) - A Sphinx extension for linking to your project&#39;s issue tracker
 - [madzak/python-json-logger](https://github.com/madzak/python-json-logger) - Json Formatter for the standard python logger
 - [snok/asgi-correlation-id](https://github.com/snok/asgi-correlation-id) - Request ID propagation for ASGI apps
-- [noirello/bonsai](https://github.com/noirello/bonsai) - Simple Python 3 module for LDAP, using libldap2 and winldap C libraries.
 
 ### 🏆 Github Profile Trophy
 
