@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-11365] Update etl-entities to 2.1](https://github.com/MobileTeleSystems/onetl/pull/185) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-9787] Add test for explicit DBReader.hwm type](https://github.com/MobileTeleSystems/onetl/pull/184) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-11371] Fix @slot decorator](https://github.com/MobileTeleSystems/onetl/pull/183) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-11304] Simplify comparison methods implementation](https://github.com/MobileTeleSystems/etl-entities/pull/61) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 - [[DOP-9787] Improve read strategies in DBReader](https://github.com/MobileTeleSystems/onetl/pull/182) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-11304] Make directory field in FileHWM optional](https://github.com/MobileTeleSystems/etl-entities/pull/60) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
-- [[DOP-11305] Make column field in ColumnHWM optional](https://github.com/MobileTeleSystems/etl-entities/pull/59) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
-- [[DOP-9787] Drop DecimalHWM type](https://github.com/MobileTeleSystems/onetl/pull/181) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
