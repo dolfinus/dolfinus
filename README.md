@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 - [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-9653] Update Excel package version to 0.20.3](https://github.com/MobileTeleSystems/onetl/pull/187) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-11365] Update etl-entities to 2.1](https://github.com/MobileTeleSystems/onetl/pull/185) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9787] Add test for explicit DBReader.hwm type](https://github.com/MobileTeleSystems/onetl/pull/184) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-11371] Fix @slot decorator](https://github.com/MobileTeleSystems/onetl/pull/183) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-11304] Simplify comparison methods implementation](https://github.com/MobileTeleSystems/etl-entities/pull/61) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
-- [[DOP-9787] Improve read strategies in DBReader](https://github.com/MobileTeleSystems/onetl/pull/182) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
