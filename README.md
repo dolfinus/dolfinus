@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-9787] Avoid race condition in FileDownloader while updating HWM](https://github.com/MobileTeleSystems/onetl/pull/189) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-9787] Test strategies when DBReader reads empty source](https://github.com/MobileTeleSystems/onetl/pull/188) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9653] Update Excel package version to 0.20.3](https://github.com/MobileTeleSystems/onetl/pull/187) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-11365] Update etl-entities to 2.1](https://github.com/MobileTeleSystems/onetl/pull/185) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9787] Add test for explicit DBReader.hwm type](https://github.com/MobileTeleSystems/onetl/pull/184) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-11371] Fix @slot decorator](https://github.com/MobileTeleSystems/onetl/pull/183) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-11304] Simplify comparison methods implementation](https://github.com/MobileTeleSystems/etl-entities/pull/61) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 
 ### 💻 Stack I'm Currently Learning
 
