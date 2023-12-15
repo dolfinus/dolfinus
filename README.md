@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-11682] Cache result of connection.check()](https://github.com/MobileTeleSystems/onetl/pull/190) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9787] Avoid race condition in FileDownloader while updating HWM](https://github.com/MobileTeleSystems/onetl/pull/189) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9787] Test strategies when DBReader reads empty source](https://github.com/MobileTeleSystems/onetl/pull/188) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9653] Update Excel package version to 0.20.3](https://github.com/MobileTeleSystems/onetl/pull/187) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-11365] Update etl-entities to 2.1](https://github.com/MobileTeleSystems/onetl/pull/185) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-9787] Add test for explicit DBReader.hwm type](https://github.com/MobileTeleSystems/onetl/pull/184) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
