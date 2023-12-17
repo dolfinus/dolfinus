@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 - [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
-- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Add notes about file extensions and _corrupt_record to documentation](https://github.com/databricks/spark-xml/pull/674) on [databricks/spark-xml](https://github.com/databricks/spark-xml)
+- [Prevent package from installing on Python &lt; 3.6](https://github.com/projectfluent/python-fluent/pull/195) on [projectfluent/python-fluent](https://github.com/projectfluent/python-fluent)
+- [Fix ImportString documentation about default value validation](https://github.com/pydantic/pydantic/pull/8386) on [pydantic/pydantic](https://github.com/pydantic/pydantic)
 - [[DOP-11682] Cache result of connection.check()](https://github.com/MobileTeleSystems/onetl/pull/190) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-9787] Avoid race condition in FileDownloader while updating HWM](https://github.com/MobileTeleSystems/onetl/pull/189) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-9787] Test strategies when DBReader reads empty source](https://github.com/MobileTeleSystems/onetl/pull/188) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-9653] Update Excel package version to 0.20.3](https://github.com/MobileTeleSystems/onetl/pull/187) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-11365] Update etl-entities to 2.1](https://github.com/MobileTeleSystems/onetl/pull/185) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
