@@ -9,8 +9,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 
 ### 💼 Stack I'm Working With
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-12026] Typing improvements](https://github.com/MobileTeleSystems/etl-entities/pull/69) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
+- [Add skip_on_exit_code to SSHOperator](https://github.com/apache/airflow/pull/36303) on [apache/airflow](https://github.com/apache/airflow)
 - [Add notes about file extensions and _corrupt_record to documentation](https://github.com/databricks/spark-xml/pull/674) on [databricks/spark-xml](https://github.com/databricks/spark-xml)
 - [Prevent package from installing on Python &lt; 3.6](https://github.com/projectfluent/python-fluent/pull/195) on [projectfluent/python-fluent](https://github.com/projectfluent/python-fluent)
 - [Fix ImportString documentation about default value validation](https://github.com/pydantic/pydantic/pull/8386) on [pydantic/pydantic](https://github.com/pydantic/pydantic)
-- [[DOP-11682] Cache result of connection.check()](https://github.com/MobileTeleSystems/onetl/pull/190) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-9787] Avoid race condition in FileDownloader while updating HWM](https://github.com/MobileTeleSystems/onetl/pull/189) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
