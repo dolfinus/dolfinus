@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [databricks/spark-xml](https://github.com/databricks/spark-xml) - XML data source for Spark SQL and DataFrames
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix PythonVirtualenvOperator tests](https://github.com/apache/airflow/pull/36367) on [apache/airflow](https://github.com/apache/airflow)
 - [Allow PythonVirtualenvOperator.skip_on_exit_code to be zero](https://github.com/apache/airflow/pull/36361) on [apache/airflow](https://github.com/apache/airflow)
 - [Allow DockerOperator.skip_on_exit_code to be zero](https://github.com/apache/airflow/pull/36360) on [apache/airflow](https://github.com/apache/airflow)
 - [Allow SSHOperator.skip_on_exit_code to be zero](https://github.com/apache/airflow/pull/36358) on [apache/airflow](https://github.com/apache/airflow)
 - [Fix AirflowSkipException message raised by KubernetesPodOperator](https://github.com/apache/airflow/pull/36355) on [apache/airflow](https://github.com/apache/airflow)
-- [Fix AirflowSkipException message raised by BashOperator](https://github.com/apache/airflow/pull/36354) on [apache/airflow](https://github.com/apache/airflow)
 
 ### 💻 Stack I'm Currently Learning
 
