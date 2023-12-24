@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Ignore missing fields during rename](https://github.com/madzak/python-json-logger/pull/186) on [madzak/python-json-logger](https://github.com/madzak/python-json-logger)
+- [Fix handling root_path](https://github.com/stephenhillier/starlette_exporter/pull/81) on [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter)
 - [Fix PythonVirtualenvOperator tests](https://github.com/apache/airflow/pull/36367) on [apache/airflow](https://github.com/apache/airflow)
 - [Allow PythonVirtualenvOperator.skip_on_exit_code to be zero](https://github.com/apache/airflow/pull/36361) on [apache/airflow](https://github.com/apache/airflow)
 - [Allow DockerOperator.skip_on_exit_code to be zero](https://github.com/apache/airflow/pull/36360) on [apache/airflow](https://github.com/apache/airflow)
-- [Allow SSHOperator.skip_on_exit_code to be zero](https://github.com/apache/airflow/pull/36358) on [apache/airflow](https://github.com/apache/airflow)
-- [Fix AirflowSkipException message raised by KubernetesPodOperator](https://github.com/apache/airflow/pull/36355) on [apache/airflow](https://github.com/apache/airflow)
 
 ### 💻 Stack I'm Currently Learning
 
