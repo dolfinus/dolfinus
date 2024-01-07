@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [databricks/spark-xml](https://github.com/databricks/spark-xml) - XML data source for Spark SQL and DataFrames
-- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
+- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter) - Prometheus exporter for Starlette and FastAPI
+- [databricks/spark-xml](https://github.com/databricks/spark-xml) - XML data source for Spark SQL and DataFrames
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Add Service() annotation](https://github.com/tiangolo/fastapi/pull/10898) on [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
+- [Fix passing dags.gitSync.sshKeySecret with dags.persistence.enabled=true](https://github.com/apache/airflow/pull/36628) on [apache/airflow](https://github.com/apache/airflow)
 - [Ignore missing fields during rename](https://github.com/madzak/python-json-logger/pull/186) on [madzak/python-json-logger](https://github.com/madzak/python-json-logger)
 - [Fix handling root_path](https://github.com/stephenhillier/starlette_exporter/pull/81) on [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter)
 - [Fix PythonVirtualenvOperator tests](https://github.com/apache/airflow/pull/36367) on [apache/airflow](https://github.com/apache/airflow)
-- [Allow PythonVirtualenvOperator.skip_on_exit_code to be zero](https://github.com/apache/airflow/pull/36361) on [apache/airflow](https://github.com/apache/airflow)
-- [Allow DockerOperator.skip_on_exit_code to be zero](https://github.com/apache/airflow/pull/36360) on [apache/airflow](https://github.com/apache/airflow)
 
 ### 💻 Stack I'm Currently Learning
 
