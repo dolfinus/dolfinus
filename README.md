@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Avoid modifying path in scope](https://github.com/stephenhillier/starlette_exporter/pull/87) on [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter)
 - [Update starlette to 0.35&#43;](https://github.com/stephenhillier/starlette_exporter/pull/83) on [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter)
 - [Add Service() annotation](https://github.com/tiangolo/fastapi/pull/10898) on [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
 - [Fix passing dags.gitSync.sshKeySecret with dags.persistence.enabled=true](https://github.com/apache/airflow/pull/36628) on [apache/airflow](https://github.com/apache/airflow)
 - [Ignore missing fields during rename](https://github.com/madzak/python-json-logger/pull/186) on [madzak/python-json-logger](https://github.com/madzak/python-json-logger)
-- [Fix handling root_path](https://github.com/stephenhillier/starlette_exporter/pull/81) on [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter)
 
 ### 💻 Stack I'm Currently Learning
 
