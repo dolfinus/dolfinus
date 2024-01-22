@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter) - Prometheus exporter for Starlette and FastAPI
+- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
