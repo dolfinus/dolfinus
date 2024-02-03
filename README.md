@@ -11,7 +11,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Horizon is an application that implements simple HWM Store
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
-- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
+- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-11905] Update Greenplum connector to 2.3.0](https://github.com/MobileTeleSystems/onetl/pull/208) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-11906] Remove min/max workaround for Clickhouse](https://github.com/MobileTeleSystems/onetl/pull/205) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-11906] Remove min/max workaround for Clickhouse](https://github.com/MobileTeleSystems/onetl/pull/204) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Avoid modifying path in scope](https://github.com/stephenhillier/starlette_exporter/pull/87) on [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter)
 - [Update starlette to 0.35&#43;](https://github.com/stephenhillier/starlette_exporter/pull/83) on [stephenhillier/starlette_exporter](https://github.com/stephenhillier/starlette_exporter)
-- [Add Service() annotation](https://github.com/tiangolo/fastapi/pull/10898) on [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
 
 ### 💻 Stack I'm Currently Learning
 
