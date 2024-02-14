@@ -9,9 +9,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Horizon is an application that implements simple HWM Store
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
+- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
-- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Add UI screenshot gallery](https://github.com/AbsaOSS/spline-ui/pull/253) on [AbsaOSS/spline-ui](https://github.com/AbsaOSS/spline-ui)
+- [Update images](https://github.com/AbsaOSS/spline-getting-started/pull/50) on [AbsaOSS/spline-getting-started](https://github.com/AbsaOSS/spline-getting-started)
 - [[DOP-11675] Fix failing test](https://github.com/MobileTeleSystems/horizon/pull/6) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-11906] Improve Clickhouse documentation](https://github.com/MobileTeleSystems/onetl/pull/211) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-11905] Update Greenplum connector to 2.3.0](https://github.com/MobileTeleSystems/onetl/pull/208) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-11906] Remove min/max workaround for Clickhouse](https://github.com/MobileTeleSystems/onetl/pull/205) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-11906] Remove min/max workaround for Clickhouse](https://github.com/MobileTeleSystems/onetl/pull/204) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [AbsaOSS/spline-getting-started](https://github.com/AbsaOSS/spline-getting-started) - 
 - [elastacloud/spark-excel](https://github.com/elastacloud/spark-excel) - A Spark data source for reading Microsoft Excel files
 - [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Horizon is an application that implements simple HWM Store
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-- [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 
 ### 🏆 Github Profile Trophy
 
