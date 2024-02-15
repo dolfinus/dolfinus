@@ -8,8 +8,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Horizon is an application that implements simple HWM Store
-- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 - [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
+- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [AbsaOSS/spline-getting-started](https://github.com/AbsaOSS/spline-getting-started) - 
 - [elastacloud/spark-excel](https://github.com/elastacloud/spark-excel) - A Spark data source for reading Microsoft Excel files
 - [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Horizon is an application that implements simple HWM Store
-- [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 
 ### 🏆 Github Profile Trophy
 
