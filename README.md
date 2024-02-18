@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [reagento/dishka](https://github.com/reagento/dishka) - Small DI framework with scopes and agreeable API
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [AbsaOSS/spline-getting-started](https://github.com/AbsaOSS/spline-getting-started) - 
 - [elastacloud/spark-excel](https://github.com/elastacloud/spark-excel) - A Spark data source for reading Microsoft Excel files
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 🏆 Github Profile Trophy
 
