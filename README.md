@@ -9,8 +9,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Horizon is an application that implements simple HWM Store
 - [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 
 ### 💼 Stack I'm Working With
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [apache/arrow-datafusion-comet](https://github.com/apache/arrow-datafusion-comet) - Apache Arrow DataFusion Comet Spark Accelerator
 - [reagento/dishka](https://github.com/reagento/dishka) - Small DI framework with scopes and agreeable API
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [AbsaOSS/spline-getting-started](https://github.com/AbsaOSS/spline-getting-started) - 
-- [elastacloud/spark-excel](https://github.com/elastacloud/spark-excel) - A Spark data source for reading Microsoft Excel files
 
 ### 🏆 Github Profile Trophy
 
