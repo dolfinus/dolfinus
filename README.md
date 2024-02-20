@@ -7,10 +7,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Horizon is an application that implements simple HWM Store
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
+- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 
 ### 💼 Stack I'm Working With
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-13209] Add labels sync workflow](https://github.com/MobileTeleSystems/horizon/pull/16) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13156] Documentation improvements](https://github.com/MobileTeleSystems/etl-entities/pull/79) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 - [[DOP-13156] Update release instuction](https://github.com/MobileTeleSystems/onetl/pull/214) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Add UI screenshot gallery](https://github.com/AbsaOSS/spline-ui/pull/253) on [AbsaOSS/spline-ui](https://github.com/AbsaOSS/spline-ui)
 - [Update images](https://github.com/AbsaOSS/spline-getting-started/pull/50) on [AbsaOSS/spline-getting-started](https://github.com/AbsaOSS/spline-getting-started)
-- [[DOP-11675] Fix failing test](https://github.com/MobileTeleSystems/horizon/pull/6) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 
 ### 💻 Stack I'm Currently Learning
 
