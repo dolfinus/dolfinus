@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-13219] Improve documentation](https://github.com/MobileTeleSystems/horizon/pull/20) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13209] Add labels sync workflow](https://github.com/MobileTeleSystems/horizon/pull/16) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13156] Documentation improvements](https://github.com/MobileTeleSystems/etl-entities/pull/79) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 - [[DOP-13156] Update release instuction](https://github.com/MobileTeleSystems/onetl/pull/214) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Add UI screenshot gallery](https://github.com/AbsaOSS/spline-ui/pull/253) on [AbsaOSS/spline-ui](https://github.com/AbsaOSS/spline-ui)
-- [Update images](https://github.com/AbsaOSS/spline-getting-started/pull/50) on [AbsaOSS/spline-getting-started](https://github.com/AbsaOSS/spline-getting-started)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+- [executablebooks/sphinx-copybutton](https://github.com/executablebooks/sphinx-copybutton) - Add a &#34;copy&#34; button to code blocks in Sphinx
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [apache/arrow-datafusion-comet](https://github.com/apache/arrow-datafusion-comet) - Apache Arrow DataFusion Comet Spark Accelerator
 - [reagento/dishka](https://github.com/reagento/dishka) - Small DI framework with scopes and agreeable API
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-- [AbsaOSS/spline-getting-started](https://github.com/AbsaOSS/spline-getting-started) - 
 
 ### 🏆 Github Profile Trophy
 
