@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-13259] Update Clickhouse types documentation](https://github.com/MobileTeleSystems/onetl/pull/219) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-13260] Automatically update Dockerhub image description](https://github.com/MobileTeleSystems/horizon/pull/22) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
+- [[DOP-13260] Automatically update Dockerhub image description](https://github.com/MobileTeleSystems/hadoop-docker/pull/19) on [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker)
+- [[DOP-13240] Test Greeplum connector compatibility with Spark 3.3&#43;](https://github.com/MobileTeleSystems/onetl/pull/218) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13219] Improve documentation](https://github.com/MobileTeleSystems/horizon/pull/20) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [[DOP-13209] Add labels sync workflow](https://github.com/MobileTeleSystems/horizon/pull/16) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [[DOP-13156] Documentation improvements](https://github.com/MobileTeleSystems/etl-entities/pull/79) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
-- [[DOP-13156] Update release instuction](https://github.com/MobileTeleSystems/onetl/pull/214) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Add UI screenshot gallery](https://github.com/AbsaOSS/spline-ui/pull/253) on [AbsaOSS/spline-ui](https://github.com/AbsaOSS/spline-ui)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - &#34;Good Luck With That&#34; Public License
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [executablebooks/sphinx-copybutton](https://github.com/executablebooks/sphinx-copybutton) - Add a &#34;copy&#34; button to code blocks in Sphinx
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [apache/arrow-datafusion-comet](https://github.com/apache/arrow-datafusion-comet) - Apache Arrow DataFusion Comet Spark Accelerator
-- [reagento/dishka](https://github.com/reagento/dishka) - Small DI framework with scopes and agreeable API
 
 ### 🏆 Github Profile Trophy
 
