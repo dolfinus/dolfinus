@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [YotpoLtd/metorikku](https://github.com/YotpoLtd/metorikku) - A simplified, lightweight ETL Framework based on Apache Spark
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - &#34;Good Luck With That&#34; Public License
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [executablebooks/sphinx-copybutton](https://github.com/executablebooks/sphinx-copybutton) - Add a &#34;copy&#34; button to code blocks in Sphinx
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
-- [apache/arrow-datafusion-comet](https://github.com/apache/arrow-datafusion-comet) - Apache Arrow DataFusion Comet Spark Accelerator
 
 ### 🏆 Github Profile Trophy
 
