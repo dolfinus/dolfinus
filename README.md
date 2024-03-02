@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-13251] Add Greenplum type mapping to documentation](https://github.com/MobileTeleSystems/onetl/pull/228) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13156] Fix documentation build](https://github.com/MobileTeleSystems/horizon/pull/23) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13259] Update Clickhouse types documentation](https://github.com/MobileTeleSystems/onetl/pull/219) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13260] Automatically update Dockerhub image description](https://github.com/MobileTeleSystems/horizon/pull/22) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13260] Automatically update Dockerhub image description](https://github.com/MobileTeleSystems/hadoop-docker/pull/19) on [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker)
-- [[DOP-13240] Test Greeplum connector compatibility with Spark 3.3&#43;](https://github.com/MobileTeleSystems/onetl/pull/218) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
