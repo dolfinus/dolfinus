@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-13253] Add Postgres types &amp; prerequisites documentation](https://github.com/MobileTeleSystems/onetl/pull/229) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13251] Add Greenplum type mapping to documentation](https://github.com/MobileTeleSystems/onetl/pull/228) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13156] Fix documentation build](https://github.com/MobileTeleSystems/horizon/pull/23) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13259] Update Clickhouse types documentation](https://github.com/MobileTeleSystems/onetl/pull/219) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13260] Automatically update Dockerhub image description](https://github.com/MobileTeleSystems/horizon/pull/22) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [[DOP-13260] Automatically update Dockerhub image description](https://github.com/MobileTeleSystems/hadoop-docker/pull/19) on [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [martinblech/xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [YotpoLtd/metorikku](https://github.com/YotpoLtd/metorikku) - A simplified, lightweight ETL Framework based on Apache Spark
-- [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - &#34;Good Luck With That&#34; Public License
 
 ### 🏆 Github Profile Trophy
 
