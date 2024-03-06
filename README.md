@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
-- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-13337] Add Pydantic v2 support](https://github.com/MobileTeleSystems/horizon-hwm-store/pull/14) on [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store)
+- [[DOP-13337] Add Pydantic v2 support](https://github.com/MobileTeleSystems/onetl/pull/230) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-13337] Add Pydantic v2 compatibility](https://github.com/MobileTeleSystems/etl-entities/pull/82) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 - [[DOP-13253] Add Postgres types &amp; prerequisites documentation](https://github.com/MobileTeleSystems/onetl/pull/229) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13251] Add Greenplum type mapping to documentation](https://github.com/MobileTeleSystems/onetl/pull/228) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-13156] Fix documentation build](https://github.com/MobileTeleSystems/horizon/pull/23) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [[DOP-13259] Update Clickhouse types documentation](https://github.com/MobileTeleSystems/onetl/pull/219) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-13260] Automatically update Dockerhub image description](https://github.com/MobileTeleSystems/horizon/pull/22) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 
 ### 💻 Stack I'm Currently Learning
 
