@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-13558] Document using Greenplum connector with IP resolution issues](https://github.com/MobileTeleSystems/onetl/pull/231) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13337] Add Pydantic v2 support](https://github.com/MobileTeleSystems/horizon-hwm-store/pull/14) on [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store)
 - [[DOP-13337] Add Pydantic v2 support](https://github.com/MobileTeleSystems/onetl/pull/230) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13337] Add Pydantic v2 compatibility](https://github.com/MobileTeleSystems/etl-entities/pull/82) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 - [[DOP-13253] Add Postgres types &amp; prerequisites documentation](https://github.com/MobileTeleSystems/onetl/pull/229) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-13251] Add Greenplum type mapping to documentation](https://github.com/MobileTeleSystems/onetl/pull/228) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
