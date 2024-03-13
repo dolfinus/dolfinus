@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [projectfluent/python-fluent](https://github.com/projectfluent/python-fluent) - Python implementation of Project Fluent
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-13252] Improve MySQL documentation](https://github.com/MobileTeleSystems/onetl/pull/234) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13252] Improve Oracle documentation](https://github.com/MobileTeleSystems/onetl/pull/233) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13558] Document using Greenplum connector with IP resolution issues](https://github.com/MobileTeleSystems/onetl/pull/231) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13337] Add Pydantic v2 support](https://github.com/MobileTeleSystems/horizon-hwm-store/pull/14) on [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store)
 - [[DOP-13337] Add Pydantic v2 support](https://github.com/MobileTeleSystems/onetl/pull/230) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-13337] Add Pydantic v2 compatibility](https://github.com/MobileTeleSystems/etl-entities/pull/82) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [sjrusso8/spark-connect-rs](https://github.com/sjrusso8/spark-connect-rs) - Apache Spark Connect Client for Rust
+- [mysql/mysql-connector-j](https://github.com/mysql/mysql-connector-j) - MySQL Connector/J
 - [pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [martinblech/xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
-- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
-- [YotpoLtd/metorikku](https://github.com/YotpoLtd/metorikku) - A simplified, lightweight ETL Framework based on Apache Spark
 
 ### 🏆 Github Profile Trophy
 
