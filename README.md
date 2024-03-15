@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [projectfluent/python-fluent](https://github.com/projectfluent/python-fluent) - Python implementation of Project Fluent
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-13681] Allow empty pipeline in MongoDB.pipeline](https://github.com/MobileTeleSystems/onetl/pull/237) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-13681] Improve MongoDB documentation](https://github.com/MobileTeleSystems/onetl/pull/236) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13252] Improve MSSQL documentation](https://github.com/MobileTeleSystems/onetl/pull/235) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13252] Improve MySQL documentation](https://github.com/MobileTeleSystems/onetl/pull/234) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13252] Improve Oracle documentation](https://github.com/MobileTeleSystems/onetl/pull/233) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-13558] Document using Greenplum connector with IP resolution issues](https://github.com/MobileTeleSystems/onetl/pull/231) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-13337] Add Pydantic v2 support](https://github.com/MobileTeleSystems/horizon-hwm-store/pull/14) on [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store)
 
 ### 💻 Stack I'm Currently Learning
 
