@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [trallnag/prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) - Instrument your FastAPI with Prometheus metrics.
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [MrPowers/eren](https://github.com/MrPowers/eren) - PySpark Hive helper methods
 - [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc) - The Microsoft JDBC Driver for SQL Server is a Type 4 JDBC driver that provides database connectivity with SQL Server through the standard JDBC application program interfaces (APIs).
 - [sjrusso8/spark-connect-rs](https://github.com/sjrusso8/spark-connect-rs) - Apache Spark Connect Client for Rust
-- [mysql/mysql-connector-j](https://github.com/mysql/mysql-connector-j) - MySQL Connector/J
-- [pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
 
 ### 🏆 Github Profile Trophy
 
