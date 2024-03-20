@@ -8,9 +8,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/mlflow-rest-client](https://github.com/MobileTeleSystems/mlflow-rest-client) - Python client for MLflow REST API
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [projectfluent/python-fluent](https://github.com/projectfluent/python-fluent) - Python implementation of Project Fluent
 
 ### 💼 Stack I'm Working With
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-13012] Move permissions check to endpoints](https://github.com/MobileTeleSystems/horizon/pull/35) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
+- [[DOP-13012] Populate user roles based on change history](https://github.com/MobileTeleSystems/horizon/pull/34) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13779] Improve Teradata documentation](https://github.com/MobileTeleSystems/onetl/pull/240) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13737] Downgrade Greenplum package to 2.2.0](https://github.com/MobileTeleSystems/onetl/pull/239) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13739] Return back handling DBReader(columns=&#34;string&#34;)](https://github.com/MobileTeleSystems/onetl/pull/238) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-13681] Allow empty pipeline in MongoDB.pipeline](https://github.com/MobileTeleSystems/onetl/pull/237) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-13681] Improve MongoDB documentation](https://github.com/MobileTeleSystems/onetl/pull/236) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
 - [trallnag/prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) - Instrument your FastAPI with Prometheus metrics.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [MrPowers/eren](https://github.com/MrPowers/eren) - PySpark Hive helper methods
 - [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc) - The Microsoft JDBC Driver for SQL Server is a Type 4 JDBC driver that provides database connectivity with SQL Server through the standard JDBC application program interfaces (APIs).
-- [sjrusso8/spark-connect-rs](https://github.com/sjrusso8/spark-connect-rs) - Apache Spark Connect Client for Rust
 
 ### 🏆 Github Profile Trophy
 
