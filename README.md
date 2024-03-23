@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-13013] Return actual permissions in update_permissions](https://github.com/MobileTeleSystems/horizon/pull/39) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13013] Sort permissions list by role](https://github.com/MobileTeleSystems/horizon/pull/38) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13012] Move permissions check to endpoints](https://github.com/MobileTeleSystems/horizon/pull/35) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13012] Populate user roles based on change history](https://github.com/MobileTeleSystems/horizon/pull/34) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13779] Improve Teradata documentation](https://github.com/MobileTeleSystems/onetl/pull/240) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-13737] Downgrade Greenplum package to 2.2.0](https://github.com/MobileTeleSystems/onetl/pull/239) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
