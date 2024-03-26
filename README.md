@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix Spark integration docs](https://github.com/grai-io/grai-core/pull/886) on [grai-io/grai-core](https://github.com/grai-io/grai-core)
+- [Add Entities section to documentation](https://github.com/MobileTeleSystems/horizon/pull/40) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13013] Return actual permissions in update_permissions](https://github.com/MobileTeleSystems/horizon/pull/39) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13013] Sort permissions list by role](https://github.com/MobileTeleSystems/horizon/pull/38) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13012] Move permissions check to endpoints](https://github.com/MobileTeleSystems/horizon/pull/35) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [[DOP-13012] Populate user roles based on change history](https://github.com/MobileTeleSystems/horizon/pull/34) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [[DOP-13779] Improve Teradata documentation](https://github.com/MobileTeleSystems/onetl/pull/240) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
