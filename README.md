@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [grai-io/grai-core](https://github.com/grai-io/grai-core) - 
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [grai-io/grai-core](https://github.com/grai-io/grai-core) - 
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Improve down.sh script](https://github.com/MarquezProject/marquez/pull/2778) on [MarquezProject/marquez](https://github.com/MarquezProject/marquez)
 - [[CLIENT] Small improvements of .emit() method logging &amp; annotations](https://github.com/OpenLineage/OpenLineage/pull/2539) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Fix Spark integration docs](https://github.com/grai-io/grai-core/pull/886) on [grai-io/grai-core](https://github.com/grai-io/grai-core)
 - [Add Entities section to documentation](https://github.com/MobileTeleSystems/horizon/pull/40) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-13013] Return actual permissions in update_permissions](https://github.com/MobileTeleSystems/horizon/pull/39) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [[DOP-13013] Sort permissions list by role](https://github.com/MobileTeleSystems/horizon/pull/38) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 
 ### 💻 Stack I'm Currently Learning
 
