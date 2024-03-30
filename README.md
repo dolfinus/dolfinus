@@ -8,8 +8,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [grai-io/grai-core](https://github.com/grai-io/grai-core) - 
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [Improve down.sh script](https://github.com/MarquezProject/marquez/pull/2778) on [MarquezProject/marquez](https://github.com/MarquezProject/marquez)
-- [[CLIENT] Small improvements of .emit() method logging &amp; annotations](https://github.com/OpenLineage/OpenLineage/pull/2539) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Fix Spark integration docs](https://github.com/grai-io/grai-core/pull/886) on [grai-io/grai-core](https://github.com/grai-io/grai-core)
-- [Add Entities section to documentation](https://github.com/MobileTeleSystems/horizon/pull/40) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [[DOP-13013] Return actual permissions in update_permissions](https://github.com/MobileTeleSystems/horizon/pull/39) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
+- [Drop JFrog Artifactory URLs from Gradle config](https://github.com/OpenLineage/OpenLineage/pull/2549) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[SPEC] Allow nested struct fields in SchemaDatasetFacet](https://github.com/OpenLineage/OpenLineage/pull/2548) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Fix SourceCodeLocation Facet JSON](https://github.com/OpenLineage/docs/pull/306) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
+- [[SQL] Show error message then OpenLineageSql cannot find native library](https://github.com/OpenLineage/OpenLineage/pull/2547) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[SQL] Fix parsing JDBCOptions(table=...) containing subquery](https://github.com/OpenLineage/OpenLineage/pull/2546) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
