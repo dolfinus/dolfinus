@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
 - [MarquezProject/marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem&#39;s metadata
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
+- [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
+- [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-14540] Fix Pydantic v2 warnings](https://github.com/MobileTeleSystems/horizon/pull/47) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
+- [[DOP-14540] Improve manage_admins script logging](https://github.com/MobileTeleSystems/horizon/pull/46) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
+- [[DOP-14540] Allow Docker entrypoint to automatically create SUPERADMIN users](https://github.com/MobileTeleSystems/horizon/pull/45) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
+- [Add parentJobNamespace config option to Spark examples](https://github.com/OpenLineage/docs/pull/307) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [Drop JFrog Artifactory URLs from Gradle config](https://github.com/OpenLineage/OpenLineage/pull/2549) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[SPEC] Allow nested struct fields in SchemaDatasetFacet](https://github.com/OpenLineage/OpenLineage/pull/2548) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Fix SourceCodeLocation Facet JSON](https://github.com/OpenLineage/docs/pull/306) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
-- [[SQL] Show error message then OpenLineageSql cannot find native library](https://github.com/OpenLineage/OpenLineage/pull/2547) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[SQL] Fix parsing JDBCOptions(table=...) containing subquery](https://github.com/OpenLineage/OpenLineage/pull/2546) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - 
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
 - [trallnag/prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) - Instrument your FastAPI with Prometheus metrics.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
-- [MrPowers/eren](https://github.com/MrPowers/eren) - PySpark Hive helper methods
 
 ### 🏆 Github Profile Trophy
 
