@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MarquezProject/marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem&#39;s metadata
-- [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
-- [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
+- [MarquezProject/marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem&#39;s metadata
+- [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
+- [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
 
 ### 💼 Stack I'm Working With
 
