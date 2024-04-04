@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[SPEC] Add fileCount to dataset stats facets](https://github.com/OpenLineage/OpenLineage/pull/2562) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-14540] Fix Pydantic v2 warnings](https://github.com/MobileTeleSystems/horizon/pull/47) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-14540] Improve manage_admins script logging](https://github.com/MobileTeleSystems/horizon/pull/46) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-14540] Allow Docker entrypoint to automatically create SUPERADMIN users](https://github.com/MobileTeleSystems/horizon/pull/45) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [Add parentJobNamespace config option to Spark examples](https://github.com/OpenLineage/docs/pull/307) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
-- [Drop JFrog Artifactory URLs from Gradle config](https://github.com/OpenLineage/OpenLineage/pull/2549) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - 
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
 - [trallnag/prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) - Instrument your FastAPI with Prometheus metrics.
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 
 ### 🏆 Github Profile Trophy
 
