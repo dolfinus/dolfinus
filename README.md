@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MarquezProject/marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem&#39;s metadata
 - [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
 - [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[CLIENT] Fix missing pkg_resources module on Python 3.12](https://github.com/OpenLineage/OpenLineage/pull/2572) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[CLIENT] Properly set Kafka messages key](https://github.com/OpenLineage/OpenLineage/pull/2571) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[SPEC] Add fileCount to dataset stats facets](https://github.com/OpenLineage/OpenLineage/pull/2562) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-14540] Fix Pydantic v2 warnings](https://github.com/MobileTeleSystems/horizon/pull/47) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-14540] Improve manage_admins script logging](https://github.com/MobileTeleSystems/horizon/pull/46) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [[DOP-14540] Allow Docker entrypoint to automatically create SUPERADMIN users](https://github.com/MobileTeleSystems/horizon/pull/45) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [Add parentJobNamespace config option to Spark examples](https://github.com/OpenLineage/docs/pull/307) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 
 ### 💻 Stack I'm Currently Learning
 
