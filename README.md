@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Add jvm_shutdown function](https://github.com/py4j/py4j/pull/541) on [py4j/py4j](https://github.com/py4j/py4j)
+- [Airflow: Add lineage_job_namespace and lineage_job_name macros](https://github.com/OpenLineage/OpenLineage/pull/2582) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[CLIENT] Fix missing pkg_resources module on Python 3.12](https://github.com/OpenLineage/OpenLineage/pull/2572) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[CLIENT] Properly set Kafka messages key](https://github.com/OpenLineage/OpenLineage/pull/2571) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[SPEC] Add fileCount to dataset stats facets](https://github.com/OpenLineage/OpenLineage/pull/2562) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[DOP-14540] Fix Pydantic v2 warnings](https://github.com/MobileTeleSystems/horizon/pull/47) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [[DOP-14540] Improve manage_admins script logging](https://github.com/MobileTeleSystems/horizon/pull/46) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 
 ### 💻 Stack I'm Currently Learning
 
