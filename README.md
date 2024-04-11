@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix Python examples](https://github.com/OpenLineage/docs/pull/316) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
+- [Add messageKey option to Kafka transport](https://github.com/OpenLineage/docs/pull/315) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [Add lineage_job_namespace and lineage_job_name OpenLineage macros](https://github.com/apache/airflow/pull/38829) on [apache/airflow](https://github.com/apache/airflow)
 - [Add jvm_shutdown function](https://github.com/py4j/py4j/pull/541) on [py4j/py4j](https://github.com/py4j/py4j)
 - [Airflow: Add lineage_job_namespace and lineage_job_name macros](https://github.com/OpenLineage/OpenLineage/pull/2582) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[CLIENT] Fix missing pkg_resources module on Python 3.12](https://github.com/OpenLineage/OpenLineage/pull/2572) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[CLIENT] Properly set Kafka messages key](https://github.com/OpenLineage/OpenLineage/pull/2571) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
