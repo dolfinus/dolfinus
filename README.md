@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
+- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-15023] Improve docker images](https://github.com/MobileTeleSystems/syncmaster/pull/35) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [[PROXY] Rename localServerId to messageKey](https://github.com/OpenLineage/OpenLineage/pull/2598) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[PYTHON] Allow user to set Kafka message key](https://github.com/OpenLineage/OpenLineage/pull/2597) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Fix Python examples](https://github.com/OpenLineage/docs/pull/316) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [Add messageKey option to Kafka transport](https://github.com/OpenLineage/docs/pull/315) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
-- [Add lineage_job_namespace and lineage_job_name OpenLineage macros](https://github.com/apache/airflow/pull/38829) on [apache/airflow](https://github.com/apache/airflow)
-- [Add jvm_shutdown function](https://github.com/py4j/py4j/pull/541) on [py4j/py4j](https://github.com/py4j/py4j)
-- [Airflow: Add lineage_job_namespace and lineage_job_name macros](https://github.com/OpenLineage/OpenLineage/pull/2582) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
