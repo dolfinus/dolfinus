@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[Python] Add GZIP compression to HttpTransport](https://github.com/OpenLineage/OpenLineage/pull/2604) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Java] Add GZIP compression to HttpTransport](https://github.com/OpenLineage/OpenLineage/pull/2603) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-15023] Improve docker images](https://github.com/MobileTeleSystems/syncmaster/pull/35) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[PROXY] Rename localServerId to messageKey](https://github.com/OpenLineage/OpenLineage/pull/2598) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[PYTHON] Allow user to set Kafka message key](https://github.com/OpenLineage/OpenLineage/pull/2597) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Fix Python examples](https://github.com/OpenLineage/docs/pull/316) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
-- [Add messageKey option to Kafka transport](https://github.com/OpenLineage/docs/pull/315) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 
 ### 💻 Stack I'm Currently Learning
 
