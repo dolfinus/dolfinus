@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix OpenLineage provider plugin examples](https://github.com/apache/airflow/pull/39029) on [apache/airflow](https://github.com/apache/airflow)
+- [Add compression option to HttpTransport](https://github.com/OpenLineage/docs/pull/318) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [[Python] Add GZIP compression to HttpTransport](https://github.com/OpenLineage/OpenLineage/pull/2604) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Java] Add GZIP compression to HttpTransport](https://github.com/OpenLineage/OpenLineage/pull/2603) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-15023] Improve docker images](https://github.com/MobileTeleSystems/syncmaster/pull/35) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[PROXY] Rename localServerId to messageKey](https://github.com/OpenLineage/OpenLineage/pull/2598) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[PYTHON] Allow user to set Kafka message key](https://github.com/OpenLineage/OpenLineage/pull/2597) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
