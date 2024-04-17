@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-15023] Pass Run to CREATE_SPARK_SESSION_FUNCTION](https://github.com/MobileTeleSystems/syncmaster/pull/38) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Fix OpenLineage provider plugin examples](https://github.com/apache/airflow/pull/39029) on [apache/airflow](https://github.com/apache/airflow)
 - [Add compression option to HttpTransport](https://github.com/OpenLineage/docs/pull/318) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [[Python] Add GZIP compression to HttpTransport](https://github.com/OpenLineage/OpenLineage/pull/2604) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Java] Add GZIP compression to HttpTransport](https://github.com/OpenLineage/OpenLineage/pull/2603) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[DOP-15023] Improve docker images](https://github.com/MobileTeleSystems/syncmaster/pull/35) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 
 ### 💻 Stack I'm Currently Learning
 
