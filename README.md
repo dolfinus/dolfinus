@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[Java] Handle DataSetEvent and JobEvent in Transport.emit](https://github.com/OpenLineage/OpenLineage/pull/2611) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Improve transport configuration docs](https://github.com/OpenLineage/docs/pull/319) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [[DOP-15023] Pass Run to CREATE_SPARK_SESSION_FUNCTION](https://github.com/MobileTeleSystems/syncmaster/pull/38) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Fix OpenLineage provider plugin examples](https://github.com/apache/airflow/pull/39029) on [apache/airflow](https://github.com/apache/airflow)
 - [Add compression option to HttpTransport](https://github.com/OpenLineage/docs/pull/318) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
-- [[Python] Add GZIP compression to HttpTransport](https://github.com/OpenLineage/OpenLineage/pull/2604) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Java] Add GZIP compression to HttpTransport](https://github.com/OpenLineage/OpenLineage/pull/2603) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
