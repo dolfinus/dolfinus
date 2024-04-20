@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-14025] Speed up integration tests](https://github.com/MobileTeleSystems/syncmaster/pull/42) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [[DOP-14025] Remove pathlib.PurePosixPath from API schemas](https://github.com/MobileTeleSystems/syncmaster/pull/41) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [[DOP-14025] Remove asyncio.gather from SQLAlchemy requests](https://github.com/MobileTeleSystems/syncmaster/pull/40) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [[DOP-14025] Fix patching connection with new auth_data.password value](https://github.com/MobileTeleSystems/syncmaster/pull/39) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[Java] Sync Kinesis partitionKey format with Kafka implementation](https://github.com/OpenLineage/OpenLineage/pull/2620) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Airflow] Fix macros docstrings](https://github.com/OpenLineage/OpenLineage/pull/2619) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Client] Remove runId from Kafka messageKey](https://github.com/OpenLineage/OpenLineage/pull/2615) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Java] Render lombok generated methods in javadoc](https://github.com/OpenLineage/OpenLineage/pull/2614) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Java] Handle DataSetEvent and JobEvent in Transport.emit](https://github.com/OpenLineage/OpenLineage/pull/2611) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [jwalton/gh-docker-logs](https://github.com/jwalton/gh-docker-logs) - GitHub Action to collect logs from all docker containers.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - 
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
-- [trallnag/prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) - Instrument your FastAPI with Prometheus metrics.
 
 ### 🏆 Github Profile Trophy
 
