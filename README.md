@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix zeroing protocolVersion capability](https://github.com/FreeRDP/FreeRDP/pull/10130) on [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP)
+- [Fix CHANGELOG](https://github.com/OpenLineage/OpenLineage/pull/2636) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-14025] Add workflow for cleanup CI cache](https://github.com/MobileTeleSystems/syncmaster/pull/45) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-14025] Reduce Docker image size](https://github.com/MobileTeleSystems/syncmaster/pull/44) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-14025] Speed up integration tests](https://github.com/MobileTeleSystems/syncmaster/pull/42) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-14025] Remove pathlib.PurePosixPath from API schemas](https://github.com/MobileTeleSystems/syncmaster/pull/41) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-14025] Remove asyncio.gather from SQLAlchemy requests](https://github.com/MobileTeleSystems/syncmaster/pull/40) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 
 ### 💻 Stack I'm Currently Learning
 
