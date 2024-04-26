@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-15512] Download only packages required by tests](https://github.com/MobileTeleSystems/syncmaster/pull/46) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-15512] Download only packages required by tests](https://github.com/MobileTeleSystems/onetl/pull/261) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13840] Fix JSON.parse_column on Spark 2.x](https://github.com/MobileTeleSystems/onetl/pull/260) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-15511] Update XML package to 0.18.0](https://github.com/MobileTeleSystems/onetl/pull/259) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Fix zeroing protocolVersion capability](https://github.com/FreeRDP/FreeRDP/pull/10130) on [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP)
-- [Fix CHANGELOG](https://github.com/OpenLineage/OpenLineage/pull/2636) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
