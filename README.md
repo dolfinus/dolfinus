@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Spark: Add spark_jobDetails facet](https://github.com/OpenLineage/OpenLineage/pull/2662) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [GreatExpectations: Rename ParentRunFacet key](https://github.com/OpenLineage/OpenLineage/pull/2661) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Airflow: Drop old ParentRunFacet key](https://github.com/OpenLineage/OpenLineage/pull/2660) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Spark: Drop SparkVersionFacet](https://github.com/OpenLineage/OpenLineage/pull/2659) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Replace % string formatting with f-string](https://github.com/encode/uvicorn/pull/2322) on [encode/uvicorn](https://github.com/encode/uvicorn)
-- [Pass request details as log record extra fields](https://github.com/encode/uvicorn/pull/2321) on [encode/uvicorn](https://github.com/encode/uvicorn)
-- [Don&#39;t install package on Python below 3.8](https://github.com/minio/minio-py/pull/1417) on [minio/minio-py](https://github.com/minio/minio-py)
-- [[DOP-15564] Avoid urlencoding JDBC params](https://github.com/MobileTeleSystems/onetl/pull/268) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-15561] Cast DateTimeHWM to DateTime64 in Clickhouse](https://github.com/MobileTeleSystems/onetl/pull/267) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
