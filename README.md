@@ -65,7 +65,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [Spark: Add run facets to Spark Application events](https://github.com/OpenLineage/OpenLineage/pull/2677) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Spark: Add facets to Spark Application events](https://github.com/OpenLineage/OpenLineage/pull/2677) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-15650] Apply timeout to LDAP connection pool](https://github.com/MobileTeleSystems/horizon/pull/58) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [Spark: Add spark_jobDetails facet](https://github.com/OpenLineage/OpenLineage/pull/2662) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [GreatExpectations: Rename ParentRunFacet key](https://github.com/OpenLineage/OpenLineage/pull/2661) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
