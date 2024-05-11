@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Spark: Add SparkApplicationDetailsFacet](https://github.com/OpenLineage/OpenLineage/pull/2688) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Python: Use UUIDv7 instead of UUIDv4](https://github.com/OpenLineage/OpenLineage/pull/2687) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Java: Use UUIDv7 instead of UUIDv4](https://github.com/OpenLineage/OpenLineage/pull/2686) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Flink: fix dataset schema for Protobuf repeated primitive fields](https://github.com/OpenLineage/OpenLineage/pull/2685) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Spark: Add spark.app.id to spark_properties](https://github.com/OpenLineage/OpenLineage/pull/2681) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Spark: Add facets to Spark Application events](https://github.com/OpenLineage/OpenLineage/pull/2677) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[DOP-15650] Apply timeout to LDAP connection pool](https://github.com/MobileTeleSystems/horizon/pull/58) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [Spark: Add spark_jobDetails facet](https://github.com/OpenLineage/OpenLineage/pull/2662) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [GreatExpectations: Rename ParentRunFacet key](https://github.com/OpenLineage/OpenLineage/pull/2661) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [f4b6a3/uuid-creator](https://github.com/f4b6a3/uuid-creator) - A UUID library for Java. Fully compliant with the new Internet standard published as RFC 9562. It was developed following the evolution of standard drafts.
 - [jwalton/gh-docker-logs](https://github.com/jwalton/gh-docker-logs) - GitHub Action to collect logs from all docker containers.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - 
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
-- [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
 
 ### 🏆 Github Profile Trophy
 
