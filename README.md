@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Spark: add nested fields to SchemaDatasetFieldsFacet](https://github.com/OpenLineage/OpenLineage/pull/2689) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Spark: Add SparkApplicationDetailsFacet](https://github.com/OpenLineage/OpenLineage/pull/2688) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Python: Use UUIDv7 instead of UUIDv4](https://github.com/OpenLineage/OpenLineage/pull/2687) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Java: Use UUIDv7 instead of UUIDv4](https://github.com/OpenLineage/OpenLineage/pull/2686) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Flink: fix dataset schema for Protobuf repeated primitive fields](https://github.com/OpenLineage/OpenLineage/pull/2685) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Spark: Add spark.app.id to spark_properties](https://github.com/OpenLineage/OpenLineage/pull/2681) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Flink: fix SchemaDatasetFacet for Protobuf repeated primitive types](https://github.com/OpenLineage/OpenLineage/pull/2685) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
