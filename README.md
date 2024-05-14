@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [fboulnois/pg_uuidv7](https://github.com/fboulnois/pg_uuidv7) - A tiny Postgres extension to create version 7 UUIDs
 - [f4b6a3/uuid-creator](https://github.com/f4b6a3/uuid-creator) - A UUID library for Java. Fully compliant with the new Internet standard published as RFC 9562. It was developed following the evolution of standard drafts.
 - [jwalton/gh-docker-logs](https://github.com/jwalton/gh-docker-logs) - GitHub Action to collect logs from all docker containers.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - 
-- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 
 ### 🏆 Github Profile Trophy
 
