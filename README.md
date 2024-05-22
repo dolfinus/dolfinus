@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
+- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Flink: handle Avro schema with nested and complex field types](https://github.com/OpenLineage/OpenLineage/pull/2711) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Flink: handle Iceberg tables with nested and complex field types](https://github.com/OpenLineage/OpenLineage/pull/2706) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-14058] Improve Kafka documentation](https://github.com/MobileTeleSystems/onetl/pull/276) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-14061] Replace asserts in documentation with doctest style](https://github.com/MobileTeleSystems/etl-entities/pull/91) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 - [[DOP-14059] Add Troubleshooting guide](https://github.com/MobileTeleSystems/onetl/pull/275) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-14061] Replace asserts in documentation with doctest style](https://github.com/MobileTeleSystems/onetl/pull/273) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-15650] Rename permissions endpoint](https://github.com/MobileTeleSystems/horizon/pull/61) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 
 ### 💻 Stack I'm Currently Learning
 
