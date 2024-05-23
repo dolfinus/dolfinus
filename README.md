@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-14042] Improve SparkHDFS and SparkS3 documentation](https://github.com/MobileTeleSystems/onetl/pull/279) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-14042] Improve Hive documentation](https://github.com/MobileTeleSystems/onetl/pull/278) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Flink: handle Avro schema with nested and complex field types](https://github.com/OpenLineage/OpenLineage/pull/2711) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Flink: handle Iceberg tables with nested and complex field types](https://github.com/OpenLineage/OpenLineage/pull/2706) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-14058] Improve Kafka documentation](https://github.com/MobileTeleSystems/onetl/pull/276) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-14061] Replace asserts in documentation with doctest style](https://github.com/MobileTeleSystems/etl-entities/pull/91) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
-- [[DOP-14059] Add Troubleshooting guide](https://github.com/MobileTeleSystems/onetl/pull/275) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
