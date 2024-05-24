@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[DOP-14042] Improve SparkHDFS and SparkS3 documentation](https://github.com/MobileTeleSystems/onetl/pull/279) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-14042] Improve Hive documentation](https://github.com/MobileTeleSystems/onetl/pull/278) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Flink: handle Avro schema with nested and complex field types](https://github.com/OpenLineage/OpenLineage/pull/2711) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Flink: handle Iceberg tables with nested and complex field types](https://github.com/OpenLineage/OpenLineage/pull/2706) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[DOP-14058] Improve Kafka documentation](https://github.com/MobileTeleSystems/onetl/pull/276) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-13851] Update MySQL package to 8.4.0](https://github.com/MobileTeleSystems/onetl/pull/285) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-13850] Update Oracle package to 23.4.0.24.05](https://github.com/MobileTeleSystems/onetl/pull/284) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-13853] Update MongoDB package to 10.3.0](https://github.com/MobileTeleSystems/onetl/pull/283) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-16175] Add versionadded and vesionchanged directives](https://github.com/MobileTeleSystems/onetl/pull/282) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-16174] Small documentation fixes](https://github.com/MobileTeleSystems/onetl/pull/281) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
