@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified platform for discovery, observability, and governance powered by a central metadata repository, in-depth lineage, and seamless team collaboration.
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-15764] Remove fetchsize from JDBCWriteOptions](https://github.com/MobileTeleSystems/onetl/pull/288) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-16270] Allow passing instanceName to MSSQL(extra=...)](https://github.com/MobileTeleSystems/onetl/pull/287) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Fix OpenLineage ingestor](https://github.com/open-metadata/OpenMetadata/pull/16416) on [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 - [[DOP-13851] Update MySQL package to 8.4.0](https://github.com/MobileTeleSystems/onetl/pull/285) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-13850] Update Oracle package to 23.4.0.24.05](https://github.com/MobileTeleSystems/onetl/pull/284) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-13853] Update MongoDB package to 10.3.0](https://github.com/MobileTeleSystems/onetl/pull/283) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-16175] Add versionadded and vesionchanged directives](https://github.com/MobileTeleSystems/onetl/pull/282) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
