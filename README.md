@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified platform for discovery, observability, and governance powered by a central metadata repository, in-depth lineage, and seamless team collaboration.
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Java: Remove deprecated localServerId option from Kafka config](https://github.com/OpenLineage/OpenLineage/pull/2738) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Java: Remove deprecated Transport.emit(String)](https://github.com/OpenLineage/OpenLineage/pull/2737) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Use UUIDv7 for OpenLineage runIds](https://github.com/apache/airflow/pull/39889) on [apache/airflow](https://github.com/apache/airflow)
 - [[DOP-15764] Remove fetchsize from JDBCWriteOptions](https://github.com/MobileTeleSystems/onetl/pull/288) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-16270] Allow passing instanceName to MSSQL(extra=...)](https://github.com/MobileTeleSystems/onetl/pull/287) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Fix OpenLineage ingestor](https://github.com/open-metadata/OpenMetadata/pull/16416) on [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-- [[DOP-13851] Update MySQL package to 8.4.0](https://github.com/MobileTeleSystems/onetl/pull/285) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-13850] Update Oracle package to 23.4.0.24.05](https://github.com/MobileTeleSystems/onetl/pull/284) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
