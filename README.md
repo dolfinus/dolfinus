@@ -7,10 +7,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
 ### 💼 Stack I'm Working With
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-14063] Drop onetl._internal module](https://github.com/MobileTeleSystems/onetl/pull/290) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Spark: Fix historyUrl format](https://github.com/OpenLineage/OpenLineage/pull/2741) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Java: Remove deprecated localServerId option from Kafka config](https://github.com/OpenLineage/OpenLineage/pull/2738) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Java: Remove deprecated Transport.emit(String)](https://github.com/OpenLineage/OpenLineage/pull/2737) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Use UUIDv7 for OpenLineage runIds](https://github.com/apache/airflow/pull/39889) on [apache/airflow](https://github.com/apache/airflow)
-- [[DOP-15764] Remove fetchsize from JDBCWriteOptions](https://github.com/MobileTeleSystems/onetl/pull/288) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
