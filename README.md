@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Spark: Fix Hive metastore namespace](https://github.com/OpenLineage/OpenLineage/pull/2761) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-14063] Drop onetl._internal module](https://github.com/MobileTeleSystems/onetl/pull/290) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Spark: Fix historyUrl format](https://github.com/OpenLineage/OpenLineage/pull/2741) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Java: Remove deprecated localServerId option from Kafka config](https://github.com/OpenLineage/OpenLineage/pull/2738) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Java: Remove deprecated Transport.emit(String)](https://github.com/OpenLineage/OpenLineage/pull/2737) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Use UUIDv7 for OpenLineage runIds](https://github.com/apache/airflow/pull/39889) on [apache/airflow](https://github.com/apache/airflow)
 
 ### 💻 Stack I'm Currently Learning
 
