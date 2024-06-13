@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Spark: fallback to spark.sql.warehouse.dir as table namespace](https://github.com/OpenLineage/OpenLineage/pull/2767) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Spark: change Glue namespace format](https://github.com/OpenLineage/OpenLineage/pull/2766) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Flink: Use namespace.name as Avro complex field type](https://github.com/OpenLineage/OpenLineage/pull/2763) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Spark: Fix Hive metastore namespace](https://github.com/OpenLineage/OpenLineage/pull/2761) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-14063] Drop onetl._internal module](https://github.com/MobileTeleSystems/onetl/pull/290) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Spark: Fix historyUrl format](https://github.com/OpenLineage/OpenLineage/pull/2741) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Java: Remove deprecated localServerId option from Kafka config](https://github.com/OpenLineage/OpenLineage/pull/2738) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
