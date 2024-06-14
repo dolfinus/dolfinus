@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Prefer using UUIDv7](https://github.com/OpenLineage/docs/pull/339) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
+- [Add fileCount to outputStatistics and dataQualityMetrics examples](https://github.com/OpenLineage/docs/pull/336) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
+- [Add nested fields to SchemaDatasetFacet example](https://github.com/OpenLineage/docs/pull/335) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
+- [Remove port from file:// naming convention](https://github.com/OpenLineage/docs/pull/334) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [Spark: fallback to spark.sql.warehouse.dir as table namespace](https://github.com/OpenLineage/OpenLineage/pull/2767) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Spark: change Glue namespace format](https://github.com/OpenLineage/OpenLineage/pull/2766) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Flink: Use namespace.name as Avro complex field type](https://github.com/OpenLineage/OpenLineage/pull/2763) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Spark: Fix Hive metastore namespace](https://github.com/OpenLineage/OpenLineage/pull/2761) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[DOP-14063] Drop onetl._internal module](https://github.com/MobileTeleSystems/onetl/pull/290) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
