@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Java: Improve namespace format for SQLServer](https://github.com/OpenLineage/OpenLineage/pull/2773) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Prefer using UUIDv7](https://github.com/OpenLineage/docs/pull/339) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [Add fileCount to outputStatistics and dataQualityMetrics examples](https://github.com/OpenLineage/docs/pull/336) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [Add nested fields to SchemaDatasetFacet example](https://github.com/OpenLineage/docs/pull/335) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [Remove port from file:// naming convention](https://github.com/OpenLineage/docs/pull/334) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
-- [Spark: fallback to spark.sql.warehouse.dir as table namespace](https://github.com/OpenLineage/OpenLineage/pull/2767) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
