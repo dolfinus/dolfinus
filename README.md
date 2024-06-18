@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Allow using GP with IPv6 enabled](https://github.com/andruche/docker-greenplum/pull/2) on [andruche/docker-greenplum](https://github.com/andruche/docker-greenplum)
 - [Java: Improve namespace format for SQLServer](https://github.com/OpenLineage/OpenLineage/pull/2773) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Prefer using UUIDv7](https://github.com/OpenLineage/docs/pull/339) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [Add fileCount to outputStatistics and dataQualityMetrics examples](https://github.com/OpenLineage/docs/pull/336) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [Add nested fields to SchemaDatasetFacet example](https://github.com/OpenLineage/docs/pull/335) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
-- [Remove port from file:// naming convention](https://github.com/OpenLineage/docs/pull/334) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 
 ### 💻 Stack I'm Currently Learning
 
