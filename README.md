@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
 - [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
-- [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Ignore missing dependencies](https://github.com/mgeier/sphinx-last-updated-by-git/pull/77) on [mgeier/sphinx-last-updated-by-git](https://github.com/mgeier/sphinx-last-updated-by-git)
 - [Spark, Flink: Fix S3 dataset names](https://github.com/OpenLineage/OpenLineage/pull/2782) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Allow using GP with IPv6 enabled](https://github.com/andruche/docker-greenplum/pull/2) on [andruche/docker-greenplum](https://github.com/andruche/docker-greenplum)
 - [Java: Improve namespace format for SQLServer](https://github.com/OpenLineage/OpenLineage/pull/2773) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Prefer using UUIDv7](https://github.com/OpenLineage/docs/pull/339) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
-- [Add fileCount to outputStatistics and dataQualityMetrics examples](https://github.com/OpenLineage/docs/pull/336) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -99,11 +99,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [mgeier/sphinx-last-updated-by-git](https://github.com/mgeier/sphinx-last-updated-by-git) - :watch: Get the &#34;last updated&#34; time for each Sphinx page from Git
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [fboulnois/pg_uuidv7](https://github.com/fboulnois/pg_uuidv7) - A tiny Postgres extension to create version 7 UUIDs
 - [f4b6a3/uuid-creator](https://github.com/f4b6a3/uuid-creator) - A UUID library for Java. Fully compliant with the new Internet standard published as RFC 9562.
-- [jwalton/gh-docker-logs](https://github.com/jwalton/gh-docker-logs) - GitHub Action to collect logs from all docker containers.
 
 ### 🏆 Github Profile Trophy
 
