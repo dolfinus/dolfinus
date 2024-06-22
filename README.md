@@ -7,7 +7,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Tests: Properly cleanup MockServer](https://github.com/OpenLineage/OpenLineage/pull/2790) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Ignore missing dependencies](https://github.com/mgeier/sphinx-last-updated-by-git/pull/77) on [mgeier/sphinx-last-updated-by-git](https://github.com/mgeier/sphinx-last-updated-by-git)
 - [Spark, Flink: Fix S3 dataset names](https://github.com/OpenLineage/OpenLineage/pull/2782) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Allow using GP with IPv6 enabled](https://github.com/andruche/docker-greenplum/pull/2) on [andruche/docker-greenplum](https://github.com/andruche/docker-greenplum)
 - [Java: Improve namespace format for SQLServer](https://github.com/OpenLineage/OpenLineage/pull/2773) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Prefer using UUIDv7](https://github.com/OpenLineage/docs/pull/339) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 
 ### 💻 Stack I'm Currently Learning
 
