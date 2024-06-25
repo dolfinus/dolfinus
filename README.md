@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -65,11 +65,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Spark: Fix Iceberg dataset location](https://github.com/OpenLineage/OpenLineage/pull/2797) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Spark: Collect table name from InsertIntoHadoopFsRelationCommand](https://github.com/OpenLineage/OpenLineage/pull/2794) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Tests: Properly cleanup MockServer](https://github.com/OpenLineage/OpenLineage/pull/2790) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Ignore missing dependencies](https://github.com/mgeier/sphinx-last-updated-by-git/pull/77) on [mgeier/sphinx-last-updated-by-git](https://github.com/mgeier/sphinx-last-updated-by-git)
 - [Spark, Flink: Fix S3 dataset names](https://github.com/OpenLineage/OpenLineage/pull/2782) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Allow using GP with IPv6 enabled](https://github.com/andruche/docker-greenplum/pull/2) on [andruche/docker-greenplum](https://github.com/andruche/docker-greenplum)
 
 ### 💻 Stack I'm Currently Learning
 
