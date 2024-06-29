@@ -69,9 +69,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 ### 💻 Stack I'm Currently Learning
 
- - **Languages:**  </br>
-[![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-
  - **DevOps:**  </br>
 [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 
@@ -79,9 +76,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
  - **Languages:**  </br>
 [![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-
- - **Backend:**  </br>
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 
 <!--
 [![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
