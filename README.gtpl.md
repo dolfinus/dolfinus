@@ -35,8 +35,6 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
  - **DBMS:**  </br>
 [![PostgreSQL](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-[![Apache Hive](https://img.shields.io/badge/Apache%20Hive-fdef28.svg?style=for-the-badge&logo=apache-hive&logoColor=black)](https://github.com/Ileriayo/markdown-badges)
 
  - **Environment:**  </br>
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Ileriayo/markdown-badges)
