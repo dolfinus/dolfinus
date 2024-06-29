@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector
 - [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL.. WIP
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 
 ### 💼 Stack I'm Working With
 
@@ -65,16 +65,13 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Mw 1.39](https://github.com/dolfinus/DarkVector/pull/39) on [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector)
 - [Java: Add PostgresJdbcExtractor](https://github.com/OpenLineage/OpenLineage/pull/2806) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Spark,Flink: Fix DBFS namespace format](https://github.com/OpenLineage/OpenLineage/pull/2800) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Spark: Fix Iceberg dataset location](https://github.com/OpenLineage/OpenLineage/pull/2797) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Spark: Collect table name from InsertIntoHadoopFsRelationCommand](https://github.com/OpenLineage/OpenLineage/pull/2794) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Tests: Properly cleanup MockServer](https://github.com/OpenLineage/OpenLineage/pull/2790) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
-
- - **Languages:**  </br>
-[![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 
  - **DevOps:**  </br>
 [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
@@ -84,17 +81,15 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
  - **Languages:**  </br>
 [![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 
- - **Backend:**  </br>
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
-
 
 
 ### 🌱 My Pet Projects
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
                                        
 
-- [dolfinus/arkenston-backend](https://github.com/dolfinus/arkenston-backend) - A Phoenix based backend for Arkenston project
 - [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
+- [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
+- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
 
 ### ⭐ Recent Stars
 
