@@ -117,7 +117,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
     <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dolfinus&theme=github_dark">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dolfinus&theme=github_dark">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dolfinus&theme=github_dark">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dolfinus&theme=github_dark&utcOffset=3">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dolfinus&theme=github_dark"><br>
     </p>
 </a>
