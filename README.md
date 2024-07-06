@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [Spark,Flink: Add TeradataJdbcExtractor](https://github.com/OpenLineage/OpenLineage/pull/2826) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Spark,Flink: Add MySqlJdbcExtractor](https://github.com/OpenLineage/OpenLineage/pull/2825) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Spark,Flink: Add OracleJdbcExtractor](https://github.com/OpenLineage/OpenLineage/pull/2824) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Mw 1.39](https://github.com/dolfinus/DarkVector/pull/39) on [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector)
-- [Spark,Flink: Add PostgresJdbcExtractor](https://github.com/OpenLineage/OpenLineage/pull/2806) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Add Teradata to dataset naming](https://github.com/OpenLineage/docs/pull/348) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
+- [Add Oracle to dataset naming](https://github.com/OpenLineage/docs/pull/347) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
+- [Split dataset namespace &amp; name](https://github.com/OpenLineage/docs/pull/346) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
+- [Fix: convert scheme and authority to lowercase in JdbcExtractors](https://github.com/OpenLineage/OpenLineage/pull/2831) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Fix: handle dashes in hostname for JdbcExtractors](https://github.com/OpenLineage/OpenLineage/pull/2830) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
