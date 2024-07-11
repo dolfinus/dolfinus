@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
-- [dolfinus/DarkVector](https://github.com/dolfinus/DarkVector) - MediaWiki dark-colored skin based on Vector
-- [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
 
 ### 💼 Stack I'm Working With
 
