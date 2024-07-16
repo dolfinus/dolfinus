@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Add log_url to OpenLineage AirflowRunFacet](https://github.com/apache/airflow/pull/40797) on [apache/airflow](https://github.com/apache/airflow)
+- [Airflow: Add log_url to AirflowRunFacet](https://github.com/OpenLineage/OpenLineage/pull/2852) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Add Teradata to dataset naming](https://github.com/OpenLineage/docs/pull/348) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [Add Oracle to dataset naming](https://github.com/OpenLineage/docs/pull/347) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [Split dataset namespace &amp; name](https://github.com/OpenLineage/docs/pull/346) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
-- [Fix: convert scheme and authority to lowercase in JdbcLocation](https://github.com/OpenLineage/OpenLineage/pull/2831) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Fix: handle dashes in hostname for JdbcExtractors](https://github.com/OpenLineage/OpenLineage/pull/2830) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
