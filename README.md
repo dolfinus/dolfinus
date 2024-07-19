@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [openlineage: Add AirflowRunFacet for dag runEvents](https://github.com/apache/airflow/pull/40854) on [apache/airflow](https://github.com/apache/airflow)
 - [Add log_url to OpenLineage AirflowRunFacet](https://github.com/apache/airflow/pull/40797) on [apache/airflow](https://github.com/apache/airflow)
 - [Airflow: Add log_url to AirflowRunFacet](https://github.com/OpenLineage/OpenLineage/pull/2852) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Add Teradata to dataset naming](https://github.com/OpenLineage/docs/pull/348) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 - [Add Oracle to dataset naming](https://github.com/OpenLineage/docs/pull/347) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
-- [Split dataset namespace &amp; name](https://github.com/OpenLineage/docs/pull/346) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 
 ### 💻 Stack I'm Currently Learning
 
