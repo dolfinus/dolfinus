@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [openlineage: Add AirflowRunFacet for dag runEvents](https://github.com/apache/airflow/pull/40854) on [apache/airflow](https://github.com/apache/airflow)
+- [Java: Add DerbyJdbcExtractor](https://github.com/OpenLineage/OpenLineage/pull/2869) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Spark: Make Delta dataset symlink consistent with non-Delta tables](https://github.com/OpenLineage/OpenLineage/pull/2863) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [openlineage: Add AirflowDagRunFacet to dag runEvents](https://github.com/apache/airflow/pull/40854) on [apache/airflow](https://github.com/apache/airflow)
 - [Add log_url to OpenLineage AirflowRunFacet](https://github.com/apache/airflow/pull/40797) on [apache/airflow](https://github.com/apache/airflow)
 - [Airflow: Add log_url to AirflowRunFacet](https://github.com/OpenLineage/OpenLineage/pull/2852) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Add Teradata to dataset naming](https://github.com/OpenLineage/docs/pull/348) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
-- [Add Oracle to dataset naming](https://github.com/OpenLineage/docs/pull/347) on [OpenLineage/docs](https://github.com/OpenLineage/docs)
 
 ### 💻 Stack I'm Currently Learning
 
