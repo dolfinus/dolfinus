@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Test Spark 4.0](https://github.com/MobileTeleSystems/onetl/pull/297) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [Java: Pass EventEmitter as test parameter](https://github.com/OpenLineage/OpenLineage/pull/2884) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Java: Add DerbyJdbcExtractor](https://github.com/OpenLineage/OpenLineage/pull/2869) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Spark: Make Delta dataset symlink consistent with non-Delta tables](https://github.com/OpenLineage/OpenLineage/pull/2863) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [openlineage: Add AirflowDagRunFacet to dag runEvents](https://github.com/apache/airflow/pull/40854) on [apache/airflow](https://github.com/apache/airflow)
-- [Add log_url to OpenLineage AirflowRunFacet](https://github.com/apache/airflow/pull/40797) on [apache/airflow](https://github.com/apache/airflow)
-- [Airflow: Add log_url to AirflowRunFacet](https://github.com/OpenLineage/OpenLineage/pull/2852) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
