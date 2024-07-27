@@ -8,9 +8,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [OpenLineage/docs](https://github.com/OpenLineage/docs) - Documentation and website for OpenLineage
+- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 
 ### 💼 Stack I'm Working With
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [SSHHook: check if existing connection is still alive](https://github.com/apache/airflow/pull/41061) on [apache/airflow](https://github.com/apache/airflow)
+- [Airflow: Add airflowDagRun facet](https://github.com/OpenLineage/OpenLineage/pull/2885) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Test Spark 4.0](https://github.com/MobileTeleSystems/onetl/pull/297) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Java: Pass EventEmitter as test parameter](https://github.com/OpenLineage/OpenLineage/pull/2884) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Spark: Pass EventEmitter as test parameter](https://github.com/OpenLineage/OpenLineage/pull/2884) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Java: Add DerbyJdbcExtractor](https://github.com/OpenLineage/OpenLineage/pull/2869) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Spark: Make Delta dataset symlink consistent with non-Delta tables](https://github.com/OpenLineage/OpenLineage/pull/2863) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [openlineage: Add AirflowDagRunFacet to dag runEvents](https://github.com/apache/airflow/pull/40854) on [apache/airflow](https://github.com/apache/airflow)
 
 ### 💻 Stack I'm Currently Learning
 
