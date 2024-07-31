@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Graphite: implement connection &amp; socket timeout](https://github.com/dropwizard/metrics/pull/4313) on [dropwizard/metrics](https://github.com/dropwizard/metrics)
 - [Test Python 3.13](https://github.com/MobileTeleSystems/onetl/pull/298) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Preserve logging stacklevel](https://github.com/paramiko/paramiko/pull/2423) on [paramiko/paramiko](https://github.com/paramiko/paramiko)
 - [SSHHook: check if existing connection is still alive](https://github.com/apache/airflow/pull/41061) on [apache/airflow](https://github.com/apache/airflow)
 - [Airflow: Add airflowDagRun facet](https://github.com/OpenLineage/OpenLineage/pull/2885) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Test Spark 4.0](https://github.com/MobileTeleSystems/onetl/pull/297) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
