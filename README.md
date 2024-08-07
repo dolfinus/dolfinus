@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-18570] Collect Spark metrics in DBWriter and FileDFWriter](https://github.com/MobileTeleSystems/onetl/pull/302) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Web: encode job name in API requests](https://github.com/MarquezProject/marquez/pull/2866) on [MarquezProject/marquez](https://github.com/MarquezProject/marquez)
 - [Graphite: implement connection &amp; socket timeout](https://github.com/dropwizard/metrics/pull/4313) on [dropwizard/metrics](https://github.com/dropwizard/metrics)
 - [Test Python 3.13](https://github.com/MobileTeleSystems/onetl/pull/298) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Preserve logging stacklevel](https://github.com/paramiko/paramiko/pull/2423) on [paramiko/paramiko](https://github.com/paramiko/paramiko)
-- [SSHHook: check if existing connection is still alive](https://github.com/apache/airflow/pull/41061) on [apache/airflow](https://github.com/apache/airflow)
 
 ### 💻 Stack I'm Currently Learning
 
