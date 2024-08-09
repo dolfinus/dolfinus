@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[DOP-18570] Collect Spark metrics in DBWriter and FileDFWriter](https://github.com/MobileTeleSystems/onetl/pull/302) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [DOP-18743] Set default jobDescription](https://github.com/MobileTeleSystems/onetl/pull/304) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-18571] Collect and log Spark metrics in various method calls](https://github.com/MobileTeleSystems/onetl/pull/303) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-18570] Implement SparkMetricsRecorder](https://github.com/MobileTeleSystems/onetl/pull/302) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Web: encode job name in API requests](https://github.com/MarquezProject/marquez/pull/2866) on [MarquezProject/marquez](https://github.com/MarquezProject/marquez)
 - [Graphite: implement connection &amp; socket timeout](https://github.com/dropwizard/metrics/pull/4313) on [dropwizard/metrics](https://github.com/dropwizard/metrics)
-- [Test Python 3.13](https://github.com/MobileTeleSystems/onetl/pull/298) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Preserve logging stacklevel](https://github.com/paramiko/paramiko/pull/2423) on [paramiko/paramiko](https://github.com/paramiko/paramiko)
 
 ### 💻 Stack I'm Currently Learning
 
