@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
-- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [CI: automatically approve &amp; merge Dependabot PRs](https://github.com/airtai/faststream/pull/1720) on [airtai/faststream](https://github.com/airtai/faststream)
+- [CI: group Dependabot updates into one PR](https://github.com/airtai/faststream/pull/1719) on [airtai/faststream](https://github.com/airtai/faststream)
 - [Test Spark 3.5.2](https://github.com/MobileTeleSystems/onetl/pull/306) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-18743] Set default jobDescription](https://github.com/MobileTeleSystems/onetl/pull/304) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-18571] Collect and log Spark metrics in various method calls](https://github.com/MobileTeleSystems/onetl/pull/303) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-18570] Implement SparkMetricsRecorder](https://github.com/MobileTeleSystems/onetl/pull/302) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Web: encode job name in API requests](https://github.com/MarquezProject/marquez/pull/2866) on [MarquezProject/marquez](https://github.com/MarquezProject/marquez)
 
 ### 💻 Stack I'm Currently Learning
 
