@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-19024] Fix passing custom JDBC options to Greenplum.extra](https://github.com/MobileTeleSystems/onetl/pull/308) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [CI: automatically approve &amp; merge Dependabot PRs](https://github.com/airtai/faststream/pull/1720) on [airtai/faststream](https://github.com/airtai/faststream)
 - [CI: group Dependabot updates into one PR](https://github.com/airtai/faststream/pull/1719) on [airtai/faststream](https://github.com/airtai/faststream)
 - [Test Spark 3.5.2](https://github.com/MobileTeleSystems/onetl/pull/306) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-18743] Set default jobDescription](https://github.com/MobileTeleSystems/onetl/pull/304) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-18571] Collect and log Spark metrics in various method calls](https://github.com/MobileTeleSystems/onetl/pull/303) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
