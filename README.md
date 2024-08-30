@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
-- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix Dependabot group names](https://github.com/airtai/faststream/pull/1737) on [airtai/faststream](https://github.com/airtai/faststream)
+- [CI: Group Dependabot MRs](https://github.com/OpenLineage/OpenLineage/pull/3002) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-19024] Fix passing custom JDBC options to Greenplum.extra](https://github.com/MobileTeleSystems/onetl/pull/308) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [CI: automatically approve &amp; merge Dependabot PRs](https://github.com/airtai/faststream/pull/1720) on [airtai/faststream](https://github.com/airtai/faststream)
 - [CI: group Dependabot updates into one PR](https://github.com/airtai/faststream/pull/1719) on [airtai/faststream](https://github.com/airtai/faststream)
-- [Test Spark 3.5.2](https://github.com/MobileTeleSystems/onetl/pull/306) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-18743] Set default jobDescription](https://github.com/MobileTeleSystems/onetl/pull/304) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
