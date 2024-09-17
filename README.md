@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [Fix Dependabot group names](https://github.com/airtai/faststream/pull/1737) on [airtai/faststream](https://github.com/airtai/faststream)
-- [CI: Group Dependabot MRs](https://github.com/OpenLineage/OpenLineage/pull/3002) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[DOP-19024] Fix passing custom JDBC options to Greenplum.extra](https://github.com/MobileTeleSystems/onetl/pull/308) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [CI: automatically approve &amp; merge Dependabot PRs](https://github.com/airtai/faststream/pull/1720) on [airtai/faststream](https://github.com/airtai/faststream)
-- [CI: group Dependabot updates into one PR](https://github.com/airtai/faststream/pull/1719) on [airtai/faststream](https://github.com/airtai/faststream)
+- [[DOP-19494] Optimize queries](https://github.com/MobileTeleSystems/data-rentgen/pull/58) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-19316] Split interactions table to inputs &amp; outputs](https://github.com/MobileTeleSystems/data-rentgen/pull/57) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-19299] Remove operations &amp; runs without any interactions from lineage graph](https://github.com/MobileTeleSystems/data-rentgen/pull/56) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-18998] Handle dataset symlinks in lineage endpoint](https://github.com/MobileTeleSystems/data-rentgen/pull/52) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-18989] Add depth option to lineage endpoint](https://github.com/MobileTeleSystems/data-rentgen/pull/51) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
