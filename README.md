@@ -7,10 +7,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-19838] Update Makefile &amp; CONTRIBUTING.rst](https://github.com/MobileTeleSystems/syncmaster/pull/85) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [[DOP-19835] Fix GET /v1/groups skipping some groups](https://github.com/MobileTeleSystems/syncmaster/pull/84) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-19494] Optimize queries](https://github.com/MobileTeleSystems/data-rentgen/pull/58) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-19316] Split interactions table to inputs &amp; outputs](https://github.com/MobileTeleSystems/data-rentgen/pull/57) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-19299] Remove operations &amp; runs without any interactions from lineage graph](https://github.com/MobileTeleSystems/data-rentgen/pull/56) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-18998] Handle dataset symlinks in lineage endpoint](https://github.com/MobileTeleSystems/data-rentgen/pull/52) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-18989] Add depth option to lineage endpoint](https://github.com/MobileTeleSystems/data-rentgen/pull/51) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
