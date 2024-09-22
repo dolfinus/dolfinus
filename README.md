@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-19494] Replace id IN () with id = ANY ()](https://github.com/MobileTeleSystems/data-rentgen/pull/65) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-19838] Update Makefile &amp; CONTRIBUTING.rst](https://github.com/MobileTeleSystems/syncmaster/pull/85) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-19835] Fix GET /v1/groups skipping some groups](https://github.com/MobileTeleSystems/syncmaster/pull/84) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-19494] Optimize queries](https://github.com/MobileTeleSystems/data-rentgen/pull/58) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-19316] Split interactions table to inputs &amp; outputs](https://github.com/MobileTeleSystems/data-rentgen/pull/57) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-19299] Remove operations &amp; runs without any interactions from lineage graph](https://github.com/MobileTeleSystems/data-rentgen/pull/56) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
