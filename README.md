@@ -8,9 +8,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension) - Package extending the default dialect capabilities for Spark.
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 
 ### 💼 Stack I'm Working With
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-18232] Replace SBT with Gradle](https://github.com/MobileTeleSystems/spark-dialect-extension/pull/12) on [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension)
 - [[DOP-19494] Replace id IN () with id = ANY ()](https://github.com/MobileTeleSystems/data-rentgen/pull/65) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-19838] Update Makefile &amp; CONTRIBUTING.rst](https://github.com/MobileTeleSystems/syncmaster/pull/85) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-19835] Fix GET /v1/groups skipping some groups](https://github.com/MobileTeleSystems/syncmaster/pull/84) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-19494] Optimize queries](https://github.com/MobileTeleSystems/data-rentgen/pull/58) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-19316] Split interactions table to inputs &amp; outputs](https://github.com/MobileTeleSystems/data-rentgen/pull/57) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
