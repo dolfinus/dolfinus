@@ -7,10 +7,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension) - Package extending the default dialect capabilities for Spark.
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension) - Extend JDBC types support for Apache Spark.
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 
 ### 💼 Stack I'm Working With
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-16941] Add example for onETL](https://github.com/MobileTeleSystems/spark-dialect-extension/pull/13) on [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension)
+- [[DOP-16941] Add spark-dialect-extension package to Clickhouse docs](https://github.com/MobileTeleSystems/onetl/pull/310) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-20131] Initialize repo](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/1) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-18232] Replace SBT with Gradle](https://github.com/MobileTeleSystems/spark-dialect-extension/pull/12) on [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension)
 - [[DOP-19494] Replace id IN () with id = ANY ()](https://github.com/MobileTeleSystems/data-rentgen/pull/65) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-19838] Update Makefile &amp; CONTRIBUTING.rst](https://github.com/MobileTeleSystems/syncmaster/pull/85) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-19835] Fix GET /v1/groups skipping some groups](https://github.com/MobileTeleSystems/syncmaster/pull/84) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 
 ### 💻 Stack I'm Currently Learning
 
