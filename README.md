@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-20851] Improve search quality](https://github.com/MobileTeleSystems/data-rentgen/pull/84) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-20849] Make since field mandatory in runs search](https://github.com/MobileTeleSystems/data-rentgen/pull/82) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-20135] Add search filter to dataset &amp; job grids](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/4) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-20817] Handle case taskMetrics=null](https://github.com/MobileTeleSystems/onetl/pull/313) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-20055] Merge /entries with /entries/search](https://github.com/MobileTeleSystems/data-rentgen/pull/81) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-20137] Implement jobs grid &amp; show pages](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/3) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 
 ### 💻 Stack I'm Currently Learning
 
