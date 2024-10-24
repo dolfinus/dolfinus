@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-20958] Add id fields to DTOs](https://github.com/MobileTeleSystems/data-rentgen/pull/91) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-20144] Save jobGroup to operation.group](https://github.com/MobileTeleSystems/data-rentgen/pull/90) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-20144] Implement OperationListForRun &amp; OperationShow](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/6) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-20140] Add run.created_at and operation.created_at to API responses](https://github.com/MobileTeleSystems/data-rentgen/pull/89) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-20139] Implement RunList &amp; RunShow components](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/5) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[DOP-20851] Improve search quality](https://github.com/MobileTeleSystems/data-rentgen/pull/84) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-20849] Make since field mandatory in runs search](https://github.com/MobileTeleSystems/data-rentgen/pull/82) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-20135] Add search filter to dataset &amp; job grids](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/4) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 
 ### 💻 Stack I'm Currently Learning
 
