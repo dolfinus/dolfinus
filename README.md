@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-20958] Insert operations, inputs &amp; outputs in one statement](https://github.com/MobileTeleSystems/data-rentgen/pull/97) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [Revert &#34;Bump the python-packages group with 5 updates&#34;](https://github.com/MobileTeleSystems/data-rentgen/pull/94) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-20958] Consume events in batches](https://github.com/MobileTeleSystems/data-rentgen/pull/92) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-20958] Add id fields to DTOs](https://github.com/MobileTeleSystems/data-rentgen/pull/91) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-20144] Save jobGroup to operation.group](https://github.com/MobileTeleSystems/data-rentgen/pull/90) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-20144] Implement OperationListForRun &amp; OperationShow](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/6) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 
 ### 💻 Stack I'm Currently Learning
 
