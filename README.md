@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension) - Extend JDBC types support for Apache Spark.
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Test Python 3.13 support](https://github.com/MobileTeleSystems/data-rentgen/pull/98) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-20148] Introduce repr components](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/7) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-20958] Insert operations, inputs &amp; outputs in one statement](https://github.com/MobileTeleSystems/data-rentgen/pull/97) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [Revert &#34;Bump the python-packages group with 5 updates&#34;](https://github.com/MobileTeleSystems/data-rentgen/pull/94) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-20958] Consume events in batches](https://github.com/MobileTeleSystems/data-rentgen/pull/92) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-20958] Add id fields to DTOs](https://github.com/MobileTeleSystems/data-rentgen/pull/91) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-20144] Save jobGroup to operation.group](https://github.com/MobileTeleSystems/data-rentgen/pull/90) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
