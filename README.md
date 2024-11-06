@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-20148] Introduce lineage graph components](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/8) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[DOP-21121] Handle out-of-order events in consumer](https://github.com/MobileTeleSystems/data-rentgen/pull/102) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [Test Python 3.13 support](https://github.com/MobileTeleSystems/data-rentgen/pull/98) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-20148] Introduce repr components](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/7) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-20958] Insert operations, inputs &amp; outputs in one statement](https://github.com/MobileTeleSystems/data-rentgen/pull/97) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [Revert &#34;Bump the python-packages group with 5 updates&#34;](https://github.com/MobileTeleSystems/data-rentgen/pull/94) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-20958] Consume events in batches](https://github.com/MobileTeleSystems/data-rentgen/pull/92) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
