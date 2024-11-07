@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
-- [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension) - Extend JDBC types support for Apache Spark.
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-20146] Add id field to LocationResponseV1](https://github.com/MobileTeleSystems/data-rentgen/pull/103) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [Allow using aiokafka 0.12](https://github.com/airtai/faststream/pull/1896) on [airtai/faststream](https://github.com/airtai/faststream)
 - [[DOP-20148] Introduce lineage graph components](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/8) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-21121] Handle out-of-order events in consumer](https://github.com/MobileTeleSystems/data-rentgen/pull/102) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [Test Python 3.13 support](https://github.com/MobileTeleSystems/data-rentgen/pull/98) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-20148] Introduce repr components](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/7) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[DOP-20958] Insert operations, inputs &amp; outputs in one statement](https://github.com/MobileTeleSystems/data-rentgen/pull/97) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
