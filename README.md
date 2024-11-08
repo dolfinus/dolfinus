@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[DOP-20146] Add id field to LocationResponseV1](https://github.com/MobileTeleSystems/data-rentgen/pull/103) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [Allow using aiokafka 0.12](https://github.com/airtai/faststream/pull/1896) on [airtai/faststream](https://github.com/airtai/faststream)
-- [[DOP-20148] Introduce lineage graph components](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/8) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[DOP-21121] Handle out-of-order events in consumer](https://github.com/MobileTeleSystems/data-rentgen/pull/102) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [Test Python 3.13 support](https://github.com/MobileTeleSystems/data-rentgen/pull/98) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-21297] Automatically build docker image](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/12) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[DOP-21296] Add child runs list to RunRaShow page](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/11) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[DOP-20146] Add Location resource](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/10) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [Add logo &amp; favicon](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/9) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [Add logo](https://github.com/MobileTeleSystems/data-rentgen/pull/104) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark) - A curated list of awesome Apache Spark packages and resources.
 - [draincoder/asgi-monitor](https://github.com/draincoder/asgi-monitor) - A library for easy and fast configuration of logging, tracing and metrics for ASGI applications.
 - [samuelcolvin/dirty-equals](https://github.com/samuelcolvin/dirty-equals) - Doing dirty (but extremely useful) things with equals.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
-- [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset) - offset-free paging for sqlalchemy
 
 ### 🏆 Github Profile Trophy
 
