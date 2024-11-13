@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
-- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+- [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-21408] Make KeyValueIntHWM key an integer](https://github.com/MobileTeleSystems/etl-entities/pull/103) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
+- [[DOP-21408] Fix logging KeyValueIntHWM using log_hwm](https://github.com/MobileTeleSystems/onetl/pull/316) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-20147] Implement location edit](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/14) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-20148] Show amount of data on edge label](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/13) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-21297] Automatically build docker image](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/12) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[DOP-21296] Add child runs list to RunRaShow page](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/11) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[DOP-20146] Add Location resource](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/10) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 
 ### 💻 Stack I'm Currently Learning
 
