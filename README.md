@@ -9,9 +9,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
-- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-21295] Simplify tests a bit](https://github.com/MobileTeleSystems/data-rentgen/pull/109) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-21387] Rebuild documentation structure](https://github.com/MobileTeleSystems/data-rentgen/pull/108) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-21408] Make KeyValueIntHWM key an integer](https://github.com/MobileTeleSystems/etl-entities/pull/103) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 - [[DOP-21408] Fix logging KeyValueIntHWM using log_hwm](https://github.com/MobileTeleSystems/onetl/pull/316) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-20147] Implement location edit](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/14) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[DOP-20148] Show amount of data on edge label](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/13) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 
 ### 💻 Stack I'm Currently Learning
 
