@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-21357] Add schema to DatasetNode](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/15) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[DOP-21572] Refactor Input &amp; Output repositories](https://github.com/MobileTeleSystems/data-rentgen/pull/116) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-21572] Return interaction schema with granularity=RUN|JOB](https://github.com/MobileTeleSystems/data-rentgen/pull/115) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-21572] Remove unused fields from schema response](https://github.com/MobileTeleSystems/data-rentgen/pull/114) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-21295] Do not include unrelated datasets to lineage with depth&gt;1](https://github.com/MobileTeleSystems/data-rentgen/pull/113) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-21531] Set default direction to BOTH](https://github.com/MobileTeleSystems/data-rentgen/pull/110) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-21295] Simplify tests a bit](https://github.com/MobileTeleSystems/data-rentgen/pull/109) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-21387] Rebuild documentation structure](https://github.com/MobileTeleSystems/data-rentgen/pull/108) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-21408] Make KeyValueIntHWM key an integer](https://github.com/MobileTeleSystems/etl-entities/pull/103) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 
 ### 💻 Stack I'm Currently Learning
 
