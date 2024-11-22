@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-21634] Make DBReader and DBWriter table name requirements less strict](https://github.com/MobileTeleSystems/onetl/pull/318) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-21631] Wrap raw HTTP exceptions in client with horizon exception classes](https://github.com/MobileTeleSystems/horizon/pull/92) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
+- [[DOP-21572] Add id field to IO schema](https://github.com/MobileTeleSystems/data-rentgen/pull/118) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-21613] Use OpenLineage InputStatisticsInputDatasetFacet](https://github.com/MobileTeleSystems/data-rentgen/pull/117) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-21357] Add schema to DatasetNode](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/15) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[DOP-21572] Refactor Input &amp; Output repositories](https://github.com/MobileTeleSystems/data-rentgen/pull/116) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-21572] Return interaction schema with granularity=RUN|JOB](https://github.com/MobileTeleSystems/data-rentgen/pull/115) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-21572] Remove unused fields from schema response](https://github.com/MobileTeleSystems/data-rentgen/pull/114) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-21295] Do not include unrelated datasets to lineage with depth&gt;1](https://github.com/MobileTeleSystems/data-rentgen/pull/113) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
