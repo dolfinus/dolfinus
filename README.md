@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[DOP-21634] Make DBReader and DBWriter table name requirements less strict](https://github.com/MobileTeleSystems/onetl/pull/318) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-21631] Wrap raw HTTP exceptions in client with horizon exception classes](https://github.com/MobileTeleSystems/horizon/pull/92) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [[DOP-21572] Add id field to IO schema](https://github.com/MobileTeleSystems/data-rentgen/pull/118) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-21613] Use OpenLineage InputStatisticsInputDatasetFacet](https://github.com/MobileTeleSystems/data-rentgen/pull/117) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-21357] Add schema to DatasetNode](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/15) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[ADD] G-Research Spark Extension](https://github.com/awesome-spark/awesome-spark/pull/247) on [awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark)
+- [[ADD] sparkMeasure &amp; CERN SparkPlugins](https://github.com/awesome-spark/awesome-spark/pull/246) on [awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark)
+- [[ADD] Qbeast](https://github.com/awesome-spark/awesome-spark/pull/245) on [awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark)
+- [[ADD] Acceleration section](https://github.com/awesome-spark/awesome-spark/pull/244) on [awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark)
+- [[REMOVE] Apache Bahir](https://github.com/awesome-spark/awesome-spark/pull/243) on [awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [apache/celeborn](https://github.com/apache/celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data.
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark) - A curated list of awesome Apache Spark packages and resources.
-- [draincoder/asgi-monitor](https://github.com/draincoder/asgi-monitor) - A library for easy and fast configuration of logging, tracing and metrics for ASGI applications.
 
 ### 🏆 Github Profile Trophy
 
