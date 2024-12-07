@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-22054] Move migrations to separated script](https://github.com/MobileTeleSystems/syncmaster/pull/163) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-21813] Fix partitioning_mode=hash and cover with tests](https://github.com/MobileTeleSystems/onetl/pull/320) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-21732] Fix Oracle reading with partitioning_mode=hash](https://github.com/MobileTeleSystems/onetl/pull/319) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-19927] Fix logging config docstrings](https://github.com/MobileTeleSystems/syncmaster/pull/146) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[ADD] G-Research Spark Extension](https://github.com/awesome-spark/awesome-spark/pull/247) on [awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark)
-- [[ADD] sparkMeasure &amp; CERN SparkPlugins](https://github.com/awesome-spark/awesome-spark/pull/246) on [awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark)
 
 ### 💻 Stack I'm Currently Learning
 
