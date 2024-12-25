@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-23149] Replace python-jose with pyjwt](https://github.com/MobileTeleSystems/data-rentgen/pull/137) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-23122] Use async methods of Keycloak client](https://github.com/MobileTeleSystems/data-rentgen/pull/136) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-23122] Use async methods of Keycloak client](https://github.com/MobileTeleSystems/syncmaster/pull/177) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-23077] Improve documentation](https://github.com/MobileTeleSystems/syncmaster/pull/175) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-22883] Add consumer-specific settings](https://github.com/MobileTeleSystems/data-rentgen/pull/130) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-22054] Move migrations to separated script](https://github.com/MobileTeleSystems/syncmaster/pull/163) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-21813] Fix partitioning_mode=hash and cover with tests](https://github.com/MobileTeleSystems/onetl/pull/320) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
