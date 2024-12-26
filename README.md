@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-23122] Replace python-jose with pyjwt](https://github.com/MobileTeleSystems/syncmaster/pull/179) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [[DOP-23149] Update dev, test and docs dependencies](https://github.com/MobileTeleSystems/horizon/pull/96) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-23149] Replace python-jose with pyjwt](https://github.com/MobileTeleSystems/data-rentgen/pull/137) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-23122] Use async methods of Keycloak client](https://github.com/MobileTeleSystems/data-rentgen/pull/136) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-23122] Use async methods of Keycloak client](https://github.com/MobileTeleSystems/syncmaster/pull/177) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-23077] Improve documentation](https://github.com/MobileTeleSystems/syncmaster/pull/175) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-22883] Add consumer-specific settings](https://github.com/MobileTeleSystems/data-rentgen/pull/130) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
