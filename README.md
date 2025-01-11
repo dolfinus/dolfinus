@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Simplify current host IP address detection](https://github.com/itsumma/spark-greenplum-connector/pull/19) on [itsumma/spark-greenplum-connector](https://github.com/itsumma/spark-greenplum-connector)
+- [Ignore errors of GP segments hostname resolution](https://github.com/itsumma/spark-greenplum-connector/pull/18) on [itsumma/spark-greenplum-connector](https://github.com/itsumma/spark-greenplum-connector)
+- [Fix hang on master=local](https://github.com/itsumma/spark-greenplum-connector/pull/16) on [itsumma/spark-greenplum-connector](https://github.com/itsumma/spark-greenplum-connector)
 - [[DOP-23149] Replace python-jose with authlib.jose](https://github.com/MobileTeleSystems/horizon/pull/97) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [[DOP-23122] Replace python-jose with pyjwt](https://github.com/MobileTeleSystems/syncmaster/pull/179) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-23149] Update dev, test and docs dependencies](https://github.com/MobileTeleSystems/horizon/pull/96) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
-- [[DOP-23149] Replace python-jose with pyjwt](https://github.com/MobileTeleSystems/data-rentgen/pull/137) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-23122] Use async methods of Keycloak client](https://github.com/MobileTeleSystems/data-rentgen/pull/136) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
