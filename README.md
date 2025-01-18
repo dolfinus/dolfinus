@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-23318] Avoid suppressing Hive Metastore errors](https://github.com/MobileTeleSystems/onetl/pull/329) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-22144] Change logic of applying limits](https://github.com/MobileTeleSystems/onetl/pull/327) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-22144] Introduce TotalFilesSize limit](https://github.com/MobileTeleSystems/onetl/pull/326) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-22143] Introduce FileSizeRange](https://github.com/MobileTeleSystems/onetl/pull/325) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Avoid parsing DateTimeFormat on every row](https://github.com/itsumma/spark-greenplum-connector/pull/21) on [itsumma/spark-greenplum-connector](https://github.com/itsumma/spark-greenplum-connector)
-- [Simplify current host IP address detection](https://github.com/itsumma/spark-greenplum-connector/pull/19) on [itsumma/spark-greenplum-connector](https://github.com/itsumma/spark-greenplum-connector)
 
 ### 💻 Stack I'm Currently Learning
 
