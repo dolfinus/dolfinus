@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-23590] Change log level for py4j logs](https://github.com/MobileTeleSystems/syncmaster/pull/190) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-22130] Add support for FileModifiedTimeHWM](https://github.com/MobileTeleSystems/onetl/pull/331) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-22129] Allow using etl-entities 2.5.0](https://github.com/MobileTeleSystems/horizon-hwm-store/pull/40) on [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store)
 - [[DOP-22128] Implement FileModifiedTimeHWM](https://github.com/MobileTeleSystems/etl-entities/pull/109) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 - [[DOP-22127] Implement FileModifiedTime filter](https://github.com/MobileTeleSystems/onetl/pull/330) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-23318] Avoid suppressing Hive Metastore errors](https://github.com/MobileTeleSystems/onetl/pull/329) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
