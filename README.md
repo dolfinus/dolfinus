@@ -9,9 +9,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
-- [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-23742] Fix using conn.setReadOnly(...) for Postgres, Greenplum, MySQL, MSSQL](https://github.com/MobileTeleSystems/onetl/pull/336) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-23743] All hardcoded passwords in this repo are used ONLY for tests](https://github.com/MobileTeleSystems/syncmaster/pull/197) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [[DOP-23743] All hardcoded passwords in this repo are used ONLY for tests](https://github.com/MobileTeleSystems/onetl/pull/335) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-22427] Do not keep open JDBC connection on Spark driver](https://github.com/MobileTeleSystems/onetl/pull/334) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-22366] Basic column lineage handling in consumer](https://github.com/MobileTeleSystems/data-rentgen/pull/155) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-22364] Add column lineage tables](https://github.com/MobileTeleSystems/data-rentgen/pull/153) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-22401] Small fixes and optimizations](https://github.com/MobileTeleSystems/data-rentgen/pull/150) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-23590] Change log level for py4j logs](https://github.com/MobileTeleSystems/syncmaster/pull/190) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-22130] Add support for FileModifiedTimeHWM](https://github.com/MobileTeleSystems/onetl/pull/331) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
