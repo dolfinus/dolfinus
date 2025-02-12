@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-22411] Prefer output schema of dataset](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/19) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[DOP-22411] Upgrade dependencies to latest versions](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/18) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-23742] Fix using conn.setReadOnly(...) for MySQL, MSSQL](https://github.com/MobileTeleSystems/onetl/pull/337) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-23742] Fix writing to Postgres and Greenplum behind PGBouncer](https://github.com/MobileTeleSystems/onetl/pull/336) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-23743] All hardcoded passwords in this repo are used ONLY for tests](https://github.com/MobileTeleSystems/syncmaster/pull/197) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-23743] All hardcoded passwords in this repo are used ONLY for tests](https://github.com/MobileTeleSystems/onetl/pull/335) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-22427] Do not keep open JDBC connection on Spark driver](https://github.com/MobileTeleSystems/onetl/pull/334) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
