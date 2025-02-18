@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-22428] Set client info for most JDBC connections](https://github.com/MobileTeleSystems/onetl/pull/339) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-22580] Show run &amp; operation statistics](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/22) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-23867] Adjust components to handle new lineage response schemas](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/21) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-22580] Adjust components to handle new detailed response schemas](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/20) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-23867] Change API schema for lineage endpoints](https://github.com/MobileTeleSystems/data-rentgen/pull/164) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-23867] Implement model -&gt; json converter for tests](https://github.com/MobileTeleSystems/data-rentgen/pull/163) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-22578] Change response schema of GET /jobs](https://github.com/MobileTeleSystems/data-rentgen/pull/162) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
