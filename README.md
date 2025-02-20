@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-22425] Run DB.check() on both driver and executor](https://github.com/MobileTeleSystems/onetl/pull/346) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-23983] Update JDBC drivers to latest versions](https://github.com/MobileTeleSystems/onetl/pull/345) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-23982] Use tabs for complex code examples](https://github.com/MobileTeleSystems/onetl/pull/344) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-23979] Change default FileDFWriter.Options(if_exists) to APPEND](https://github.com/MobileTeleSystems/onetl/pull/343) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-23969] Fix Greenplum parallel connections warning for master=local[N]](https://github.com/MobileTeleSystems/onetl/pull/342) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-23968] Add .get_exlude_packages() to SparkS3 and Kafka](https://github.com/MobileTeleSystems/onetl/pull/341) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
