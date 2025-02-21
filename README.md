@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Run initdb.d scripts during database startup](https://github.com/andruche/docker-greenplum/pull/5) on [andruche/docker-greenplum](https://github.com/andruche/docker-greenplum)
+- [Do not use trust for external connections](https://github.com/andruche/docker-greenplum/pull/4) on [andruche/docker-greenplum](https://github.com/andruche/docker-greenplum)
+- [[DOP-22425] Do not run tests as admin DB users](https://github.com/MobileTeleSystems/onetl/pull/347) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-22425] Run DB.check() on both driver and executor](https://github.com/MobileTeleSystems/onetl/pull/346) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-23983] Update JDBC drivers to latest versions](https://github.com/MobileTeleSystems/onetl/pull/345) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-23982] Use tabs for complex code examples](https://github.com/MobileTeleSystems/onetl/pull/344) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-23979] Change default FileDFWriter.Options(if_exists) to APPEND](https://github.com/MobileTeleSystems/onetl/pull/343) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-23969] Fix Greenplum parallel connections warning for master=local[N]](https://github.com/MobileTeleSystems/onetl/pull/342) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
