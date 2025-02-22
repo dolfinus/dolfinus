@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-22428] Send client_info for MongoDB](https://github.com/MobileTeleSystems/onetl/pull/348) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [Reduce images size](https://github.com/MobileTeleSystems/syncmaster/pull/205) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Run initdb.d scripts during database startup](https://github.com/andruche/docker-greenplum/pull/5) on [andruche/docker-greenplum](https://github.com/andruche/docker-greenplum)
 - [Do not use trust for external connections](https://github.com/andruche/docker-greenplum/pull/4) on [andruche/docker-greenplum](https://github.com/andruche/docker-greenplum)
 - [[DOP-22425] Do not run tests as admin DB users](https://github.com/MobileTeleSystems/onetl/pull/347) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-22425] Run DB.check() on both driver and executor](https://github.com/MobileTeleSystems/onetl/pull/346) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-23983] Update JDBC drivers to latest versions](https://github.com/MobileTeleSystems/onetl/pull/345) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
