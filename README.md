@@ -7,10 +7,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-23920] Add column lineage edges](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/24) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[DOP-22412] Improve Dataset node UX](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/23) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[DOP-22424] Use SparkS3.get_exclude_packages](https://github.com/MobileTeleSystems/syncmaster/pull/208) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [[DOP-22424] Use onETL 0.13.0](https://github.com/MobileTeleSystems/syncmaster/pull/207) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-22428] Send client_info for MongoDB](https://github.com/MobileTeleSystems/onetl/pull/348) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Reduce images size](https://github.com/MobileTeleSystems/syncmaster/pull/205) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [Run initdb.d scripts during database startup](https://github.com/andruche/docker-greenplum/pull/5) on [andruche/docker-greenplum](https://github.com/andruche/docker-greenplum)
-- [Do not use trust for external connections](https://github.com/andruche/docker-greenplum/pull/4) on [andruche/docker-greenplum](https://github.com/andruche/docker-greenplum)
-- [[DOP-22425] Do not run tests as admin DB users](https://github.com/MobileTeleSystems/onetl/pull/347) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
