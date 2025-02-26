@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-23921] Improve Job, Run &amp; Operation lineage UX](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/25) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[DOP-23921] Include sum inputs &amp; outputs to lineage response](https://github.com/MobileTeleSystems/data-rentgen/pull/171) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-23920] Add column lineage edges](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/24) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-22412] Improve Dataset node UX](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/23) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-22424] Use SparkS3.get_exclude_packages](https://github.com/MobileTeleSystems/syncmaster/pull/208) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-22424] Use onETL 0.13.0](https://github.com/MobileTeleSystems/syncmaster/pull/207) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-22428] Send client_info for MongoDB](https://github.com/MobileTeleSystems/onetl/pull/348) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [GreengageDB/greengage](https://github.com/GreengageDB/greengage) - 
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [lakehq/sail](https://github.com/lakehq/sail) - LakeSail&#39;s computation framework with a mission to unify batch processing, stream processing, and compute-intensive (AI) workloads.
 - [apache/celeborn](https://github.com/apache/celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data.
-- [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
 
 ### 🏆 Github Profile Trophy
 
