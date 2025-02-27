@@ -7,10 +7,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-23920] Highlight related nodes on double click](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/26) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-23921] Improve Job, Run &amp; Operation lineage UX](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/25) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-23921] Include sum inputs &amp; outputs to lineage response](https://github.com/MobileTeleSystems/data-rentgen/pull/171) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-23920] Add column lineage edges](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/24) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-22412] Improve Dataset node UX](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/23) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[DOP-22424] Use SparkS3.get_exclude_packages](https://github.com/MobileTeleSystems/syncmaster/pull/208) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 
 ### 💻 Stack I'm Currently Learning
 
