@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [hamdanal/rich-argparse](https://github.com/hamdanal/rich-argparse) - A rich help formatter for argparse
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [GreengageDB/greengage](https://github.com/GreengageDB/greengage) - 
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [lakehq/sail](https://github.com/lakehq/sail) - LakeSail&#39;s computation framework with a mission to unify batch processing, stream processing, and compute-intensive (AI) workloads.
-- [apache/celeborn](https://github.com/apache/celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data.
 
 ### 🏆 Github Profile Trophy
 
