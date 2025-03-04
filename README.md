@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataLineage service
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-23923] Add &#39;Column lineage&#39; checkbox to LineageFilters](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/29) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[DOP-23921] Use node width and height for calculating layout](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/28) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-22671] Store lineage filters in URL query params](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/27) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-23920] Highlight related nodes on double click](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/26) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-23921] Improve Job, Run &amp; Operation lineage UX](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/25) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[DOP-23921] Include sum inputs &amp; outputs to lineage response](https://github.com/MobileTeleSystems/data-rentgen/pull/171) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-23920] Add column lineage edges](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/24) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 
 ### 💻 Stack I'm Currently Learning
 
