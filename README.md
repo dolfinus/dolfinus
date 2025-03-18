@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[DOP-22431] Improve Excel documentation](https://github.com/MobileTeleSystems/onetl/pull/356) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-22430] Improve XML documentation](https://github.com/MobileTeleSystems/onetl/pull/355) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-22429] Prefer if_exists=... over mode=...](https://github.com/MobileTeleSystems/onetl/pull/354) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-22429] Prefer ipc_port and webhdfs_port instead alias](https://github.com/MobileTeleSystems/onetl/pull/353) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[DOP-22429] Prefer camelCase for Spark JDBC params](https://github.com/MobileTeleSystems/onetl/pull/352) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-22434] Improve ORC documentation](https://github.com/MobileTeleSystems/onetl/pull/362) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-22434] Improve Parquet documentation](https://github.com/MobileTeleSystems/onetl/pull/361) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-22434] Improve Avro documentation](https://github.com/MobileTeleSystems/onetl/pull/360) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-22433] Improve JSON/JSONLine documentation](https://github.com/MobileTeleSystems/onetl/pull/359) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [[DOP-22432] Improve CSV documentation](https://github.com/MobileTeleSystems/onetl/pull/358) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
