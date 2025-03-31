@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [gh-92810: Avoid O(n^2) complexity in ABCMeta.__subclasscheck__](https://github.com/python/cpython/pull/131914) on [python/cpython](https://github.com/python/cpython)
 - [[DOP-25148] Add Russian translation](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/37) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[CI] Fix run-pmd.sh on non-CI environment](https://github.com/OpenLineage/OpenLineage/pull/3588) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Java] Fix Oracle thin JDBC URL normalization](https://github.com/OpenLineage/OpenLineage/pull/3586) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-23165] Change /auth/callback response to 204](https://github.com/MobileTeleSystems/data-rentgen/pull/198) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-24570] Add tests for lineage excluding symlinks with no IO](https://github.com/MobileTeleSystems/data-rentgen/pull/193) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
