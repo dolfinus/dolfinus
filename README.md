@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[Java] Use parent.root facet as a primary source for Kafka messageKey](https://github.com/OpenLineage/OpenLineage/pull/3622) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Flink2] Fix getting job namespace from config](https://github.com/OpenLineage/OpenLineage/pull/3621) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Update dependencies](https://github.com/MobileTeleSystems/syncmaster-ui/pull/82) on [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui)
 - [gh-92810: Avoid O(n^2) complexity in ABCMeta.__subclasscheck__](https://github.com/python/cpython/pull/131914) on [python/cpython](https://github.com/python/cpython)
 - [[DOP-25148] Add Russian translation](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/37) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[CI] Fix run-pmd.sh on non-CI environment](https://github.com/OpenLineage/OpenLineage/pull/3588) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Java] Fix Oracle thin JDBC URL normalization](https://github.com/OpenLineage/OpenLineage/pull/3586) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
