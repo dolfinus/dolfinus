@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[Python] Use parent.root facet as a primary source for Kafka messageKey](https://github.com/OpenLineage/OpenLineage/pull/3624) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Java] Use parent.root facet as a primary source for Kafka messageKey](https://github.com/OpenLineage/OpenLineage/pull/3622) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Flink2] Fix getting job namespace from config](https://github.com/OpenLineage/OpenLineage/pull/3621) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Update dependencies](https://github.com/MobileTeleSystems/syncmaster-ui/pull/82) on [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui)
 - [gh-92810: Avoid O(n^2) complexity in ABCMeta.__subclasscheck__](https://github.com/python/cpython/pull/131914) on [python/cpython](https://github.com/python/cpython)
-- [[DOP-25148] Add Russian translation](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/37) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 
 ### 💻 Stack I'm Currently Learning
 
