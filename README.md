@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-25452] Allow creating HDFS and Hive connections without credentials](https://github.com/MobileTeleSystems/syncmaster/pull/224) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [Fix incorrect config properties in OpenLineage docs](https://github.com/trinodb/trino/pull/25548) on [trinodb/trino](https://github.com/trinodb/trino)
 - [[Python] Use parent.root facet as a primary source for Kafka messageKey](https://github.com/OpenLineage/OpenLineage/pull/3624) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Java] Use parent.root facet as a primary source for Kafka messageKey](https://github.com/OpenLineage/OpenLineage/pull/3622) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Flink2] Fix getting job namespace from config](https://github.com/OpenLineage/OpenLineage/pull/3621) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Update dependencies](https://github.com/MobileTeleSystems/syncmaster-ui/pull/82) on [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui)
-- [gh-92810: Avoid O(n^2) complexity in ABCMeta.__subclasscheck__](https://github.com/python/cpython/pull/131914) on [python/cpython](https://github.com/python/cpython)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [Lancetnik/Propan](https://github.com/Lancetnik/Propan) - Propan is a powerful and easy-to-use Python framework for building event-driven applications that interact with any MQ Broker
 - [hamdanal/rich-argparse](https://github.com/hamdanal/rich-argparse) - A rich help formatter for argparse
-- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 
 ### 🏆 Github Profile Trophy
 
