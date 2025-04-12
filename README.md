@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
+- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-25451] Fix Hive/HDFS connectors ignoring user &amp; password](https://github.com/MobileTeleSystems/syncmaster/pull/225) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-25452] Allow creating HDFS and Hive connections without credentials](https://github.com/MobileTeleSystems/syncmaster/pull/224) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Fix incorrect config properties in OpenLineage docs](https://github.com/trinodb/trino/pull/25548) on [trinodb/trino](https://github.com/trinodb/trino)
 - [[Python] Use parent.root facet as a primary source for Kafka messageKey](https://github.com/OpenLineage/OpenLineage/pull/3624) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Java] Use parent.root facet as a primary source for Kafka messageKey](https://github.com/OpenLineage/OpenLineage/pull/3622) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Flink2] Fix getting job namespace from config](https://github.com/OpenLineage/OpenLineage/pull/3621) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
