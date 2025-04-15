@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[Java] Generate Kinesis.partitionKey using Run parent facet](https://github.com/OpenLineage/OpenLineage/pull/3637) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-25451] Fix Hive/HDFS connectors ignoring user &amp; password](https://github.com/MobileTeleSystems/syncmaster/pull/225) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-25452] Allow creating HDFS and Hive connections without credentials](https://github.com/MobileTeleSystems/syncmaster/pull/224) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Fix incorrect config properties in OpenLineage docs](https://github.com/trinodb/trino/pull/25548) on [trinodb/trino](https://github.com/trinodb/trino)
 - [[Python] Use parent.root facet as a primary source for Kafka messageKey](https://github.com/OpenLineage/OpenLineage/pull/3624) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Java] Use parent.root facet as a primary source for Kafka messageKey](https://github.com/OpenLineage/OpenLineage/pull/3622) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
