@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-25498] Make operation extraction more generic](https://github.com/MobileTeleSystems/data-rentgen/pull/205) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-25464] Make consumer message parsing more robust](https://github.com/MobileTeleSystems/data-rentgen/pull/204) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOC] Fix outdated ColumnLineageFacet documentation](https://github.com/OpenLineage/OpenLineage/pull/3656) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Add README for Flink2 example app](https://github.com/OpenLineage/OpenLineage/pull/3654) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Fix Flink1 example app](https://github.com/OpenLineage/OpenLineage/pull/3653) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Java] Generate Kinesis.partitionKey using Run parent facet](https://github.com/OpenLineage/OpenLineage/pull/3637) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
