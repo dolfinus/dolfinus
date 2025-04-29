@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-25498] Allow to parse unknown RunEvent as Run&#43;Operation](https://github.com/MobileTeleSystems/data-rentgen/pull/206) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [Java: Add UUIDUtils.generateStaticUUID method](https://github.com/OpenLineage/OpenLineage/pull/3672) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Use UUIDv7 for OpenLineage runId](https://github.com/trinodb/trino/pull/25683) on [trinodb/trino](https://github.com/trinodb/trino)
 - [Fix missing VK description &amp; i18n key](https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo/pull/119) on [StarCitizenWiki/mediawiki-extensions-EmbedVideo](https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo)
-- [[DOP-25498] Make operation extraction more generic](https://github.com/MobileTeleSystems/data-rentgen/pull/205) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-25464] Make consumer message parsing more robust](https://github.com/MobileTeleSystems/data-rentgen/pull/204) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOC] Fix outdated ColumnLineageFacet documentation](https://github.com/OpenLineage/OpenLineage/pull/3656) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Add README for Flink2 example app](https://github.com/OpenLineage/OpenLineage/pull/3654) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[DOP-25498] Do not restrict values of Job.type](https://github.com/MobileTeleSystems/data-rentgen/pull/205) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
