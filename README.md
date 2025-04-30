@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Allow OpenLineage job name customization](https://github.com/trinodb/trino/pull/25704) on [trinodb/trino](https://github.com/trinodb/trino)
 - [[DOP-25498] Allow to parse unknown RunEvent as Run&#43;Operation](https://github.com/MobileTeleSystems/data-rentgen/pull/206) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [Java: Add UUIDUtils.generateStaticUUID method](https://github.com/OpenLineage/OpenLineage/pull/3672) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Use UUIDv7 for OpenLineage runId](https://github.com/trinodb/trino/pull/25683) on [trinodb/trino](https://github.com/trinodb/trino)
 - [Fix missing VK description &amp; i18n key](https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo/pull/119) on [StarCitizenWiki/mediawiki-extensions-EmbedVideo](https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo)
-- [[DOP-25498] Do not restrict values of Job.type](https://github.com/MobileTeleSystems/data-rentgen/pull/205) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
