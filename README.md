@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
-- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [Don&#39;t swallow all Exceptions in getIcebergTable method](https://github.com/OpenLineage/OpenLineage/pull/3688) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[DOP-25619] Handle Flink job events](https://github.com/MobileTeleSystems/data-rentgen/pull/214) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [Spark: Don&#39;t swallow all Exceptions in getIcebergTable method](https://github.com/OpenLineage/OpenLineage/pull/3688) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-25649] Create operations for Airflow tasks](https://github.com/MobileTeleSystems/data-rentgen/pull/210) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [Allow OpenLineage job name customization](https://github.com/trinodb/trino/pull/25704) on [trinodb/trino](https://github.com/trinodb/trino)
 - [[DOP-25498] Allow to parse unknown RunEvent as Run&#43;Operation](https://github.com/MobileTeleSystems/data-rentgen/pull/206) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [Java: Add UUIDUtils.generateStaticUUID method](https://github.com/OpenLineage/OpenLineage/pull/3672) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
