@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Java: Make UUIDUtils.generateStaticUUID random part more variative](https://github.com/OpenLineage/OpenLineage/pull/3709) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [DBT: Do not include database `None` to dataset name](https://github.com/OpenLineage/OpenLineage/pull/3707) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Enhancement] Use UUIDv7 for QueryId](https://github.com/StarRocks/starrocks/pull/59107) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
+- [[Refactor] Use UUIDUtil to generate queryId/loadId/executionId](https://github.com/StarRocks/starrocks/pull/59098) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 - [DBT: Use original event timestamp to generate runId](https://github.com/OpenLineage/OpenLineage/pull/3701) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [DBT: Remote empty facets](https://github.com/OpenLineage/OpenLineage/pull/3700) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[DOP-25649] Test Airflow events with lineage data](https://github.com/MobileTeleSystems/data-rentgen/pull/217) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [DBT: Generate new runId for each start event](https://github.com/OpenLineage/OpenLineage/pull/3696) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[DOP-25619] Handle Flink job events](https://github.com/MobileTeleSystems/data-rentgen/pull/214) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
