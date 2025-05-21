@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [DBT: Move facets from processor module](https://github.com/OpenLineage/OpenLineage/pull/3713) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [DBT: Use original event timestamps to dbt test instead of current datetime](https://github.com/OpenLineage/OpenLineage/pull/3712) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Java: Make UUIDUtils.generateStaticUUID random part more variative](https://github.com/OpenLineage/OpenLineage/pull/3709) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [DBT: Do not include database `None` to dataset name](https://github.com/OpenLineage/OpenLineage/pull/3707) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Enhancement] Use UUIDv7 for QueryId](https://github.com/StarRocks/starrocks/pull/59107) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-- [[Refactor] Use UUIDUtil to generate queryId/loadId/executionId](https://github.com/StarRocks/starrocks/pull/59098) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-- [DBT: Use original event timestamp to generate runId](https://github.com/OpenLineage/OpenLineage/pull/3701) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
