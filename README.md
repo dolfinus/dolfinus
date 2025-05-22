@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[Enhancement] Update Boost to 1.86.0](https://github.com/StarRocks/starrocks/pull/59218) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
+- [[Enhancement] Update java-uuid-generator to 5.1.0](https://github.com/StarRocks/starrocks/pull/59217) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
+- [Fix ASGIMultiprocess args mismatch](https://github.com/ag2ai/faststream/pull/2228) on [ag2ai/faststream](https://github.com/ag2ai/faststream)
+- [[DOP-25532] Make artificial column lineage for SYMLINK relations](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/52) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [DBT: Move facets from processor module](https://github.com/OpenLineage/OpenLineage/pull/3713) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [DBT: Use original event timestamps to dbt test instead of current datetime](https://github.com/OpenLineage/OpenLineage/pull/3712) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Java: Make UUIDUtils.generateStaticUUID random part more variative](https://github.com/OpenLineage/OpenLineage/pull/3709) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [DBT: Do not include database `None` to dataset name](https://github.com/OpenLineage/OpenLineage/pull/3707) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Enhancement] Use UUIDv7 for QueryId](https://github.com/StarRocks/starrocks/pull/59107) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 
 ### 💻 Stack I'm Currently Learning
 
