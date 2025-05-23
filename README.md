@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
-- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[UT] Add tests for C&#43;&#43; ThreadLocalUUIDGenerator](https://github.com/StarRocks/starrocks/pull/59267) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
+- [[DOP-25788] Make output.type a list](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/53) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[DOP-26027] Add support for DBT events](https://github.com/MobileTeleSystems/data-rentgen/pull/223) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[UT] Add tests for Java UUIDUtilTest](https://github.com/StarRocks/starrocks/pull/59262) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 - [[Enhancement] Update Boost to 1.86.0](https://github.com/StarRocks/starrocks/pull/59218) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-- [[Enhancement] Update java-uuid-generator to 5.1.0](https://github.com/StarRocks/starrocks/pull/59217) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-- [Fix ASGIMultiprocess args mismatch](https://github.com/ag2ai/faststream/pull/2228) on [ag2ai/faststream](https://github.com/ag2ai/faststream)
-- [[DOP-25532] Make artificial column lineage for SYMLINK relations](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/52) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [DBT: Move facets from processor module](https://github.com/OpenLineage/OpenLineage/pull/3713) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
