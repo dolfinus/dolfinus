@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[DOP-25365] Improve documentation of Entities](https://github.com/MobileTeleSystems/data-rentgen/pull/232) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-25365] Add screenshots to README](https://github.com/MobileTeleSystems/data-rentgen/pull/231) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-26028] Document Flink integration](https://github.com/MobileTeleSystems/data-rentgen/pull/228) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-25365] Fix Airflow 3.x DAG and Task url template](https://github.com/MobileTeleSystems/data-rentgen/pull/227) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-25365] Improve Airflow documentation](https://github.com/MobileTeleSystems/data-rentgen/pull/226) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [Fix OpenLineage DAG &amp; Task facets field types](https://github.com/apache/airflow/pull/51165) on [apache/airflow](https://github.com/apache/airflow)
+- [Fix serializing task.weight_rule in OpenLineage facet](https://github.com/apache/airflow/pull/51164) on [apache/airflow](https://github.com/apache/airflow)
+- [[DBT] Add processing_engine facet](https://github.com/OpenLineage/OpenLineage/pull/3725) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Flink] Do not hide OpenLineage config parsing errors](https://github.com/OpenLineage/OpenLineage/pull/3724) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Flink2] Update example app dependencies](https://github.com/OpenLineage/OpenLineage/pull/3723) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
