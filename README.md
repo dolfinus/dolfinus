@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[Flink] Add processing_engine facet](https://github.com/OpenLineage/OpenLineage/pull/3726) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Fix OpenLineage DAG &amp; Task facets field types](https://github.com/apache/airflow/pull/51165) on [apache/airflow](https://github.com/apache/airflow)
 - [Fix serializing task.weight_rule in OpenLineage facet](https://github.com/apache/airflow/pull/51164) on [apache/airflow](https://github.com/apache/airflow)
 - [[DBT] Add processing_engine facet](https://github.com/OpenLineage/OpenLineage/pull/3725) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Flink] Do not hide OpenLineage config parsing errors](https://github.com/OpenLineage/OpenLineage/pull/3724) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Flink2] Update example app dependencies](https://github.com/OpenLineage/OpenLineage/pull/3723) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [felix-hilden/sphinx-codeautolink](https://github.com/felix-hilden/sphinx-codeautolink) - Automatic links from code examples to reference documentation
 - [vanadium23/kompanion](https://github.com/vanadium23/kompanion) - a self hosted backend for bookworms, tightly coupled with KOReader
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3&#43; for Photoshop Users
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 
 ### 🏆 Github Profile Trophy
 
