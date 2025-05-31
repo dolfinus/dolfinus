@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DBT] Use adapter rows_affected as outputStatistics](https://github.com/OpenLineage/OpenLineage/pull/3731) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Add Github stars statistics to Readme](https://github.com/OpenLineage/OpenLineage/pull/3730) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[DBT] Document supported adapters](https://github.com/OpenLineage/OpenLineage/pull/3729) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Flink] Add processing_engine facet](https://github.com/OpenLineage/OpenLineage/pull/3726) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Fix OpenLineage DAG &amp; Task facets field types](https://github.com/apache/airflow/pull/51165) on [apache/airflow](https://github.com/apache/airflow)
-- [Fix serializing task.weight_rule in OpenLineage facet](https://github.com/apache/airflow/pull/51164) on [apache/airflow](https://github.com/apache/airflow)
-- [[DBT] Add processing_engine facet](https://github.com/OpenLineage/OpenLineage/pull/3725) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Flink] Do not hide OpenLineage config parsing errors](https://github.com/OpenLineage/OpenLineage/pull/3724) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
