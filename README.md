@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[Enhancement] Add StatementId to audit log](https://github.com/StarRocks/starrocks/pull/59563) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
+- [[Doc] Fix stale Slack URL](https://github.com/StarRocks/starrocks/pull/59605) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
+- [[Docs] Add documentation for some facets](https://github.com/OpenLineage/OpenLineage/pull/3752) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[DOP-25350] Add granularity=DATASET](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/57) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[Enhancement] Add sessionId to audit log](https://github.com/StarRocks/starrocks/pull/59563) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 - [Run prettier on .json files](https://github.com/OpenLineage/OpenLineage/pull/3750) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[SPEC] Add contentType to documentation facet](https://github.com/OpenLineage/OpenLineage/pull/3748) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[SPEC] Add DatabaseHierarchy dataset facet](https://github.com/OpenLineage/OpenLineage/pull/3747) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Flink] Add facet with Flink jobId](https://github.com/OpenLineage/OpenLineage/pull/3744) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
