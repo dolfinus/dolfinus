@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[Java] Speedup generateNewUUID up to 50x](https://github.com/OpenLineage/OpenLineage/pull/3754) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Doc] Fix stale Slack URL](https://github.com/StarRocks/starrocks/pull/59605) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 - [[Docs] Add documentation for some facets](https://github.com/OpenLineage/OpenLineage/pull/3752) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-25350] Add granularity=DATASET](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/57) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[Enhancement] Add sessionId to audit log](https://github.com/StarRocks/starrocks/pull/59563) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-- [Run prettier on .json files](https://github.com/OpenLineage/OpenLineage/pull/3750) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
