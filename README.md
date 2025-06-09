@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+- [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 
 ### 💼 Stack I'm Working With
 
