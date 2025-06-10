@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
 - [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
-- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-26430] Speed up consuming Kafka messages](https://github.com/MobileTeleSystems/data-rentgen/pull/236) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[Enhancement] Add customQueryId to audit log](https://github.com/StarRocks/starrocks/pull/59755) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
+- [[Feature] Introduce customSessionName](https://github.com/StarRocks/starrocks/pull/59754) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 - [[Java] Speedup generateNewUUID](https://github.com/OpenLineage/OpenLineage/pull/3754) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Doc] Fix stale Slack URL](https://github.com/StarRocks/starrocks/pull/59605) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-- [[Docs] Add documentation for some facets](https://github.com/OpenLineage/OpenLineage/pull/3752) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[DOP-25350] Add granularity=DATASET](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/57) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[Enhancement] Add sessionId to audit log](https://github.com/StarRocks/starrocks/pull/59563) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 
 ### 💻 Stack I'm Currently Learning
 
