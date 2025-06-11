@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
-- [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[Doc] Update AuditLoader table structure](https://github.com/StarRocks/starrocks/pull/59790) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 - [[DOP-26430] Speed up consuming Kafka messages](https://github.com/MobileTeleSystems/data-rentgen/pull/236) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[Enhancement] Add customQueryId to audit log](https://github.com/StarRocks/starrocks/pull/59755) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 - [[Feature] Introduce customSessionName](https://github.com/StarRocks/starrocks/pull/59754) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 - [[Java] Speedup generateNewUUID](https://github.com/OpenLineage/OpenLineage/pull/3754) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Doc] Fix stale Slack URL](https://github.com/StarRocks/starrocks/pull/59605) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 
 ### 💻 Stack I'm Currently Learning
 
