@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-26449] Capture Flink&#39;s jobId and log urls](https://github.com/MobileTeleSystems/data-rentgen/pull/241) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DBT] Add DbtRun facet to root dbt run events](https://github.com/OpenLineage/OpenLineage/pull/3764) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[DOP-26449] Capture dbt&#39;s invocation_id](https://github.com/MobileTeleSystems/data-rentgen/pull/240) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[Doc] Update AuditLoader table structure](https://github.com/StarRocks/starrocks/pull/59790) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 - [[DOP-26430] Speed up consuming Kafka messages](https://github.com/MobileTeleSystems/data-rentgen/pull/236) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[Enhancement] Add customQueryId to audit log](https://github.com/StarRocks/starrocks/pull/59755) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-- [[Feature] Introduce customSessionName](https://github.com/StarRocks/starrocks/pull/59754) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-- [[Java] Speedup generateNewUUID](https://github.com/OpenLineage/OpenLineage/pull/3754) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
