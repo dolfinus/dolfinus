@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[feat](query) Add session_id to audit log](https://github.com/apache/doris-website/pull/2483) on [apache/doris-website](https://github.com/apache/doris-website)
+- [[feat](query) Add session_id to audit log](https://github.com/apache/doris/pull/51724) on [apache/doris](https://github.com/apache/doris)
+- [[refactor](query) Use UUIDUtil to generate queryId/loadId/taskId](https://github.com/apache/doris/pull/51719) on [apache/doris](https://github.com/apache/doris)
 - [[DOP-26449] Capture Flink&#39;s jobId and log urls](https://github.com/MobileTeleSystems/data-rentgen/pull/241) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DBT] Add DbtRun facet to root dbt run events](https://github.com/OpenLineage/OpenLineage/pull/3764) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[DOP-26449] Capture dbt&#39;s invocation_id](https://github.com/MobileTeleSystems/data-rentgen/pull/240) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[Doc] Update AuditLoader table structure](https://github.com/StarRocks/starrocks/pull/59790) on [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-- [[DOP-26430] Speed up consuming Kafka messages](https://github.com/MobileTeleSystems/data-rentgen/pull/236) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
