@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[Hive] Add hive_query and hive_session facets](https://github.com/OpenLineage/OpenLineage/pull/3781) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Github: mark Hive PRs with proper label](https://github.com/OpenLineage/OpenLineage/pull/3778) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Hive] Add job sql facet](https://github.com/OpenLineage/OpenLineage/pull/3777) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [DBZ-9146 Remove nominalTime facet from OpenLineage events](https://github.com/debezium/debezium/pull/6507) on [debezium/debezium](https://github.com/debezium/debezium)
 - [[Spark] Fix missing table path in InsertIntoHadoopFsRelationCommand](https://github.com/OpenLineage/OpenLineage/pull/3773) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[feat](query) Add session_id to audit log](https://github.com/apache/doris-website/pull/2483) on [apache/doris-website](https://github.com/apache/doris-website)
-- [[feat](query) Add session_id to audit log](https://github.com/apache/doris/pull/51724) on [apache/doris](https://github.com/apache/doris)
-- [[refactor](query) Use UUIDUtil to generate queryId/loadId/taskId](https://github.com/apache/doris/pull/51719) on [apache/doris](https://github.com/apache/doris)
 
 ### 💻 Stack I'm Currently Learning
 
