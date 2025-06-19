@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[Hive] Add hive_query and hive_session facets](https://github.com/OpenLineage/OpenLineage/pull/3781) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [chore: Fix changelog item authors](https://github.com/OpenLineage/OpenLineage/pull/3791) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Hive] Add jobType facet](https://github.com/OpenLineage/OpenLineage/pull/3789) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Hive] Add hive_session facet](https://github.com/OpenLineage/OpenLineage/pull/3786) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Hive] Add hive_query facet](https://github.com/OpenLineage/OpenLineage/pull/3781) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Github: mark Hive PRs with proper label](https://github.com/OpenLineage/OpenLineage/pull/3778) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Hive] Add job sql facet](https://github.com/OpenLineage/OpenLineage/pull/3777) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [DBZ-9146 Remove nominalTime facet from OpenLineage events](https://github.com/debezium/debezium/pull/6507) on [debezium/debezium](https://github.com/debezium/debezium)
-- [[Spark] Fix missing table path in InsertIntoHadoopFsRelationCommand](https://github.com/OpenLineage/OpenLineage/pull/3773) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
