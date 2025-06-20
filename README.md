@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-26447] Refactor extractors](https://github.com/MobileTeleSystems/data-rentgen/pull/244) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DBT] Make invocation_id facet optional](https://github.com/OpenLineage/OpenLineage/pull/3796) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [chore: Fix Hive hook codestyle error](https://github.com/OpenLineage/OpenLineage/pull/3795) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [chore: Fix changelog item authors](https://github.com/OpenLineage/OpenLineage/pull/3791) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Hive] Add jobType facet](https://github.com/OpenLineage/OpenLineage/pull/3789) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Hive] Add hive_session facet](https://github.com/OpenLineage/OpenLineage/pull/3786) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Hive] Add hive_query facet](https://github.com/OpenLineage/OpenLineage/pull/3781) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Github: mark Hive PRs with proper label](https://github.com/OpenLineage/OpenLineage/pull/3778) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
