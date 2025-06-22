@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Speed up fetching run &amp; operation by id](https://github.com/MobileTeleSystems/data-rentgen/pull/247) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[Hive] Add docker-compose example for local testing](https://github.com/OpenLineage/OpenLineage/pull/3800) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-26447] Add Hive support](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/61) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-26447] Drop useless tests](https://github.com/MobileTeleSystems/data-rentgen/pull/246) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-26447] Add Hive support](https://github.com/MobileTeleSystems/data-rentgen/pull/245) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-26447] Refactor extractors](https://github.com/MobileTeleSystems/data-rentgen/pull/244) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
