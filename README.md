@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-26646] Properly track STREAMING operations progress](https://github.com/MobileTeleSystems/data-rentgen/pull/253) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-26646] Move id generation to DTO classes](https://github.com/MobileTeleSystems/data-rentgen/pull/252) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [Add user info and query_id fields to OpenLineage facets](https://github.com/trinodb/trino/pull/26075) on [trinodb/trino](https://github.com/trinodb/trino)
 - [[DOP-26696] Group symlinked datasets into one node](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/64) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-26345] Dataset schema is resolved on API](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/63) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [Speed up dataset lineage](https://github.com/MobileTeleSystems/data-rentgen/pull/248) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [Speed up fetching run &amp; operation by id](https://github.com/MobileTeleSystems/data-rentgen/pull/247) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[Hive] Add docker-compose example for local testing](https://github.com/OpenLineage/OpenLineage/pull/3800) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
