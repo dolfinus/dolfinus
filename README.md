@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[Python] Reuse requests.Session() in sync HttpTransport](https://github.com/OpenLineage/OpenLineage/pull/3843) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Java] Make CompositeTransport.close() more reliable](https://github.com/OpenLineage/OpenLineage/pull/3841) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Java] Cover OpenLineageClient.close() with tests](https://github.com/OpenLineage/OpenLineage/pull/3839) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Python] Implement KafkaTransport.wait_for_completion() and .close()](https://github.com/OpenLineage/OpenLineage/pull/3838) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[DOP-25363] Add db seed script](https://github.com/MobileTeleSystems/data-rentgen/pull/257) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[Spark] Use Hive as default Iceberg catalog implementation](https://github.com/OpenLineage/OpenLineage/pull/3858) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Python][Java] Implement Transport.close() for Datazone and Kinesis](https://github.com/OpenLineage/OpenLineage/pull/3857) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Python] Implement `TransformTransport.close`](https://github.com/OpenLineage/OpenLineage/pull/3855) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Flink 1.x] Close OpenLineageClient in onJobExecuted](https://github.com/OpenLineage/OpenLineage/pull/3854) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[Spark] Close OpenLineageClient in onApplicationEnd](https://github.com/OpenLineage/OpenLineage/pull/3851) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
