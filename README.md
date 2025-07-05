@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[Hive] Add dialect=&#34;hive&#34; to SqlJobFacet](https://github.com/OpenLineage/OpenLineage/pull/3863) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Spark] Use Hive as default Iceberg catalog implementation](https://github.com/OpenLineage/OpenLineage/pull/3858) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Python][Java] Implement Transport.close() for Datazone and Kinesis](https://github.com/OpenLineage/OpenLineage/pull/3857) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Python] Implement `TransformTransport.close`](https://github.com/OpenLineage/OpenLineage/pull/3855) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Flink 1.x] Close OpenLineageClient in onJobExecuted](https://github.com/OpenLineage/OpenLineage/pull/3854) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Spark] Close OpenLineageClient in onApplicationEnd](https://github.com/OpenLineage/OpenLineage/pull/3851) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
