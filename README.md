@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-27661] Exclude self-references from granularity=DATASET](https://github.com/MobileTeleSystems/data-rentgen/pull/261) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-26758] Include .jar files into worker image](https://github.com/MobileTeleSystems/syncmaster/pull/245) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Remove redundant DTO copies](https://github.com/MobileTeleSystems/data-rentgen/pull/258) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[Hive] Add dialect=&#34;hive&#34; to SqlJobFacet](https://github.com/OpenLineage/OpenLineage/pull/3863) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[Spark] Use Hive as default Iceberg catalog implementation](https://github.com/OpenLineage/OpenLineage/pull/3858) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Python][Java] Implement Transport.close() for Datazone and Kinesis](https://github.com/OpenLineage/OpenLineage/pull/3857) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
