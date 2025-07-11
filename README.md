@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-26804] Make granularity=DATASET lineage more precise](https://github.com/MobileTeleSystems/data-rentgen/pull/264) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[Python] Remove transport.wait_for_completion()](https://github.com/OpenLineage/OpenLineage/pull/3881) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[DOP-27406] Add workaround for Spark sessions with name=unknown](https://github.com/MobileTeleSystems/data-rentgen/pull/263) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [Use dataclass(slots=True) on DTOs](https://github.com/MobileTeleSystems/data-rentgen/pull/262) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-27661] Exclude self-references from granularity=DATASET](https://github.com/MobileTeleSystems/data-rentgen/pull/261) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-26758] Include .jar files into worker image](https://github.com/MobileTeleSystems/syncmaster/pull/245) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [Remove redundant DTO copies](https://github.com/MobileTeleSystems/data-rentgen/pull/258) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[Hive] Add dialect=&#34;hive&#34; to SqlJobFacet](https://github.com/OpenLineage/OpenLineage/pull/3863) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[Spark] Use Hive as default Iceberg catalog implementation](https://github.com/OpenLineage/OpenLineage/pull/3858) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
