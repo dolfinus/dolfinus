@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Revert: chore: Force push gh-pages](https://github.com/ag2ai/faststream/pull/2364) on [ag2ai/faststream](https://github.com/ag2ai/faststream)
 - [chore: Force push gh-pages](https://github.com/ag2ai/faststream/pull/2360) on [ag2ai/faststream](https://github.com/ag2ai/faststream)
 - [[Python] Do not use f-strings with logging module](https://github.com/OpenLineage/OpenLineage/pull/3895) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-26993] Add custom DataRentgen facets](https://github.com/MobileTeleSystems/data-rentgen/pull/265) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-26804] Make granularity=DATASET lineage more precise](https://github.com/MobileTeleSystems/data-rentgen/pull/264) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[Python] Remove transport.wait_for_completion()](https://github.com/OpenLineage/OpenLineage/pull/3881) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
