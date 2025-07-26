@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-27890] Add pages for managing personal tokens](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/73) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-25469] Add /personal-tokens API](https://github.com/MobileTeleSystems/data-rentgen/pull/276) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-25469] Fix Job.type and Operation.sql_query definition](https://github.com/MobileTeleSystems/data-rentgen/pull/275) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-25469] Update endpoints summary and error schemas](https://github.com/MobileTeleSystems/data-rentgen/pull/274) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-25469] Drop unused indexes from custom_user_properties](https://github.com/MobileTeleSystems/data-rentgen/pull/273) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [Fix commit authors in 1.36.0 changelog](https://github.com/OpenLineage/OpenLineage/pull/3928) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
