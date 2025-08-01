@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-25468] Introduce http2kafka component](https://github.com/MobileTeleSystems/data-rentgen/pull/281) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-25468] Validate UUID version using Pydantic UUID7 class](https://github.com/MobileTeleSystems/data-rentgen/pull/280) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-25468] Enhance Kafka producer settings](https://github.com/MobileTeleSystems/data-rentgen/pull/279) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [✨ Use TypeAdapter.validate_json for Pydantic v2](https://github.com/fastapi/fastapi/pull/13951) on [fastapi/fastapi](https://github.com/fastapi/fastapi)
 - [[DOP-25468] Move OpenLineage models from consumer](https://github.com/MobileTeleSystems/data-rentgen/pull/278) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-27890] Add components for managing personal tokens](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/73) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[DOP-25469] Add personal tokens API](https://github.com/MobileTeleSystems/data-rentgen/pull/276) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-25469] Fix Job.type and Operation.sql_query definition](https://github.com/MobileTeleSystems/data-rentgen/pull/275) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
