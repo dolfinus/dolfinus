@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Python: Change gzip compression level in HttpTransport](https://github.com/OpenLineage/OpenLineage/pull/3956) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-25470] Enable authentication using personal tokens](https://github.com/MobileTeleSystems/data-rentgen/pull/284) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [⚡️ Cache callable inspection result](https://github.com/fastapi/fastapi/pull/13974) on [fastapi/fastapi](https://github.com/fastapi/fastapi)
 - [[DOP-25468] Add examples for OpenLineage models](https://github.com/MobileTeleSystems/data-rentgen/pull/282) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-25468] Introduce http2kafka component](https://github.com/MobileTeleSystems/data-rentgen/pull/281) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-25468] Validate UUID version using Pydantic UUID7 class](https://github.com/MobileTeleSystems/data-rentgen/pull/280) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
