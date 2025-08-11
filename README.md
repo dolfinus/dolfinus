@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [Harbour-Enterprises/SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc) - 🦋️ SuperDoc - modern document editing
 - [aio-libs/aiokafka](https://github.com/aio-libs/aiokafka) - asyncio client for kafka
 - [nightscape/spark-file-mover](https://github.com/nightscape/spark-file-mover) - A Spark extension for moving/renaming files written from a DataFrame/Dataset
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [felix-hilden/sphinx-codeautolink](https://github.com/felix-hilden/sphinx-codeautolink) - Automatic links from code examples to reference documentation
-- [vanadium23/kompanion](https://github.com/vanadium23/kompanion) - a self hosted backend for bookworms, tightly coupled with KOReader
 
 ### 🏆 Github Profile Trophy
 
