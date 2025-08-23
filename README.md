@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities) - Basic ETL Entity classes for onETL
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[DOP-28075] Add HttpTransport examples of integrations](https://github.com/MobileTeleSystems/data-rentgen/pull/295) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-28075] Document Personal Tokens](https://github.com/MobileTeleSystems/data-rentgen/pull/293) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [Use fastest compression level](https://github.com/aio-libs/aiokafka/pull/1121) on [aio-libs/aiokafka](https://github.com/aio-libs/aiokafka)
-- [Python: Change gzip compression level in HttpTransport](https://github.com/OpenLineage/OpenLineage/pull/3956) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [[DOP-25470] Enable authentication using personal tokens](https://github.com/MobileTeleSystems/data-rentgen/pull/284) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [Drop Spark 2 support](https://github.com/MobileTeleSystems/onetl/pull/383) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [Update Excel package](https://github.com/MobileTeleSystems/onetl/pull/382) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [Return full path in list_dir/walk](https://github.com/MobileTeleSystems/onetl/pull/381) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [Speed up remove_dir_recursive](https://github.com/MobileTeleSystems/onetl/pull/380) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [Treat S3 objects with name ending with slash as directory marker](https://github.com/MobileTeleSystems/onetl/pull/379) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
