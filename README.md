@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [dremio/iceberg-auth-manager](https://github.com/dremio/iceberg-auth-manager) - Dremio AuthManager for Apache Iceberg
 - [vduseev/pydantic-settings-logging](https://github.com/vduseev/pydantic-settings-logging) - Configure standard Python logging using Pydantic Settings
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [Harbour-Enterprises/SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc) - 🦋️ SuperDoc - modern document editing
 - [aio-libs/aiokafka](https://github.com/aio-libs/aiokafka) - asyncio client for kafka
-- [nightscape/spark-file-mover](https://github.com/nightscape/spark-file-mover) - A Spark extension for moving/renaming files written from a DataFrame/Dataset
 
 ### 🏆 Github Profile Trophy
 
