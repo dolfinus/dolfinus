@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Use FastStream 0.6.0](https://github.com/MobileTeleSystems/data-rentgen/pull/309) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [Speed up http2kafka](https://github.com/MobileTeleSystems/data-rentgen/pull/306) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [Python: Improve logging in AsyncHttpTransport](https://github.com/OpenLineage/OpenLineage/pull/4026) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Python: Don&#39;t silence import errors in DefaultTransportFactory](https://github.com/OpenLineage/OpenLineage/pull/4015) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Python: Raise errors if custom token provider cannot be loaded](https://github.com/OpenLineage/OpenLineage/pull/4014) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Make trino-openlineage tests output less verbose](https://github.com/trinodb/trino/pull/26536) on [trinodb/trino](https://github.com/trinodb/trino)
 
 ### 💻 Stack I'm Currently Learning
 
