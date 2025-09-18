@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Feat: Allow SASL_PLAINTEXT for OpenLineage Kafka broker](https://github.com/open-metadata/OpenMetadata/pull/23443) on [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 - [[DOP-28706] Make name unique check case-insensitive](https://github.com/MobileTeleSystems/data-rentgen/pull/313) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-26403] Set output type based on SQL query type](https://github.com/MobileTeleSystems/data-rentgen/pull/310) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [Test Iceberg on Spark 4.0](https://github.com/MobileTeleSystems/onetl/pull/396) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [Use FastStream 0.6.0](https://github.com/MobileTeleSystems/data-rentgen/pull/309) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [Speed up http2kafka](https://github.com/MobileTeleSystems/data-rentgen/pull/306) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
