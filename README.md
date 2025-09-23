@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
-- [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [feat: Use TaskInstance.id as OpenLineage runId](https://github.com/apache/airflow/pull/55966) on [apache/airflow](https://github.com/apache/airflow)
+- [[DOP-28871] Add artificial filters by Operation/Run id](https://github.com/MobileTeleSystems/data-rentgen/pull/316) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-28871] Improve SQLAlchemy query caching](https://github.com/MobileTeleSystems/data-rentgen/pull/315) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-28871] Use bulk DB fetch in consumer](https://github.com/MobileTeleSystems/data-rentgen/pull/314) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [Feat: Allow SASL_PLAINTEXT for OpenLineage Kafka broker](https://github.com/open-metadata/OpenMetadata/pull/23443) on [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-- [[DOP-28706] Make name unique check case-insensitive](https://github.com/MobileTeleSystems/data-rentgen/pull/313) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-26403] Set output type based on SQL query type](https://github.com/MobileTeleSystems/data-rentgen/pull/310) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [Test Iceberg on Spark 4.0](https://github.com/MobileTeleSystems/onetl/pull/396) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
