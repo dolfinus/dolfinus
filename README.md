@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Website: Add Data.Rentgen consumer to ecosystem](https://github.com/OpenLineage/OpenLineage/pull/4078) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Java: Add support for jTDS JDBC URL format](https://github.com/OpenLineage/OpenLineage/pull/4077) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [[DOP-29772] Implement GET /v1/auth/logout endpoint](https://github.com/MobileTeleSystems/syncmaster/pull/275) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [[DOP-29772] Change Keycloak redirect from 307 to 401](https://github.com/MobileTeleSystems/syncmaster/pull/274) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-22530] Implement multi value filters by id](https://github.com/MobileTeleSystems/data-rentgen/pull/329) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-22569] Add filters by Location.type](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/95) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[DOP-22530] Add filters by location_type](https://github.com/MobileTeleSystems/data-rentgen/pull/328) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-29615] Add filter by Job.type](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/92) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
-- [[DOP-29614] Add filters by Run.status and Run.started_by_user](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/91) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 
 ### 💻 Stack I'm Currently Learning
 
