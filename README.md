@@ -11,7 +11,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 
 ### 💼 Stack I'm Working With
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [faststream-community/faststream-monitoring](https://github.com/faststream-community/faststream-monitoring) - Example of monitoring settings for FastStream.
+- [faststream-community/litestar-dishka-faststream](https://github.com/faststream-community/litestar-dishka-faststream) - Template for app based on: litestar, dishka, faststream, sqlalchemy, pydantic
 - [CybercentreCanada/spark-msgpack-datasource](https://github.com/CybercentreCanada/spark-msgpack-datasource) - A spark datasource implementation for the msgpack file format
 - [apache/flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
 - [dremio/iceberg-auth-manager](https://github.com/dremio/iceberg-auth-manager) - Dremio AuthManager for Apache Iceberg
-- [vduseev/pydantic-settings-logging](https://github.com/vduseev/pydantic-settings-logging) - Configure standard Python logging using Pydantic Settings
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 
 ### 🏆 Github Profile Trophy
 
