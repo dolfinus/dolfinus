@@ -95,7 +95,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [Raiffeisen-DGTL/zaychik-trino-proxy](https://github.com/Raiffeisen-DGTL/zaychik-trino-proxy) - 
 - [faststream-community/dishka-faststream](https://github.com/faststream-community/dishka-faststream) - Dishka DI integration for FastStream framework
 - [faststream-community/faststream-monitoring](https://github.com/faststream-community/faststream-monitoring) - Example of monitoring settings for FastStream.
-- [faststream-community/litestar-dishka-faststream](https://github.com/faststream-community/litestar-dishka-faststream) - Template for app based on: litestar, dishka, faststream, sqlalchemy, pydantic
+- [faststream-community/fastapi-dishka-faststream](https://github.com/faststream-community/fastapi-dishka-faststream) - Template for app based on: FastAPI, dishka, faststream, sqlalchemy, pydantic
 - [CybercentreCanada/spark-msgpack-datasource](https://github.com/CybercentreCanada/spark-msgpack-datasource) - A spark datasource implementation for the msgpack file format
 
 ### 🏆 Github Profile Trophy
