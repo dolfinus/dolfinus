@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-28167] Slots on worker handlers support inheritance](https://github.com/MobileTeleSystems/syncmaster/pull/287) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [[jdbc-v2] Convert Clickhouse `Array(T)` to Java `T[]` instead of `Object[]`](https://github.com/ClickHouse/clickhouse-java/pull/2627) on [ClickHouse/clickhouse-java](https://github.com/ClickHouse/clickhouse-java)
 - [Website: Add Data.Rentgen consumer to ecosystem](https://github.com/OpenLineage/OpenLineage/pull/4078) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Java: Add support for jTDS JDBC URL format](https://github.com/OpenLineage/OpenLineage/pull/4077) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-29772] Implement GET /v1/auth/logout endpoint](https://github.com/MobileTeleSystems/syncmaster/pull/275) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-29772] Change Keycloak redirect from 307 to 401](https://github.com/MobileTeleSystems/syncmaster/pull/274) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-22530] Implement multi value filters by id](https://github.com/MobileTeleSystems/data-rentgen/pull/329) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
