@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension) - Extend JDBC types support for Apache Spark.
 - [ClickHouse/clickhouse-java](https://github.com/ClickHouse/clickhouse-java) - ClickHouse Java Clients &amp; JDBC Driver
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix linter errors](https://github.com/MobileTeleSystems/spark-dialect-extension/pull/20) on [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension)
+- [[DOP-29496] Allow reading settings from config.yml](https://github.com/MobileTeleSystems/syncmaster-ui/pull/136) on [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui)
+- [[DOP-29496] Load settings from config.yml](https://github.com/MobileTeleSystems/syncmaster/pull/289) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [Add support for (): &#39;class&#39; syntax](https://github.com/vduseev/pydantic-settings-logging/pull/1) on [vduseev/pydantic-settings-logging](https://github.com/vduseev/pydantic-settings-logging)
 - [[DOP-30224] Add support for clickhouse-jdbc 0.9.3&#43;](https://github.com/MobileTeleSystems/onetl/pull/407) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [[jdbc-v2] Fix Java 8 compatibility](https://github.com/ClickHouse/clickhouse-java/pull/2629) on [ClickHouse/clickhouse-java](https://github.com/ClickHouse/clickhouse-java)
-- [[DOP-28167] Slots on worker handlers support inheritance](https://github.com/MobileTeleSystems/syncmaster/pull/287) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[jdbc-v2] Convert Clickhouse `Array(T)` to Java `T[]` instead of `Object[]`](https://github.com/ClickHouse/clickhouse-java/pull/2627) on [ClickHouse/clickhouse-java](https://github.com/ClickHouse/clickhouse-java)
-- [Website: Add Data.Rentgen consumer to ecosystem](https://github.com/OpenLineage/OpenLineage/pull/4078) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
