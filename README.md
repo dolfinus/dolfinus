@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [⚡️ Reuse coroutine inspection result](https://github.com/fastapi/fastapi/pull/14291) on [fastapi/fastapi](https://github.com/fastapi/fastapi)
 - [Fix linter errors](https://github.com/MobileTeleSystems/spark-dialect-extension/pull/20) on [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension)
 - [[DOP-29496] Allow reading settings from config.yml](https://github.com/MobileTeleSystems/syncmaster-ui/pull/136) on [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui)
 - [[DOP-29496] Load settings from config.yml](https://github.com/MobileTeleSystems/syncmaster/pull/289) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Add support for (): &#39;class&#39; syntax](https://github.com/vduseev/pydantic-settings-logging/pull/1) on [vduseev/pydantic-settings-logging](https://github.com/vduseev/pydantic-settings-logging)
-- [[DOP-30224] Add support for clickhouse-jdbc 0.9.3&#43;](https://github.com/MobileTeleSystems/onetl/pull/407) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [lithium-tech/tea](https://github.com/lithium-tech/tea) - Extension for Greenplum to read Apache Iceberg
 - [Raiffeisen-DGTL/zaychik-trino-proxy](https://github.com/Raiffeisen-DGTL/zaychik-trino-proxy) - 
 - [faststream-community/dishka-faststream](https://github.com/faststream-community/dishka-faststream) - Dishka DI integration for FastStream framework
 - [faststream-community/faststream-monitoring](https://github.com/faststream-community/faststream-monitoring) - Example of monitoring settings for FastStream.
 - [faststream-community/fastapi-dishka-faststream](https://github.com/faststream-community/fastapi-dishka-faststream) - Template for app based on: FastAPI, dishka, faststream, sqlalchemy, pydantic
-- [CybercentreCanada/spark-msgpack-datasource](https://github.com/CybercentreCanada/spark-msgpack-datasource) - A spark datasource implementation for the msgpack file format
 
 ### 🏆 Github Profile Trophy
 
