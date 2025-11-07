@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [gh-92810: Reduce memory usage by ABCMeta.__subclasscheck__](https://github.com/python/cpython/pull/141171) on [python/cpython](https://github.com/python/cpython)
+- [[DOP-29498] Allow overriding Spark session config](https://github.com/MobileTeleSystems/syncmaster/pull/291) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
+- [[DOP-29492] Split Iceberg OAuth2 class into 2 classes](https://github.com/MobileTeleSystems/onetl/pull/410) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [⚡️ Reuse coroutine inspection result](https://github.com/fastapi/fastapi/pull/14291) on [fastapi/fastapi](https://github.com/fastapi/fastapi)
 - [Fix linter errors](https://github.com/MobileTeleSystems/spark-dialect-extension/pull/20) on [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension)
-- [[DOP-29496] Allow reading settings from config.yml](https://github.com/MobileTeleSystems/syncmaster-ui/pull/136) on [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui)
-- [[DOP-29496] Load settings from config.yml](https://github.com/MobileTeleSystems/syncmaster/pull/289) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [Add support for (): &#39;class&#39; syntax](https://github.com/vduseev/pydantic-settings-logging/pull/1) on [vduseev/pydantic-settings-logging](https://github.com/vduseev/pydantic-settings-logging)
 
 ### 💻 Stack I'm Currently Learning
 
