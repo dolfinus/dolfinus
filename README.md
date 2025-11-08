@@ -7,10 +7,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension) - Extend JDBC types support for Apache Spark.
 - [ClickHouse/clickhouse-java](https://github.com/ClickHouse/clickhouse-java) - ClickHouse Java Clients &amp; JDBC Driver
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 
 ### 💼 Stack I'm Working With
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix Java 11 compatibility](https://github.com/dremio/iceberg-auth-manager/pull/198) on [dremio/iceberg-auth-manager](https://github.com/dremio/iceberg-auth-manager)
+- [Fix Java 11 compatibility](https://github.com/dolfinus/iceberg-auth-manager/pull/1) on [dolfinus/iceberg-auth-manager](https://github.com/dolfinus/iceberg-auth-manager)
 - [gh-92810: Reduce memory usage by ABCMeta.__subclasscheck__](https://github.com/python/cpython/pull/141171) on [python/cpython](https://github.com/python/cpython)
 - [[DOP-29498] Allow overriding Spark session config](https://github.com/MobileTeleSystems/syncmaster/pull/291) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-29492] Split Iceberg OAuth2 class into 2 classes](https://github.com/MobileTeleSystems/onetl/pull/410) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [⚡️ Reuse coroutine inspection result](https://github.com/fastapi/fastapi/pull/14291) on [fastapi/fastapi](https://github.com/fastapi/fastapi)
-- [Fix linter errors](https://github.com/MobileTeleSystems/spark-dialect-extension/pull/20) on [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [arenadata/gpdb](https://github.com/arenadata/gpdb) - Arenadata DB
 - [lithium-tech/tea](https://github.com/lithium-tech/tea) - Extension for Greenplum to read Apache Iceberg
 - [Raiffeisen-DGTL/zaychik-trino-proxy](https://github.com/Raiffeisen-DGTL/zaychik-trino-proxy) - 
 - [faststream-community/dishka-faststream](https://github.com/faststream-community/dishka-faststream) - Dishka DI integration for FastStream framework
 - [faststream-community/faststream-monitoring](https://github.com/faststream-community/faststream-monitoring) - Example of monitoring settings for FastStream.
-- [faststream-community/fastapi-dishka-faststream](https://github.com/faststream-community/fastapi-dishka-faststream) - Template for app based on: FastAPI, dishka, faststream, sqlalchemy, pydantic
 
 ### 🏆 Github Profile Trophy
 
