@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [dremio/iceberg-auth-manager](https://github.com/dremio/iceberg-auth-manager) - Dremio AuthManager for Apache Iceberg
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension) - Extend JDBC types support for Apache Spark.
-- [ClickHouse/clickhouse-java](https://github.com/ClickHouse/clickhouse-java) - ClickHouse Java Clients &amp; JDBC Driver
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Hive: generate the same runId for START and STOP events](https://github.com/OpenLineage/OpenLineage/pull/4126) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Fix Java 11 compatibility](https://github.com/dremio/iceberg-auth-manager/pull/198) on [dremio/iceberg-auth-manager](https://github.com/dremio/iceberg-auth-manager)
 - [Fix Java 11 compatibility](https://github.com/dolfinus/iceberg-auth-manager/pull/1) on [dolfinus/iceberg-auth-manager](https://github.com/dolfinus/iceberg-auth-manager)
 - [gh-92810: Reduce memory usage by ABCMeta.__subclasscheck__](https://github.com/python/cpython/pull/141171) on [python/cpython](https://github.com/python/cpython)
 - [[DOP-29498] Allow overriding Spark session config](https://github.com/MobileTeleSystems/syncmaster/pull/291) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-29492] Split Iceberg OAuth2 class into 2 classes](https://github.com/MobileTeleSystems/onetl/pull/410) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
