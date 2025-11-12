@@ -8,9 +8,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
+- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 - [dremio/iceberg-auth-manager](https://github.com/dremio/iceberg-auth-manager) - Dremio AuthManager for Apache Iceberg
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension) - Extend JDBC types support for Apache Spark.
 - [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 
 ### 💼 Stack I'm Working With
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [spylang/spy](https://github.com/spylang/spy) - SPy language
 - [arenadata/gpdb](https://github.com/arenadata/gpdb) - Arenadata DB
 - [lithium-tech/tea](https://github.com/lithium-tech/tea) - Extension for Greenplum to read Apache Iceberg
 - [Raiffeisen-DGTL/zaychik-trino-proxy](https://github.com/Raiffeisen-DGTL/zaychik-trino-proxy) - 
 - [faststream-community/dishka-faststream](https://github.com/faststream-community/dishka-faststream) - Dishka DI integration for FastStream framework
-- [faststream-community/faststream-monitoring](https://github.com/faststream-community/faststream-monitoring) - Example of monitoring settings for FastStream.
 
 ### 🏆 Github Profile Trophy
 
