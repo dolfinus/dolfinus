@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
-- [dremio/iceberg-auth-manager](https://github.com/dremio/iceberg-auth-manager) - Dremio AuthManager for Apache Iceberg
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-30579] Allow using SyncMaster worker image as spark.kubernetes.container.image](https://github.com/MobileTeleSystems/syncmaster/pull/295) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Hive: generate the same runId for START and STOP events](https://github.com/OpenLineage/OpenLineage/pull/4126) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Fix Java 11 compatibility](https://github.com/dremio/iceberg-auth-manager/pull/198) on [dremio/iceberg-auth-manager](https://github.com/dremio/iceberg-auth-manager)
 - [Fix Java 11 compatibility](https://github.com/dolfinus/iceberg-auth-manager/pull/1) on [dolfinus/iceberg-auth-manager](https://github.com/dolfinus/iceberg-auth-manager)
 - [gh-92810: Reduce memory usage by ABCMeta.__subclasscheck__](https://github.com/python/cpython/pull/141171) on [python/cpython](https://github.com/python/cpython)
-- [[DOP-29498] Allow overriding Spark session config](https://github.com/MobileTeleSystems/syncmaster/pull/291) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [graphframes/graphframes](https://github.com/graphframes/graphframes) - GraphFrames is a package for Apache Spark which provides DataFrame-based Graphs
 - [spylang/spy](https://github.com/spylang/spy) - SPy language
 - [arenadata/gpdb](https://github.com/arenadata/gpdb) - Arenadata DB
 - [lithium-tech/tea](https://github.com/lithium-tech/tea) - Extension for Greenplum to read Apache Iceberg
 - [Raiffeisen-DGTL/zaychik-trino-proxy](https://github.com/Raiffeisen-DGTL/zaychik-trino-proxy) - 
-- [faststream-community/dishka-faststream](https://github.com/faststream-community/dishka-faststream) - Dishka DI integration for FastStream framework
 
 ### 🏆 Github Profile Trophy
 
