@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-29492] Implement Iceberg.DelegatedWarehouse](https://github.com/MobileTeleSystems/onetl/pull/413) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-30579] Allow using SyncMaster worker image as spark.kubernetes.container.image](https://github.com/MobileTeleSystems/syncmaster/pull/295) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Hive: generate the same runId for START and STOP events](https://github.com/OpenLineage/OpenLineage/pull/4126) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [Fix Java 11 compatibility](https://github.com/dremio/iceberg-auth-manager/pull/198) on [dremio/iceberg-auth-manager](https://github.com/dremio/iceberg-auth-manager)
 - [Fix Java 11 compatibility](https://github.com/dolfinus/iceberg-auth-manager/pull/1) on [dolfinus/iceberg-auth-manager](https://github.com/dolfinus/iceberg-auth-manager)
-- [gh-92810: Reduce memory usage by ABCMeta.__subclasscheck__](https://github.com/python/cpython/pull/141171) on [python/cpython](https://github.com/python/cpython)
 
 ### 💻 Stack I'm Currently Learning
 
