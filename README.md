@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
-- [MobileTeleSystems/horizon-hwm-store](https://github.com/MobileTeleSystems/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Spark: ensure relation size in bytes is sane](https://github.com/OpenLineage/OpenLineage/pull/4165) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-30631] Add support for Iceberg REST Catalog &#43; S3 delegated access](https://github.com/MobileTeleSystems/syncmaster/pull/297) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-29492] Implement Iceberg.DelegatedWarehouse](https://github.com/MobileTeleSystems/onetl/pull/413) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-30579] Allow using SyncMaster worker image as spark.kubernetes.container.image](https://github.com/MobileTeleSystems/syncmaster/pull/295) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Hive: generate the same runId for START and STOP events](https://github.com/OpenLineage/OpenLineage/pull/4126) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
-- [Fix Java 11 compatibility](https://github.com/dremio/iceberg-auth-manager/pull/198) on [dremio/iceberg-auth-manager](https://github.com/dremio/iceberg-auth-manager)
 
 ### 💻 Stack I'm Currently Learning
 
