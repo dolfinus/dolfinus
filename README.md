@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-30632] Implement Iceberg BearerAuth instead of BasicAuth](https://github.com/MobileTeleSystems/syncmaster/pull/300) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Spark: ensure relation size in bytes is sane](https://github.com/OpenLineage/OpenLineage/pull/4165) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-30631] Add support for Iceberg REST Catalog &#43; S3 delegated access](https://github.com/MobileTeleSystems/syncmaster/pull/297) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-29492] Implement Iceberg.DelegatedWarehouse](https://github.com/MobileTeleSystems/onetl/pull/413) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 - [[DOP-30579] Allow using SyncMaster worker image as spark.kubernetes.container.image](https://github.com/MobileTeleSystems/syncmaster/pull/295) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [Hive: generate the same runId for START and STOP events](https://github.com/OpenLineage/OpenLineage/pull/4126) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
