@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [facebookincubator/nimble](https://github.com/facebookincubator/nimble) - New file format for storage of large columnar datasets.
 - [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&amp;Data, part of the Linux Foundation.
 - [open-gpdb/gpdb](https://github.com/open-gpdb/gpdb) - open-gpdb - opensource fork of greenplum database
 - [goduni/unilogging](https://github.com/goduni/unilogging) - A simple library for working with the context of logs.
-- [kinginu/oneplus13t-fix-camera](https://github.com/kinginu/oneplus13t-fix-camera) - A module to fix camera functionality and correct battery capacity for the OnePlus 13T after updating to or converting to OxygenOS 15.
 
 ### 🏆 Github Profile Trophy
 
