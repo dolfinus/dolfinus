@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, low-code ETL tool. WIP
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - Low-code ETL tool, based on onETL. WIP
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Python: fix .with_additional_properties() annotation](https://github.com/OpenLineage/OpenLineage/pull/4197) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [⚡️Improve caching of callable inspection result](https://github.com/fastapi/fastapi/pull/14441) on [fastapi/fastapi](https://github.com/fastapi/fastapi)
 - [[DOP-31004] Change Keycloak cookie settings location](https://github.com/MobileTeleSystems/syncmaster/pull/304) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [[DOP-29475] Implement Iceberg connection type](https://github.com/MobileTeleSystems/syncmaster-ui/pull/144) on [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui)
 - [[DOP-30632] Implement Iceberg BearerAuth instead of BasicAuth](https://github.com/MobileTeleSystems/syncmaster/pull/300) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [Spark: ensure relation size in bytes is sane](https://github.com/OpenLineage/OpenLineage/pull/4165) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [yukinarit/pyserde](https://github.com/yukinarit/pyserde) - Yet another serialization library on top of dataclasses, inspired by serde-rs.
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [facebookincubator/nimble](https://github.com/facebookincubator/nimble) - New file format for storage of large columnar datasets.
 - [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&amp;Data, part of the Linux Foundation.
 - [open-gpdb/gpdb](https://github.com/open-gpdb/gpdb) - open-gpdb - opensource fork of greenplum database
-- [goduni/unilogging](https://github.com/goduni/unilogging) - A simple library for working with the context of logs.
 
 ### 🏆 Github Profile Trophy
 
