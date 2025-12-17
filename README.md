@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Add logo](https://github.com/MobileTeleSystems/syncmaster-ui/pull/149) on [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui)
+- [Add logo](https://github.com/MobileTeleSystems/syncmaster/pull/311) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Python: fix .with_additional_properties() annotation](https://github.com/OpenLineage/OpenLineage/pull/4197) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [⚡️Improve caching of callable inspection result](https://github.com/fastapi/fastapi/pull/14441) on [fastapi/fastapi](https://github.com/fastapi/fastapi)
 - [[DOP-31004] Change Keycloak cookie settings location](https://github.com/MobileTeleSystems/syncmaster/pull/304) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [[DOP-29475] Implement Iceberg connection type](https://github.com/MobileTeleSystems/syncmaster-ui/pull/144) on [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui)
-- [[DOP-30632] Implement Iceberg BearerAuth instead of BasicAuth](https://github.com/MobileTeleSystems/syncmaster/pull/300) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 
 ### 💻 Stack I'm Currently Learning
 
