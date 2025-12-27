@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
-- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, no-code ETL tool. WIP
-- [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Parallelize HDFS and WebDAV tests](https://github.com/MobileTeleSystems/onetl/pull/424) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [Replace pip with uv](https://github.com/MobileTeleSystems/onetl/pull/422) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
+- [Switch from flake8 to ruff](https://github.com/MobileTeleSystems/syncmaster/pull/315) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
 - [Switch from poetry to uv](https://github.com/MobileTeleSystems/horizon/pull/166) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
 - [Switch from poetry to uv](https://github.com/MobileTeleSystems/syncmaster/pull/313) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [Add logo](https://github.com/MobileTeleSystems/syncmaster-ui/pull/149) on [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui)
-- [Add logo](https://github.com/MobileTeleSystems/syncmaster/pull/311) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [Python: fix .with_additional_properties() annotation](https://github.com/OpenLineage/OpenLineage/pull/4197) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
