@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
+- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [pivovarit/parallel-collectors](https://github.com/pivovarit/parallel-collectors) - Parallel Collectors is a toolkit easing parallel collection processing in Java using Stream API.
+- [OpenHFT/Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Chronicle Bytes has a similar purpose to Java NIO&#39;s ByteBuffer with many extensions
+- [OpenHFT/Chronicle-Core](https://github.com/OpenHFT/Chronicle-Core) - Low level access to native memory, JVM and OS.
 - [reproducible-containers/buildkit-cache-dance](https://github.com/reproducible-containers/buildkit-cache-dance) - Save `RUN --mount=type=cache` caches on GitHub Actions ( Forked from https://github.com/overmindtech/buildkit-cache-dance )
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [nbbrd/picocsv](https://github.com/nbbrd/picocsv) - Unusual CSV library for Java
-- [yukinarit/pyserde](https://github.com/yukinarit/pyserde) - Yet another serialization library on top of dataclasses, inspired by serde-rs.
-- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 
 ### 🏆 Github Profile Trophy
 
