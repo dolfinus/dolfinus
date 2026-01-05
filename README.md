@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [dolfinus/mediawiki-extensions-Chemistry](https://github.com/dolfinus/mediawiki-extensions-Chemistry) - Fork of MediaWiki Chemistry extension (deleted from Gerrit)
+- [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 
 ### 💼 Stack I'm Working With
 
@@ -85,9 +85,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [dolfinus/setuptools-git-versioning](https://github.com/dolfinus/setuptools-git-versioning) - Use git repo data (latest tag, current commit hash, etc) for building a version number according PEP-440 
                                        
 
+- [dolfinus/mediawiki-extensions-Chemistry](https://github.com/dolfinus/mediawiki-extensions-Chemistry) - Fork of MediaWiki Chemistry extension (deleted from Gerrit)
 - [dolfinus/Chartie](https://github.com/dolfinus/Chartie) - Mediawiki simple line chart extension
 - [dolfinus/3DAlloy](https://github.com/dolfinus/3DAlloy) - LightWeight 3D-viewer for MediaWiki
-- [dolfinus/AutoSitemap](https://github.com/dolfinus/AutoSitemap) - MediaWiki extension for automatic sitemap generation
 
 ### ⭐ Recent Stars
 
