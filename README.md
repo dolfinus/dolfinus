@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
+- [MobileTeleSystems/evacuator](https://github.com/MobileTeleSystems/evacuator) - Catch exception and exit with specific exit code
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, no-code ETL tool. WIP
+- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 - [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [Switch from flake8 to ruff](https://github.com/MobileTeleSystems/onetl/pull/426) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Speed up HDFS, S3 and WebDAV tests using pytest-xdist](https://github.com/MobileTeleSystems/onetl/pull/424) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Replace pip with uv](https://github.com/MobileTeleSystems/onetl/pull/422) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
-- [Switch from flake8 to ruff](https://github.com/MobileTeleSystems/syncmaster/pull/315) on [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster)
-- [Switch from poetry to uv](https://github.com/MobileTeleSystems/horizon/pull/166) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
+- [Feature/python3.14](https://github.com/MobileTeleSystems/etl-entities/pull/143) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
+- [Test Python 3.14](https://github.com/MobileTeleSystems/etl-entities/pull/142) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
+- [Test Python 3.14](https://github.com/MobileTeleSystems/data-rentgen/pull/364) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [Test Python 3.14](https://github.com/MobileTeleSystems/horizon/pull/172) on [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon)
+- [Test Spark 4.1.1](https://github.com/MobileTeleSystems/onetl/pull/433) on [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
