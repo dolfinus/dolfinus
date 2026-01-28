@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-32998] Extract DBT run tags](https://github.com/MobileTeleSystems/data-rentgen/pull/373) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
+- [[DOP-32998] Extract dataset tags](https://github.com/MobileTeleSystems/data-rentgen/pull/372) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-31832] Extract Job &amp; Run tags for Java integrations](https://github.com/MobileTeleSystems/data-rentgen/pull/369) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-31838] Extract engine &amp; OpenLineage versions as job tags](https://github.com/MobileTeleSystems/data-rentgen/pull/368) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-31839] Add job tags](https://github.com/MobileTeleSystems/data-rentgen/pull/367) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [Feature/python3.14](https://github.com/MobileTeleSystems/etl-entities/pull/143) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
-- [Test Python 3.14](https://github.com/MobileTeleSystems/etl-entities/pull/142) on [MobileTeleSystems/etl-entities](https://github.com/MobileTeleSystems/etl-entities)
 
 ### 💻 Stack I'm Currently Learning
 
