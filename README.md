@@ -9,9 +9,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 - [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
+- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
 
 ### 💼 Stack I'm Working With
 
