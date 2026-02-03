@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Add support for aiokafka 0.13](https://github.com/ag2ai/faststream/pull/2754) on [ag2ai/faststream](https://github.com/ag2ai/faststream)
 - [[DOP-27446] Allow to filter datatasets &amp; jobs by tags](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/123) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-33014] Remove job.tag_values not send by integration](https://github.com/MobileTeleSystems/data-rentgen/pull/377) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-28218] Split GET /v1/tags and /v1/tag-values](https://github.com/MobileTeleSystems/data-rentgen/pull/376) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 - [[DOP-31923] Add documentation for tags](https://github.com/MobileTeleSystems/data-rentgen/pull/375) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-31832] Extract Airflow job &amp; run tags](https://github.com/MobileTeleSystems/data-rentgen/pull/374) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
