@@ -10,8 +10,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
 - [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
 - [MobileTeleSystems/syncmaster-ui](https://github.com/MobileTeleSystems/syncmaster-ui) - Frontend for Syncmaster, no-code ETL tool. WIP
-- [MobileTeleSystems/horizon](https://github.com/MobileTeleSystems/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-31844] Show last run info on Job list](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/132) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [gh-92810: Cover ABCMeta instancecheck/subclasscheck with more tests](https://github.com/python/cpython/pull/144941) on [python/cpython](https://github.com/python/cpython)
 - [[DOP-31844] Use created_at as Run reference](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/131) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-31810] Add expected_start_at/end_at to Run show page](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/126) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 - [[DOP-31810] Rename run.expected_%_time fields to expected_%_at](https://github.com/MobileTeleSystems/data-rentgen/pull/381) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [Add support for aiokafka 0.13](https://github.com/ag2ai/faststream/pull/2754) on [ag2ai/faststream](https://github.com/ag2ai/faststream)
-- [[DOP-27446] Allow to filter datatasets &amp; jobs by tags](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/123) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
 
 ### 💻 Stack I'm Currently Learning
 
