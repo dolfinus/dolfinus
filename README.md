@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen) - NextGen DataMotion Lineage
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen
-- [MobileTeleSystems/syncmaster](https://github.com/MobileTeleSystems/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
-- [MobileTeleSystems/hadoop-docker](https://github.com/MobileTeleSystems/hadoop-docker) - Docker image with Hadoop cluster
-- [MobileTeleSystems/onetl](https://github.com/MobileTeleSystems/onetl) - One ETL tool to rule them all
+- [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
+- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
+- [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
+- [MTSWebServices/hadoop-docker](https://github.com/MTSWebServices/hadoop-docker) - Docker image with Hadoop cluster
+- [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[DOP-31843] Fix performance issues with job.last_run](https://github.com/MobileTeleSystems/data-rentgen/pull/390) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-31838] openlineageAdapterVersion field is optional](https://github.com/MobileTeleSystems/data-rentgen/pull/389) on [MobileTeleSystems/data-rentgen](https://github.com/MobileTeleSystems/data-rentgen)
-- [[DOP-31844] Show last run info on Job list](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/132) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[DOP-31843] Fix performance issues with job.last_run](https://github.com/MTSWebServices/data-rentgen/pull/390) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-31838] openlineageAdapterVersion field is optional](https://github.com/MTSWebServices/data-rentgen/pull/389) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-31844] Show last run info on Job list](https://github.com/MTSWebServices/data-rentgen-ui/pull/132) on [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui)
 - [gh-92810: Cover ABCMeta instancecheck/subclasscheck with more tests](https://github.com/python/cpython/pull/144941) on [python/cpython](https://github.com/python/cpython)
-- [[DOP-31844] Use created_at as Run reference](https://github.com/MobileTeleSystems/data-rentgen-ui/pull/131) on [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui)
+- [[DOP-31844] Use created_at as Run reference](https://github.com/MTSWebServices/data-rentgen-ui/pull/131) on [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui)
 
 ### 💻 Stack I'm Currently Learning
 
