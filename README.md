@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/syncmaster-ui](https://github.com/MTSWebServices/syncmaster-ui) - Frontend for Syncmaster, no-code ETL tool. WIP
-- [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 - [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-33903] Extract and save jobDependencies facet](https://github.com/MTSWebServices/data-rentgen/pull/402) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-31907] Include ancestor jobs into lineage response](https://github.com/MTSWebServices/data-rentgen/pull/396) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-31843] Fix performance issues with job.last_run](https://github.com/MTSWebServices/data-rentgen/pull/390) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-31838] openlineageAdapterVersion field is optional](https://github.com/MTSWebServices/data-rentgen/pull/389) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-31844] Show last run info on Job list](https://github.com/MTSWebServices/data-rentgen-ui/pull/132) on [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui)
-- [gh-92810: Cover ABCMeta instancecheck/subclasscheck with more tests](https://github.com/python/cpython/pull/144941) on [python/cpython](https://github.com/python/cpython)
 
 ### 💻 Stack I'm Currently Learning
 
