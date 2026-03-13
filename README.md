@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
 - [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
+- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
+- [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/syncmaster-ui](https://github.com/MTSWebServices/syncmaster-ui) - Frontend for Syncmaster, no-code ETL tool. WIP
-- [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-26806] Merge ancestors and parents into one relation](https://github.com/MTSWebServices/data-rentgen/pull/404) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-31899] Draw job -&gt; job ancestor relations on lineage graph](https://github.com/MTSWebServices/data-rentgen-ui/pull/143) on [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui)
+- [[DOP-34418] Include job ancestors for granularity=RUN|OPERATION](https://github.com/MTSWebServices/data-rentgen/pull/403) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-33903] Extract and save jobDependencies facet](https://github.com/MTSWebServices/data-rentgen/pull/402) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-31907] Include ancestor jobs into lineage response](https://github.com/MTSWebServices/data-rentgen/pull/396) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-31843] Fix performance issues with job.last_run](https://github.com/MTSWebServices/data-rentgen/pull/390) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-31838] openlineageAdapterVersion field is optional](https://github.com/MTSWebServices/data-rentgen/pull/389) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-31844] Show last run info on Job list](https://github.com/MTSWebServices/data-rentgen-ui/pull/132) on [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui)
 
 ### 💻 Stack I'm Currently Learning
 
