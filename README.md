@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-31903] Make job_dependency tests more realistic](https://github.com/MTSWebServices/data-rentgen/pull/410) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-31903] Always include job dependencies parents to response](https://github.com/MTSWebServices/data-rentgen/pull/408) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-31904] Show job dependencies graph](https://github.com/MTSWebServices/data-rentgen-ui/pull/146) on [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui)
 - [[DOP-26806] Merge ancestors and parents into one relation](https://github.com/MTSWebServices/data-rentgen/pull/404) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-31899] Draw job -&gt; job ancestor relations on lineage graph](https://github.com/MTSWebServices/data-rentgen-ui/pull/143) on [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui)
-- [[DOP-34418] Include job ancestors for granularity=RUN|OPERATION](https://github.com/MTSWebServices/data-rentgen/pull/403) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
