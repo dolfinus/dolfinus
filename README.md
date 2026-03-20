@@ -8,8 +8,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
-- [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 - [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
+- [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 - [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 
@@ -63,7 +63,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[DOP-34830] Add job name to run reference](https://github.com/MTSWebServices/data-rentgen-ui/pull/147) on [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui)
+- [[DOP-34830] Improve reference components](https://github.com/MTSWebServices/data-rentgen-ui/pull/147) on [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui)
 - [[DOP-34830] Add job to GET /v1/runs response](https://github.com/MTSWebServices/data-rentgen/pull/411) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-31903] Make job_dependency tests more realistic](https://github.com/MTSWebServices/data-rentgen/pull/410) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-31903] Always include job dependencies parents to response](https://github.com/MTSWebServices/data-rentgen/pull/408) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [vvb2060/Magisk](https://github.com/vvb2060/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [bluuewhale/hash-smith](https://github.com/bluuewhale/hash-smith) - Fast &amp; memory efficient hash tables for Java
 - [schireson/pytest-alembic](https://github.com/schireson/pytest-alembic) - Pytest plugin to test alembic migrations (with default tests) and which enables you to write tests specific to your migrations.
 - [sidequery/sqlmesh-openlineage](https://github.com/sidequery/sqlmesh-openlineage) - 
 - [pivovarit/parallel-collectors](https://github.com/pivovarit/parallel-collectors) - Parallel Collectors is a toolkit easing parallel collection processing in Java using Stream API.
-- [OpenHFT/Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Chronicle Bytes has a similar purpose to Java NIO&#39;s ByteBuffer with many extensions
 
 ### 🏆 Github Profile Trophy
 
