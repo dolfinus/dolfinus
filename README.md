@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
+- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 - [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-35394] Make infer_from_lineage query non-recursive](https://github.com/MTSWebServices/data-rentgen/pull/428) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-35394] Fix infer_from_lineage query](https://github.com/MTSWebServices/data-rentgen/pull/427) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-26770] Add StarRocks integration tests](https://github.com/MTSWebServices/data-rentgen/pull/424) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-34830] Improve reference components](https://github.com/MTSWebServices/data-rentgen-ui/pull/147) on [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui)
 - [[DOP-34830] Add job to GET /v1/runs response](https://github.com/MTSWebServices/data-rentgen/pull/411) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-31903] Make job_dependency tests more realistic](https://github.com/MTSWebServices/data-rentgen/pull/410) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-31903] Always include job dependencies parents to response](https://github.com/MTSWebServices/data-rentgen/pull/408) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
