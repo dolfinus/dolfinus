@@ -11,7 +11,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 - [MTSWebServices/evacuator](https://github.com/MTSWebServices/evacuator) - Catch exception and exit with specific exit code
-- [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
+- [MTSWebServices/spark-dialect-extension](https://github.com/MTSWebServices/spark-dialect-extension) - Extend JDBC types support for Apache Spark.
 
 ### 💼 Stack I'm Working With
 
