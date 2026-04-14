@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [Demonstrate that super().__init__() doesn&#39;t work](https://github.com/bryzgaloff/airflow-clickhouse-plugin/pull/130) on [bryzgaloff/airflow-clickhouse-plugin](https://github.com/bryzgaloff/airflow-clickhouse-plugin)
+- [Integration tests for DB API Operators](https://github.com/bryzgaloff/airflow-clickhouse-plugin/pull/130) on [bryzgaloff/airflow-clickhouse-plugin](https://github.com/bryzgaloff/airflow-clickhouse-plugin)
 - [Fix Airflow operators inheritance](https://github.com/bryzgaloff/airflow-clickhouse-plugin/pull/127) on [bryzgaloff/airflow-clickhouse-plugin](https://github.com/bryzgaloff/airflow-clickhouse-plugin)
 - [[PoC] Add integration tests for Airflow Operators](https://github.com/bryzgaloff/airflow-clickhouse-plugin/pull/126) on [bryzgaloff/airflow-clickhouse-plugin](https://github.com/bryzgaloff/airflow-clickhouse-plugin)
 - [Add OpenLineage support to ClickHouseDbApiHook](https://github.com/bryzgaloff/airflow-clickhouse-plugin/pull/124) on [bryzgaloff/airflow-clickhouse-plugin](https://github.com/bryzgaloff/airflow-clickhouse-plugin)
-- [Add integration tests for Airflow Operators](https://github.com/bryzgaloff/airflow-clickhouse-plugin/pull/122) on [bryzgaloff/airflow-clickhouse-plugin](https://github.com/bryzgaloff/airflow-clickhouse-plugin)
+- [Integration tests for operators, fix for ClickHouseSQLIntervalCheckOperator &amp; DB API operators MRO fix](https://github.com/bryzgaloff/airflow-clickhouse-plugin/pull/122) on [bryzgaloff/airflow-clickhouse-plugin](https://github.com/bryzgaloff/airflow-clickhouse-plugin)
 
 ### 💻 Stack I'm Currently Learning
 
