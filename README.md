@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [calfonso/rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
 - [ilum-cloud/duck_lineage](https://github.com/ilum-cloud/duck_lineage) - A extension for DuckDB, which captures lineage events for executed queries
 - [vvb2060/Magisk](https://github.com/vvb2060/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [bluuewhale/hash-smith](https://github.com/bluuewhale/hash-smith) - Fast &amp; memory efficient hash tables for Java
 - [schireson/pytest-alembic](https://github.com/schireson/pytest-alembic) - Pytest plugin to test alembic migrations (with default tests) and which enables you to write tests specific to your migrations.
-- [sidequery/sqlmesh-openlineage](https://github.com/sidequery/sqlmesh-openlineage) - 
 
 ### 🏆 Github Profile phy
 
