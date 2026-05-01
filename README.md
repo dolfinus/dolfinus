@@ -9,9 +9,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
-- [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
+- [bryzgaloff/airflow-clickhouse-plugin](https://github.com/bryzgaloff/airflow-clickhouse-plugin) - The most popular ClickHouse plugin for Airflow. 🔝 Top-1% downloads on PyPI: https://pypi.org/project/airflow-clickhouse-plugin! Based on mymarilyn/clickhouse-driver.
 - [MTSWebServices/horizon-hwm-store](https://github.com/MTSWebServices/horizon-hwm-store) - Horizon HWM Store for onETL
-- [MTSWebServices/syncmaster-ui](https://github.com/MTSWebServices/syncmaster-ui) - Frontend for Syncmaster, no-code ETL tool. WIP
+- [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
 
 ### 💼 Stack I'm Working With
 
