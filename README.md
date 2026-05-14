@@ -8,10 +8,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
+- [MTSWebServices/horizon-hwm-store](https://github.com/MTSWebServices/horizon-hwm-store) - Horizon HWM Store for onETL
+- [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 - [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- [bryzgaloff/airflow-clickhouse-plugin](https://github.com/bryzgaloff/airflow-clickhouse-plugin) - The most popular ClickHouse plugin for Airflow. 🔝 Top-1% downloads on PyPI: https://pypi.org/project/airflow-clickhouse-plugin! Based on mymarilyn/clickhouse-driver.
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-36877] Fix cleanup_partitions script](https://github.com/MTSWebServices/data-rentgen/pull/449) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-36596] Introduce Samba.Extra class](https://github.com/MTSWebServices/onetl/pull/489) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 - [[DOP-36596] Introduce FTP.Extra and FTPS.Extra classes](https://github.com/MTSWebServices/onetl/pull/488) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 - [[DOP-36596] Introduce SFTP.Extra class](https://github.com/MTSWebServices/onetl/pull/487) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 - [[DOP-36596] Introduce WebDAV.Extra class](https://github.com/MTSWebServices/onetl/pull/486) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
-- [[DOP-36596] Introduce S3.Extra class](https://github.com/MTSWebServices/onetl/pull/485) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
