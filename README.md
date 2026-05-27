@@ -7,10 +7,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
+- [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/syncmaster-ui](https://github.com/MTSWebServices/syncmaster-ui) - Frontend for Syncmaster, no-code ETL tool. WIP
+- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
 - [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
-- [MTSWebServices/etl-entities](https://github.com/MTSWebServices/etl-entities) - Basic ETL Entity classes for onETL
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 
 ### 💼 Stack I'm Working With
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-28389] Improve group member role check](https://github.com/MTSWebServices/syncmaster/pull/375) on [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster)
 - [fix: ArrayField should use ArrayFieldProps](https://github.com/marmelab/react-admin/pull/11261) on [marmelab/react-admin](https://github.com/marmelab/react-admin)
 - [[DOP-36877] Fix cleanup_partitions script](https://github.com/MTSWebServices/data-rentgen/pull/449) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-36596] Introduce Samba.Extra class](https://github.com/MTSWebServices/onetl/pull/489) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 - [[DOP-36596] Introduce FTP.Extra and FTPS.Extra classes](https://github.com/MTSWebServices/onetl/pull/488) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
-- [[DOP-36596] Introduce SFTP.Extra class](https://github.com/MTSWebServices/onetl/pull/487) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [pydantic/httpx2](https://github.com/pydantic/httpx2) - A next generation HTTP client for Python. 🦋
 - [calfonso/rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
 - [ilum-cloud/duck_lineage](https://github.com/ilum-cloud/duck_lineage) - A extension for DuckDB, which captures lineage events for executed queries
 - [vvb2060/Magisk](https://github.com/vvb2060/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [bluuewhale/hash-smith](https://github.com/bluuewhale/hash-smith) - Fast &amp; memory efficient hash tables for Java
-- [schireson/pytest-alembic](https://github.com/schireson/pytest-alembic) - Pytest plugin to test alembic migrations (with default tests) and which enables you to write tests specific to your migrations.
 
 ### 🏆 Github Profile phy
 
