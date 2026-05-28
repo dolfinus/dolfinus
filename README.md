@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
+- [MTSWebServices/hadoop-docker](https://github.com/MTSWebServices/hadoop-docker) - Docker image with Hadoop cluster
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/syncmaster-ui](https://github.com/MTSWebServices/syncmaster-ui) - Frontend for Syncmaster, no-code ETL tool. WIP
 - [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
-- [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
-- [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [gh-92810: Reduce memory usage by ABCMeta.__subclasscheck__ (alternative2)](https://github.com/python/cpython/pull/150540) on [python/cpython](https://github.com/python/cpython)
+- [⚡️ Use `TypeAdapter.validate_json` instead of `json.loads`](https://github.com/fastapi/fastapi/pull/15617) on [fastapi/fastapi](https://github.com/fastapi/fastapi)
 - [[DOP-28389] Improve group member role check](https://github.com/MTSWebServices/syncmaster/pull/375) on [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster)
 - [fix: ArrayField should use ArrayFieldProps](https://github.com/marmelab/react-admin/pull/11261) on [marmelab/react-admin](https://github.com/marmelab/react-admin)
 - [[DOP-36877] Fix cleanup_partitions script](https://github.com/MTSWebServices/data-rentgen/pull/449) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-36596] Introduce Samba.Extra class](https://github.com/MTSWebServices/onetl/pull/489) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
-- [[DOP-36596] Introduce FTP.Extra and FTPS.Extra classes](https://github.com/MTSWebServices/onetl/pull/488) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
