@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [goduni/unihttp](https://github.com/goduni/unihttp) - Modern library for creating declarative API clients.
 - [pydantic/httpx2](https://github.com/pydantic/httpx2) - A next generation HTTP client for Python. 🦋
 - [calfonso/rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
 - [ilum-cloud/duck_lineage](https://github.com/ilum-cloud/duck_lineage) - A extension for DuckDB, which captures lineage events for executed queries
 - [vvb2060/Magisk](https://github.com/vvb2060/Magisk) - A Magic Mask to Alter Android System Systemless-ly
-- [bluuewhale/hash-smith](https://github.com/bluuewhale/hash-smith) - Fast &amp; memory efficient hash tables for Java
 
 ### 🏆 Github Profile phy
 
