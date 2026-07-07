@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-38389] Spark job.name=unknown should be detached from others](https://github.com/MTSWebServices/data-rentgen/pull/480) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-27960] Do not insert dataset symlinks which already exists](https://github.com/MTSWebServices/data-rentgen/pull/479) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-37944] Update job_id in inputs/outputs/column_lineage](https://github.com/MTSWebServices/data-rentgen/pull/475) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-37944] Do not merge different jobs](https://github.com/MTSWebServices/data-rentgen/pull/473) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-37944] Make address.url unique](https://github.com/MTSWebServices/data-rentgen/pull/471) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-37649] Minimal Python version is now 3.10](https://github.com/MTSWebServices/onetl/pull/505) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
-- [gh-92810: Reduce memory usage by ABCMeta.__subclasscheck__ (alternative2)](https://github.com/python/cpython/pull/150540) on [python/cpython](https://github.com/python/cpython)
 
 ### 💻 Stack I'm Currently Learning
 
