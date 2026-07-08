@@ -9,9 +9,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 - [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
-- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
-- [MTSWebServices/etl-entities](https://github.com/MTSWebServices/etl-entities) - Basic ETL Entity classes for onETL
+- [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
+- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Fix Pydantic V1 required field has default=None](https://github.com/pyapp-kit/fieldz/pull/45) on [pyapp-kit/fieldz](https://github.com/pyapp-kit/fieldz)
 - [[DOP-38389] Spark job.name=unknown should be detached from others](https://github.com/MTSWebServices/data-rentgen/pull/480) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-27960] Do not insert dataset symlinks which already exists](https://github.com/MTSWebServices/data-rentgen/pull/479) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-37944] Update job_id in inputs/outputs/column_lineage](https://github.com/MTSWebServices/data-rentgen/pull/475) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-37944] Do not merge different jobs](https://github.com/MTSWebServices/data-rentgen/pull/473) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-37944] Make address.url unique](https://github.com/MTSWebServices/data-rentgen/pull/471) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
