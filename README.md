@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-33859] Fix case-insensitive fetch by name](https://github.com/MTSWebServices/data-rentgen/pull/486) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-33859] Fix case-insensitive fetch for tags](https://github.com/MTSWebServices/data-rentgen/pull/485) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-38805] Add foreign key constraints to partitioned tables](https://github.com/MTSWebServices/data-rentgen/pull/484) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-38805] Ignore datasets with reserved names](https://github.com/MTSWebServices/data-rentgen/pull/483) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [Fix Pydantic V1 required field has default=None](https://github.com/pyapp-kit/fieldz/pull/45) on [pyapp-kit/fieldz](https://github.com/pyapp-kit/fieldz)
-- [[DOP-38389] Spark job.name=unknown should be detached from others](https://github.com/MTSWebServices/data-rentgen/pull/480) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-27960] Do not insert dataset symlinks which already exists](https://github.com/MTSWebServices/data-rentgen/pull/479) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-37944] Update job_id in inputs/outputs/column_lineage](https://github.com/MTSWebServices/data-rentgen/pull/475) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-37944] Do not merge different jobs](https://github.com/MTSWebServices/data-rentgen/pull/473) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
