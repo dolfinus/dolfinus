@@ -8,8 +8,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 
 
 - [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
-- [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
+- [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
 - [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-26806] Improve parent-child job recursive query](https://github.com/MTSWebServices/data-rentgen/pull/492) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-33859] Fix case-insensitive fetch by name](https://github.com/MTSWebServices/data-rentgen/pull/486) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-33859] Fix case-insensitive fetch for tags](https://github.com/MTSWebServices/data-rentgen/pull/485) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-38805] Add foreign key constraints to partitioned tables](https://github.com/MTSWebServices/data-rentgen/pull/484) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-38805] Ignore datasets with reserved names](https://github.com/MTSWebServices/data-rentgen/pull/483) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [Fix Pydantic V1 required field has default=None](https://github.com/pyapp-kit/fieldz/pull/45) on [pyapp-kit/fieldz](https://github.com/pyapp-kit/fieldz)
 
 ### 💻 Stack I'm Currently Learning
 
