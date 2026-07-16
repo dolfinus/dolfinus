@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[DOP-26806] Improve parent-child job recursive query](https://github.com/MTSWebServices/data-rentgen/pull/492) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-33859] Fix case-insensitive fetch by name](https://github.com/MTSWebServices/data-rentgen/pull/486) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-33859] Fix case-insensitive fetch for tags](https://github.com/MTSWebServices/data-rentgen/pull/485) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-38805] Add foreign key constraints to partitioned tables](https://github.com/MTSWebServices/data-rentgen/pull/484) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-38805] Ignore datasets with reserved names](https://github.com/MTSWebServices/data-rentgen/pull/483) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-26646] Remove redundant window over window](https://github.com/MTSWebServices/data-rentgen/pull/500) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-26672] Optimize paginate queries with id filters](https://github.com/MTSWebServices/data-rentgen/pull/499) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-26672] Hint number of rows returned by paginate queries](https://github.com/MTSWebServices/data-rentgen/pull/498) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-26672] Hint number of rows returned by fetch_bulk queries](https://github.com/MTSWebServices/data-rentgen/pull/497) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-26672] Relax filters on GET /v1/operations](https://github.com/MTSWebServices/data-rentgen/pull/496) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
