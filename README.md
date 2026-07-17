@@ -63,7 +63,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
-- [[DOP-26646] Remove redundant window over window](https://github.com/MTSWebServices/data-rentgen/pull/500) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-26646] Reuse the same window clause for IO relations](https://github.com/MTSWebServices/data-rentgen/pull/500) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-26672] Optimize paginate queries with id filters](https://github.com/MTSWebServices/data-rentgen/pull/499) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-26672] Hint number of rows returned by paginate queries](https://github.com/MTSWebServices/data-rentgen/pull/498) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-26672] Hint number of rows returned by fetch_bulk queries](https://github.com/MTSWebServices/data-rentgen/pull/497) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [powersemmi/ruststream](https://github.com/powersemmi/ruststream) - An async messaging framework for Rust
 - [goduni/unihttp](https://github.com/goduni/unihttp) - Modern library for creating declarative API clients.
 - [pydantic/httpx2](https://github.com/pydantic/httpx2) - A next generation HTTP client for Python. 🦋
 - [calfonso/rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
 - [ilum-cloud/duck_lineage](https://github.com/ilum-cloud/duck_lineage) - A extension for DuckDB, which captures lineage events for executed queries
-- [vvb2060/Magisk](https://github.com/vvb2060/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 
 ### 🏆 Github Profile phy
 
