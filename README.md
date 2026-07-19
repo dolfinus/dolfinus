@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-39210] Rewrite LineageService](https://github.com/MTSWebServices/data-rentgen/pull/503) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-26646] Reuse the same window clause for IO relations](https://github.com/MTSWebServices/data-rentgen/pull/500) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-26672] Optimize paginate queries with id filters](https://github.com/MTSWebServices/data-rentgen/pull/499) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-26672] Hint number of rows returned by paginate queries](https://github.com/MTSWebServices/data-rentgen/pull/498) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-26672] Hint number of rows returned by fetch_bulk queries](https://github.com/MTSWebServices/data-rentgen/pull/497) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-26672] Relax filters on GET /v1/operations](https://github.com/MTSWebServices/data-rentgen/pull/496) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
