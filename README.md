@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
-- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
-- [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
-- [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
+- [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
+- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
+- [MTSWebServices/syncmaster-ui](https://github.com/MTSWebServices/syncmaster-ui) - Frontend for Syncmaster, no-code ETL tool. WIP
+- [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Test Spark 4.2 compatibility](https://github.com/MTSWebServices/onetl/pull/522) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 - [[DOP-39210] Rewrite LineageService](https://github.com/MTSWebServices/data-rentgen/pull/503) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-26646] Reuse the same window clause for IO relations](https://github.com/MTSWebServices/data-rentgen/pull/500) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-26672] Optimize paginate queries with id filters](https://github.com/MTSWebServices/data-rentgen/pull/499) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-26672] Hint number of rows returned by paginate queries](https://github.com/MTSWebServices/data-rentgen/pull/498) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-26672] Hint number of rows returned by fetch_bulk queries](https://github.com/MTSWebServices/data-rentgen/pull/497) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 
 ### 💻 Stack I'm Currently Learning
 
