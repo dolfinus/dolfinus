@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MTSWebServices/spark-dialect-extension](https://github.com/MTSWebServices/spark-dialect-extension) - Extend JDBC types support for Apache Spark.
 - [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
-- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
+- [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
+- [MTSWebServices/etl-entities](https://github.com/MTSWebServices/etl-entities) - Basic ETL Entity classes for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-37650] Prepare for etl-entities 3.0](https://github.com/MTSWebServices/onetl/pull/529) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
+- [[DOP-37650] Drop pydantic v1 support](https://github.com/MTSWebServices/etl-entities/pull/187) on [MTSWebServices/etl-entities](https://github.com/MTSWebServices/etl-entities)
 - [Do not modify ConnectionManager headers for each request](https://github.com/marcospereirampj/python-keycloak/pull/724) on [marcospereirampj/python-keycloak](https://github.com/marcospereirampj/python-keycloak)
 - [[DOP-29539] Cache Keycloak certs](https://github.com/MTSWebServices/data-rentgen/pull/512) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [[DOP-39467] Get rid of FastAPI dependency_override](https://github.com/MTSWebServices/data-rentgen/pull/511) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-39448] Sync KeycloakAuthProvider config with SyncMaster](https://github.com/MTSWebServices/data-rentgen/pull/508) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [♻️ Replace list with a set for visited cache](https://github.com/fastapi/fastapi/pull/16087) on [fastapi/fastapi](https://github.com/fastapi/fastapi)
 
 ### 💻 Stack I'm Currently Learning
 
