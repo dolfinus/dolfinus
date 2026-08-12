@@ -11,7 +11,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 - [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
-- [MTSWebServices/etl-entities](https://github.com/MTSWebServices/etl-entities) - Basic ETL Entity classes for onETL
+- [MTSWebServices/horizon-hwm-store](https://github.com/MTSWebServices/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-39630] Hide secrets from settings repr](https://github.com/MTSWebServices/syncmaster/pull/413) on [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster)
+- [[DOP-39630] Hide secrets while logging settings value](https://github.com/MTSWebServices/data-rentgen/pull/516) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
+- [[DOP-37650] Drop pydantic 1.x support](https://github.com/MTSWebServices/horizon-hwm-store/pull/122) on [MTSWebServices/horizon-hwm-store](https://github.com/MTSWebServices/horizon-hwm-store)
+- [[DOP-37650] Drop pydantic.v1 imports](https://github.com/MTSWebServices/onetl/pull/537) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 - [[DOP-39630] Change LoggingSettings position and structure](https://github.com/MTSWebServices/horizon/pull/227) on [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon)
-- [[DOP-37650] Drop pydantic 1.x support](https://github.com/MTSWebServices/onetl/pull/531) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
-- [[DOP-37650] Prepare for etl-entities 3.0](https://github.com/MTSWebServices/onetl/pull/529) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
-- [[DOP-37650] Drop pydantic v1 support](https://github.com/MTSWebServices/etl-entities/pull/187) on [MTSWebServices/etl-entities](https://github.com/MTSWebServices/etl-entities)
-- [Do not modify ConnectionManager headers for each request](https://github.com/marcospereirampj/python-keycloak/pull/724) on [marcospereirampj/python-keycloak](https://github.com/marcospereirampj/python-keycloak)
 
 ### 💻 Stack I'm Currently Learning
 
