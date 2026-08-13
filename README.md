@@ -7,10 +7,10 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
-- [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 - [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
+- [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
+- [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/horizon-hwm-store](https://github.com/MTSWebServices/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [[DOP-8019] Improve Kafka.KerberosAuth](https://github.com/MTSWebServices/onetl/pull/541) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
+- [[DOP-6708] Make SparkHDFS(cluster=...) parameter optional](https://github.com/MTSWebServices/onetl/pull/540) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
+- [[DOP-3146] Make Kafka(cluster=...) optional](https://github.com/MTSWebServices/onetl/pull/539) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 - [[DOP-39630] Hide secrets from settings repr](https://github.com/MTSWebServices/syncmaster/pull/413) on [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster)
 - [[DOP-39630] Hide secrets while logging settings value](https://github.com/MTSWebServices/data-rentgen/pull/516) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [[DOP-37650] Drop pydantic 1.x support](https://github.com/MTSWebServices/horizon-hwm-store/pull/122) on [MTSWebServices/horizon-hwm-store](https://github.com/MTSWebServices/horizon-hwm-store)
-- [[DOP-37650] Drop pydantic.v1 imports](https://github.com/MTSWebServices/onetl/pull/537) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
-- [[DOP-39630] Change LoggingSettings position and structure](https://github.com/MTSWebServices/horizon/pull/227) on [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon)
 
 ### 💻 Stack I'm Currently Learning
 
