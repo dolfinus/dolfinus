@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [Kludex/zuvloop](https://github.com/Kludex/zuvloop) - A libuv event loop for asyncio, written in Zig.
+- [datafusion-contrib/datafusion-openlineage](https://github.com/datafusion-contrib/datafusion-openlineage) - DataFusion OpenLineage integration
 - [powersemmi/ruststream](https://github.com/powersemmi/ruststream) - An async messaging framework for Rust
 - [goduni/unihttp](https://github.com/goduni/unihttp) - Modern library for creating declarative API clients.
 - [pydantic/httpx2](https://github.com/pydantic/httpx2) - A next generation HTTP client for Python. 🦋
-- [calfonso/rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
-- [ilum-cloud/duck_lineage](https://github.com/ilum-cloud/duck_lineage) - A extension for DuckDB, which captures lineage events for executed queries
 
 ### 🏆 Github Profile phy
 
