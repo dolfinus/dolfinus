@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
-- [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
 - [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Python: Use httpx2 instead of httpx](https://github.com/OpenLineage/OpenLineage/pull/4902) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-39722] Add YAMLHWMStore(keep_history=True) flag](https://github.com/MTSWebServices/onetl/pull/542) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 - [[DOP-8019] Improve Kafka.KerberosAuth](https://github.com/MTSWebServices/onetl/pull/541) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 - [[DOP-6708] Make SparkHDFS(cluster=...) parameter optional](https://github.com/MTSWebServices/onetl/pull/540) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 - [[DOP-3146] Make Kafka(cluster=...) optional](https://github.com/MTSWebServices/onetl/pull/539) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
-- [[DOP-39630] Hide secrets from settings repr](https://github.com/MTSWebServices/syncmaster/pull/413) on [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [sidequery/dlt-openlineage](https://github.com/sidequery/dlt-openlineage) - OpenLineage integration for dlt (data load tool)
 - [Kludex/zuvloop](https://github.com/Kludex/zuvloop) - A libuv event loop for asyncio, written in Zig.
 - [datafusion-contrib/datafusion-openlineage](https://github.com/datafusion-contrib/datafusion-openlineage) - DataFusion OpenLineage integration
 - [powersemmi/ruststream](https://github.com/powersemmi/ruststream) - An async messaging framework for Rust
 - [goduni/unihttp](https://github.com/goduni/unihttp) - Modern library for creating declarative API clients.
-- [pydantic/httpx2](https://github.com/pydantic/httpx2) - A next generation HTTP client for Python. 🦋
 
 ### 🏆 Github Profile phy
 
