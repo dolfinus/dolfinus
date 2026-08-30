@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [RustedBytes/rsloop](https://github.com/RustedBytes/rsloop) - An event loop for asyncio written in Rust
 - [sidequery/dlt-openlineage](https://github.com/sidequery/dlt-openlineage) - OpenLineage integration for dlt (data load tool)
 - [Kludex/zuvloop](https://github.com/Kludex/zuvloop) - A libuv event loop for asyncio, written in Zig.
 - [datafusion-contrib/datafusion-openlineage](https://github.com/datafusion-contrib/datafusion-openlineage) - DataFusion OpenLineage integration
 - [powersemmi/ruststream](https://github.com/powersemmi/ruststream) - An async messaging framework for Rust
-- [goduni/unihttp](https://github.com/goduni/unihttp) - Modern library for creating declarative API clients.
 
 ### 🏆 Github Profile phy
 
