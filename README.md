@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Avoid unnecessary toString() calls in useBulkCopyForBatchInsert](https://github.com/microsoft/mssql-jdbc/pull/3052) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 - [Avoid calling Pattern.compile for single quote escape](https://github.com/microsoft/mssql-jdbc/pull/3049) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 - [Avoid generating new CityHash128Key if connection pooling disabled](https://github.com/microsoft/mssql-jdbc/pull/3048) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 - [Python: Use httpx2 instead of httpx](https://github.com/OpenLineage/OpenLineage/pull/4902) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 - [[DOP-39722] Add YAMLHWMStore(keep_history=True) flag](https://github.com/MTSWebServices/onetl/pull/542) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
-- [[DOP-8019] Improve Kafka.KerberosAuth](https://github.com/MTSWebServices/onetl/pull/541) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 
 ### 💻 Stack I'm Currently Learning
 
