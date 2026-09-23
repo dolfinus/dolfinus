@@ -7,8 +7,8 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
-- [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
+- [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
 - [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
 - [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Reduce number of allocations in rewriteBatchedStatements&#43;useServerPrepStmts](https://github.com/mysql/mysql-connector-j/pull/132) on [mysql/mysql-connector-j](https://github.com/mysql/mysql-connector-j)
 - [Reuse GregorianCalendar instances](https://github.com/microsoft/mssql-jdbc/pull/3056) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 - [Avoid unnecessary toString() calls in useBulkCopyForBatchInsert](https://github.com/microsoft/mssql-jdbc/pull/3052) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 - [Avoid calling Pattern.compile for single quote escape](https://github.com/microsoft/mssql-jdbc/pull/3049) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 - [Avoid generating new CityHash128Key if connection pooling disabled](https://github.com/microsoft/mssql-jdbc/pull/3048) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
-- [Python: Use httpx2 instead of httpx](https://github.com/OpenLineage/OpenLineage/pull/4902) on [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage)
 
 ### 💻 Stack I'm Currently Learning
 
