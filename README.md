@@ -7,11 +7,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - Asynchronous Python framework for event-driven services. A thin client for Kafka, RabbitMQ, NATS, Redis and MQTT with full access to native broker features, plus AsyncAPI docs, in-memory tests and observability out of the box.
+- [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
-- [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
 - [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
-- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
-- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- [MTSWebServices/horizon-hwm-store](https://github.com/MTSWebServices/horizon-hwm-store) - Horizon HWM Store for onETL
 
 ### 💼 Stack I'm Working With
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Add MWS to ADOPTERS.md](https://github.com/ag2ai/faststream/pull/3248) on [ag2ai/faststream](https://github.com/ag2ai/faststream)
 - [Reduce number of allocations in rewriteBatchedStatements&#43;useServerPrepStmts](https://github.com/mysql/mysql-connector-j/pull/132) on [mysql/mysql-connector-j](https://github.com/mysql/mysql-connector-j)
 - [Reuse GregorianCalendar instances](https://github.com/microsoft/mssql-jdbc/pull/3056) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 - [Avoid unnecessary toString() calls in useBulkCopyForBatchInsert](https://github.com/microsoft/mssql-jdbc/pull/3052) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 - [Avoid calling Pattern.compile for single quote escape](https://github.com/microsoft/mssql-jdbc/pull/3049) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
-- [Avoid generating new CityHash128Key if connection pooling disabled](https://github.com/microsoft/mssql-jdbc/pull/3048) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 
 ### 💻 Stack I'm Currently Learning
 
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [scikit-build/dynamic-metadata](https://github.com/scikit-build/dynamic-metadata) - This project documents dynamic metadata support 
 - [wrandelshofer/FastDoubleParser](https://github.com/wrandelshofer/FastDoubleParser) - A Java port of Daniel Lemire&#39;s fast_float project
 - [RustedBytes/rsloop](https://github.com/RustedBytes/rsloop) - An event loop for asyncio written in Rust
 - [sidequery/dlt-openlineage](https://github.com/sidequery/dlt-openlineage) - OpenLineage integration for dlt (data load tool)
 - [Kludex/zuvloop](https://github.com/Kludex/zuvloop) - A libuv event loop for asyncio, written in Zig.
-- [datafusion-contrib/datafusion-openlineage](https://github.com/datafusion-contrib/datafusion-openlineage) - DataFusion OpenLineage integration
 
 ### 🏆 Github Profile phy
 
