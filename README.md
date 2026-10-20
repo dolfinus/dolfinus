@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [odnoklassniki/one-nio](https://github.com/odnoklassniki/one-nio) - Unconventional I/O library for Java
 - [scikit-build/dynamic-metadata](https://github.com/scikit-build/dynamic-metadata) - This project documents dynamic metadata support 
 - [wrandelshofer/FastDoubleParser](https://github.com/wrandelshofer/FastDoubleParser) - A Java port of Daniel Lemire&#39;s fast_float project
 - [RustedBytes/rsloop](https://github.com/RustedBytes/rsloop) - An event loop for asyncio written in Rust
 - [sidequery/dlt-openlineage](https://github.com/sidequery/dlt-openlineage) - OpenLineage integration for dlt (data load tool)
-- [Kludex/zuvloop](https://github.com/Kludex/zuvloop) - A libuv event loop for asyncio, written in Zig.
 
 ### 🏆 Github Profile phy
 
