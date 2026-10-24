@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Reduce number of allocations in rewriteBatchedStatements&#43;useServerPrepStmts](https://github.com/mysql/mysql-connector-j/pull/133) on [mysql/mysql-connector-j](https://github.com/mysql/mysql-connector-j)
 - [Update SQLAlchemy to 2.1.x](https://github.com/MTSWebServices/data-rentgen/pull/539) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
 - [Add MWS to ADOPTERS.md](https://github.com/ag2ai/faststream/pull/3248) on [ag2ai/faststream](https://github.com/ag2ai/faststream)
 - [Reduce number of allocations in rewriteBatchedStatements&#43;useServerPrepStmts](https://github.com/mysql/mysql-connector-j/pull/132) on [mysql/mysql-connector-j](https://github.com/mysql/mysql-connector-j)
 - [Reuse GregorianCalendar instances](https://github.com/microsoft/mssql-jdbc/pull/3056) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
-- [Avoid unnecessary toString() calls in useBulkCopyForBatchInsert](https://github.com/microsoft/mssql-jdbc/pull/3052) on [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 
 ### 💻 Stack I'm Currently Learning
 
