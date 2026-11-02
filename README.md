@@ -10,7 +10,7 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 - [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
 - [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
-- [MTSWebServices/data-rentgen-ui](https://github.com/MTSWebServices/data-rentgen-ui) - Frontend for DataRentgen
+- [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
 - [MTSWebServices/syncmaster-ui](https://github.com/MTSWebServices/syncmaster-ui) - Frontend for Syncmaster, no-code ETL tool. WIP
 
 ### 💼 Stack I'm Working With
@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [xfenix/slidemachina](https://github.com/xfenix/slidemachina) - Presentations in React: slides in one index.tsx, morphing, diagrams and 3D. Builds an HTML file, a website, PDF or PowerPoint
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [odnoklassniki/one-nio](https://github.com/odnoklassniki/one-nio) - Unconventional I/O library for Java
 - [scikit-build/dynamic-metadata](https://github.com/scikit-build/dynamic-metadata) - This project documents dynamic metadata support 
 - [wrandelshofer/FastDoubleParser](https://github.com/wrandelshofer/FastDoubleParser) - A Java port of Daniel Lemire&#39;s fast_float project
-- [RustedBytes/rsloop](https://github.com/RustedBytes/rsloop) - An event loop for asyncio written in Rust
 
 ### 🏆 Github Profile phy
 
