@@ -7,9 +7,9 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 👷 Currently Working On
 
 
+- [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 - [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen) - NextGen DataMotion Lineage
 - [MTSWebServices/syncmaster](https://github.com/MTSWebServices/syncmaster) - No-code ETL tool, based on onETL &#43; PySpark
-- [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl) - One ETL tool to rule them all
 - [MTSWebServices/horizon](https://github.com/MTSWebServices/horizon) - Simple HWM Store backend
 - [MTSWebServices/syncmaster-ui](https://github.com/MTSWebServices/syncmaster-ui) - Frontend for Syncmaster, no-code ETL tool. WIP
 
@@ -63,11 +63,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### 🔨 My Recent Pull Requests
 
 
+- [Test Java 27 compatibility](https://github.com/MTSWebServices/onetl/pull/575) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
+- [Test Python 3.15 compatibility](https://github.com/MTSWebServices/onetl/pull/574) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
+- [Test Spark 4.3 compatibility](https://github.com/MTSWebServices/onetl/pull/573) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
+- [Test MongoDB 9.x compatibility](https://github.com/MTSWebServices/onetl/pull/572) on [MTSWebServices/onetl](https://github.com/MTSWebServices/onetl)
 - [Test Python 3.15](https://github.com/MTSWebServices/data-rentgen/pull/543) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [Reduce number of allocations in rewriteBatchedStatements&#43;useServerPrepStmts](https://github.com/mysql/mysql-connector-j/pull/133) on [mysql/mysql-connector-j](https://github.com/mysql/mysql-connector-j)
-- [Update SQLAlchemy to 2.1.x](https://github.com/MTSWebServices/data-rentgen/pull/539) on [MTSWebServices/data-rentgen](https://github.com/MTSWebServices/data-rentgen)
-- [Add MWS to ADOPTERS.md](https://github.com/ag2ai/faststream/pull/3248) on [ag2ai/faststream](https://github.com/ag2ai/faststream)
-- [Reduce number of allocations in rewriteBatchedStatements&#43;useServerPrepStmts](https://github.com/mysql/mysql-connector-j/pull/132) on [mysql/mysql-connector-j](https://github.com/mysql/mysql-connector-j)
 
 ### 💻 Stack I'm Currently Learning
 
