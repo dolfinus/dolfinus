@@ -92,11 +92,11 @@ I'm also into Chemistry, Physics and Astronomy, and want to learn more about how
 ### ⭐ Recent Stars
 
 
+- [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - [Lancetnik/dashulya](https://github.com/Lancetnik/dashulya) - A Telegram assistant with memory and a sense of humor, built with aiogram and AG2.
 - [xfenix/slidemachina](https://github.com/xfenix/slidemachina) - Presentations in React: slides in one index.tsx, morphing, diagrams and 3D. Builds an HTML file, a website, PDF or PowerPoint
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [odnoklassniki/one-nio](https://github.com/odnoklassniki/one-nio) - Unconventional I/O library for Java
-- [scikit-build/dynamic-metadata](https://github.com/scikit-build/dynamic-metadata) - This project documents dynamic metadata support 
 
 ### 🏆 Github Profile phy
 
